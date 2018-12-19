@@ -4,6 +4,6 @@
 
 # User Guidance
 
-[I'm an inline-style link](https://www.google.com)
+Have trouble uploading your visualization on CGDV? Please see the [user guidance](https://cgdv.github.io/userGuidance/) for uploading visualization. 
 
 # Current Archive
