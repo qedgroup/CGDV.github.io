@@ -1,1 +1,1 @@
-# CGDV.github.io
+# Center for Global Data Visualization
