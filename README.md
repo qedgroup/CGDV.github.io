@@ -4,4 +4,6 @@
 
 # User Guidance
 
+[I'm an inline-style link](https://www.google.com)
+
 # Current Archive
