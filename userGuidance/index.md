@@ -1,16 +1,25 @@
 # User Guidance (How to upload visual to CGDV?)
 
-## Static graph and .gif
+Your can upload you visual vis My Visuals on CGDV. Method to upload different type of viusal file may vary. Please find your file type below. 
 
-## Visual built with visualization platform
+- Static graph and .gif
 
-### Tableau
+Upload your visual via Choose File button under picture.
 
-### Plotly
+- Visual built with visualization platform
 
-### Flourish
+..* Tableau
 
-### Other
+..1 test
 
-## Customized visualization
+..* Plotly
 
+..1 test
+
+..* Flourish
+
+- Customized visualization
+
+# Having Problem to upload?
+
+Please contact us with your issue, we will response ASAP.
