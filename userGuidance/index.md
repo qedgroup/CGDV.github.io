@@ -10,7 +10,13 @@ Upload your visual via Choose File button under picture.
 
 * Tableau
 
-... test
+Publish your visual to Tableau public. Find the share button ![](img/tableau_share.png) under your visual. 
+
+Find the embed code. 
+
+![](img/tableau_embed.png)
+
+Copy and paste embded code into embed code box on CDGV.
 
 * Plotly
 
