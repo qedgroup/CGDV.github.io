@@ -2,9 +2,13 @@
 
 Your can upload you visual vis My Visuals on CGDV. Method to upload different type of viusal file may vary. Please find your file type below. 
 
-### Static graph and .gif
+## Static graph and .gif
 
 Upload your visual via Choose File button under picture.
+
+## Non static graph
+
+Please upload a screenshot of your visual via Choose File button under picture as profile picture of the visual.
 
 ### Visual built with visualization platform
 
