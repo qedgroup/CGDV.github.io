@@ -20,11 +20,11 @@ Copy and paste embded code into embed code box on CDGV.
 
 * Plotly
 
-Find the share button ![](img/plotly_share.png| width= 100) in your Plotly visual. 
+Find the share button ![](img/plotly_share.png){:height = "100px"} in your Plotly visual. 
 
 Find the iframe embed code. 
 
-![](img/plotly_embed.png| width= 400)
+![](img/plotly_embed.png){:height = "400px"}
 
 Copy and paste embded code into embed code box on CDGV.
 
@@ -32,11 +32,11 @@ Copy and paste embded code into embed code box on CDGV.
 
 Publish your Flourish visual. 
 
-![](img/flourish_share.png| width= 400)
+![](img/flourish_share.png){:height = "400px"}
 
 Under "More options", find the iframe embed code. 
 
-![](img/flourish_embed.png| width= 400)
+![](img/flourish_embed.png){:height = "400px"}
 
 Copy and paste embded code into embed code box on CDGV.
 
