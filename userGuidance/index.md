@@ -10,21 +10,21 @@ Upload your visual via Choose File button under picture.
 
 * Tableau
 
-Publish your visual to Tableau public. Find the share button ![](img/tableau_share.png) under your visual. 
+Publish your visual to Tableau public. Find the share button ![](img/tableau_share.png | width= 100) under your visual. 
 
 Find the embed code. 
 
-![](img/tableau_embed.png)
+![](img/tableau_embed.png| width= 400)
 
 Copy and paste embded code into embed code box on CDGV.
 
 * Plotly
 
-Find the share button ![](img/plotly_share.png) in your Plotly visual. 
+Find the share button ![](img/plotly_share.png| width= 100) in your Plotly visual. 
 
 Find the iframe embed code. 
 
-![](img/plotly_embed.png)
+![](img/plotly_embed.png| width= 400)
 
 Copy and paste embded code into embed code box on CDGV.
 
@@ -32,11 +32,11 @@ Copy and paste embded code into embed code box on CDGV.
 
 Publish your Flourish visual. 
 
-![](img/flourish_share.png)
+![](img/flourish_share.png| width= 400)
 
 Under "More options", find the iframe embed code. 
 
-![](img/flourish_embed.png)
+![](img/flourish_embed.png| width= 400)
 
 Copy and paste embded code into embed code box on CDGV.
 
