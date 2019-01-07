@@ -24,10 +24,12 @@ CGDV promotes open data for public good. We recommended following data sources f
 
 * [AfDB Statistical Data Portal](http://dataportal.opendataforafrica.org/): Africa information highway by African Development Bank Group.
 
-* [PLISA](http://www.paho.org/data/index.php/en/) Health Information Platform for the Americans.
+* [PLISA](http://www.paho.org/data/index.php/en/): Health Information Platform for the Americans.
 
 * [ACLED](https://www.acleddata.com/): The Armed Conflict Location & Event Data Project (ACLED) is a disaggregated conflict analysis and crisis mapping project.
 
 * [Intact Forest Landscapes](http://www.intactforests.org/data.ifl.html): A spatial database that shows the extent of the intact forest landscapes.
+
+* [GADM](https://gadm.org/): GADM provides maps and spatial data for all countries and their sub-divisions.
 
 * [GDELT](https://www.gdeltproject.org/data.html): The GDELT Project is the largest, most comprehensive, and highest resolution open database of human society ever created.
