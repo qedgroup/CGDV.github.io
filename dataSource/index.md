@@ -1,10 +1,12 @@
 # CGDV Recommended Data Source
 
-CGDV promotes open data for public good. We recommended following data sources for researching and creating data visualization. Please let us know if there is more to be added on the list.file may vary. Please find your file type below. 
+CGDV promotes open data for public good. We recommended following data sources for researching and creating data visualization. Please let us know if there is more to be added on the list.
 
 * [Development Data Library (DDL)](https://data.usaid.gov/): Your gateway to USAID-funded, machine-readable data.
 
 * [PEPFAR](https://data.pepfar.gov/): Program results achieved through PEPFAR support.
+
+* [UNSD](https://unstats.un.org/home/): United Nations Statistics Division
 
 * [World Bank Open data](https://data.worldbank.org/): Free and open access to global development data.
 
@@ -21,6 +23,8 @@ CGDV promotes open data for public good. We recommended following data sources f
 * [UNAIDS AIDSinfo](http://aidsinfo.unaids.org/): Data about HIV prevention, treatment, care and support. 
 
 * [AfDB Statistical Data Portal](http://dataportal.opendataforafrica.org/): Africa information highway by African Development Bank Group.
+
+* [PLISA](http://www.paho.org/data/index.php/en/) Health Information Platform for the Americans.
 
 * [ACLED](https://www.acleddata.com/): The Armed Conflict Location & Event Data Project (ACLED) is a disaggregated conflict analysis and crisis mapping project.
 
