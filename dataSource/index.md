@@ -32,6 +32,8 @@ CGDV promotes open data for public good. We recommended following data sources f
 
 * [ACLED](https://www.acleddata.com/): The Armed Conflict Location & Event Data Project (ACLED) is a disaggregated conflict analysis and crisis mapping project.
 
+* [International Labour Organization(ILO)](https://www.ilo.org/global/statistics-and-databases/lang--en/index.htm): The world's leading source on labour statistics.
+
 * [Intact Forest Landscapes](http://www.intactforests.org/data.ifl.html): A spatial database that shows the extent of the intact forest landscapes.
 
 * [GADM](https://gadm.org/): GADM provides maps and spatial data for all countries and their sub-divisions.
