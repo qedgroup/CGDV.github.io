@@ -1,0 +1,59 @@
+$primary-color: #c0c2cd;
+
+body {
+  background: $primary-color;
+  color: #000;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+img {
+    display: flex;
+    align-items: center;
+    float: left;
+    width: 20%;
+    padding: 2% 6.66%;
+  }
+
+
+#timeMap {
+  display: flex;
+  align-items: center;
+  float: left;
+  width: 56%;
+  height: 100%;
+  padding: 2%;
+}
+
+#heatMap {
+  display: flex;
+  align-items: center;
+  float: left;
+  width: 36%;
+  height: 100%;
+  padding: 2%;
+}
+
+a {
+  color: #fff;
+}
+
+h1 {
+    text-align: center;
+    font-size: 250%;
+  }
+
+h3 {
+  text-align: center;
+  font-size: 150%;
+}
+
+p {
+    font-size: 120%;
+    padding: 0 5%;
+  }
+
+ul{
+    padding: 0 5%;
+
+}
