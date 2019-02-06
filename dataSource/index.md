@@ -24,6 +24,8 @@ CGDV promotes open data for public good. We recommended following data sources f
 
 * [UNAIDS AIDSinfo](http://aidsinfo.unaids.org/): Data about HIV prevention, treatment, care and support. 
 
+* [UNHCR](https://www.unhcr.org/en-us/data.html): The UN Refugee Agency
+
 * [AfDB Statistical Data Portal](http://dataportal.opendataforafrica.org/): Africa information highway by African Development Bank Group.
 
 * [PLISA](http://www.paho.org/data/index.php/en/): Health Information Platform for the Americans.
