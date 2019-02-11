@@ -1,0 +1,23 @@
+body {
+  background: #5b92e5;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 1000px;
+  font-size: 20px; }
+
+#video {
+  float: left;
+  padding: 10px;
+  margin: 10px 0px; }
+
+h1 {
+  text-align: center; }
+
+p {
+  margin: 10px;
+  font-size: 18px; }
+
+#footnote {
+  font-size: 15px;
+  margin: 0px;
+  text-align: end; }
