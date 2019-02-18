@@ -1,6 +1,6 @@
-# CGDV Recommended Data Source
+# CGDV Recommended Data Sources
 
-CGDV promotes open data for public good. We recommended following data sources for researching and creating data visualization. Please let us know if there is more to be added on the list.
+CGDV promotes open data for public good. We recommended the following data sources for researching and creating data visualizations. Please let us know if there is more to be added to the list.
 
 * [Development Data Library (DDL)](https://data.usaid.gov/): Your gateway to USAID-funded, machine-readable data.
 
