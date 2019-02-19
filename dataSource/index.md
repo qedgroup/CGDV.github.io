@@ -6,6 +6,14 @@ CGDV promotes open data for public good. We recommended the following data sourc
 
 * [PEPFAR](https://data.pepfar.gov/): Program results achieved through PEPFAR support.
 
+* [CDC](https://data.cdc.gov/): Centers for Disease Control and Prevention.
+
+* [FOREIGN ASSISTANCE](https://foreignassistance.gov/): How the U.S. government invests in countries around the world.
+
+* [DHS](https://dhsprogram.com/Data/): The DHS Program: Demographic and Health Surveys.
+
+* [DATA.GOV](https://www.data.gov/): The home of the U.S. Government’s open data.
+
 * [UNSD](https://unstats.un.org/home/): United Nations Statistics Division
 
 * [World Bank Open data](https://data.worldbank.org/): Free and open access to global development data.
@@ -41,3 +49,5 @@ CGDV promotes open data for public good. We recommended the following data sourc
 * [GADM](https://gadm.org/): GADM provides maps and spatial data for all countries and their sub-divisions.
 
 * [GDELT](https://www.gdeltproject.org/data.html): The GDELT Project is the largest, most comprehensive, and highest resolution open database of human society ever created.
+
+* [IHME](http://www.healthdata.org/): Institute for Health Metrics and Evaluation.
