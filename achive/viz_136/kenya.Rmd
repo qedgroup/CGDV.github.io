@@ -1,0 +1,63 @@
+---
+title: "Kenya Machinery"
+author: "Jiahao Xu"
+date: "11/15/2018"
+output: html_document
+---
+
+```{r}
+require(dygraphs)
+```
+
+```{r}
+Ex.mach = ts(data = c(1770.0, 2262.5, 1189.2, 2343.4,
+                      3026.7, 3944, 3255, 1744, 
+                      1825.4, 1263.1, 1247.5, 1524.6,
+                      1581.9, 1301.2, 1202.0),
+             start = c(2015, 1), 
+             end = c(2018, 3),
+             deltat = 3/12)
+Ex.part = ts(data = c(283.1, 479.7, 379.8, 814.5,
+                      174.2, 442.2, 262.4, 540,
+                      292.8, 272.6, 186.3, 473.5,
+                      332.9, 344.7, 326.4),
+             start = c(2015, 1), 
+             end = c(2018, 3),
+             deltat = 3/12)
+
+In.mach = ts(data = c(56436.5, 65264.0, 69387.9, 51083.9,
+                      55449.1, 65119.2, 67725.9, 62934, 
+                      71953.7, 69066.1, 65437.6, 53724.5,
+                      51135.5, 63146.5, 58006.2),
+             start = c(2015, 1), 
+             end = c(2018, 3),
+             deltat = 3/12)
+In.part = ts(data = c(10170.8, 12611.9, 11771.2, 10818.3,
+                      12687.2, 17162.9, 15474.1, 15563,
+                      14457.0, 12366.1, 12603.1, 11164.4,
+                      13607.8, 12666.3, 12545.4),
+             start = c(2015, 1), 
+             end = c(2018, 3),
+             deltat = 3/12)
+
+```
+
+
+```{r}
+mach_part <- cbind(Ex.mach, Ex.part,In.mach,In.part)
+dyg = dygraph(mach_part, main = "Kenya’s Import/Export Machinery&Parts Amount 2015-2018")%>% 
+  dySeries("Ex.mach", label = "Export Machinery", strokeWidth = 3, drawPoints = TRUE) %>%
+  dySeries("Ex.part", label = "Export Parts", strokeWidth = 3) %>%
+  dySeries("In.mach", label = "Import Machinery", strokeWidth = 3) %>%
+  dySeries("In.part", label = "Import Parts", strokeWidth = 3) %>% 
+  dyOptions(colors = RColorBrewer::brewer.pal(4, "Set2")) %>%
+  dyOptions(stepPlot = TRUE) %>%
+  dyAxis("y", label = "Million KES(Kenyan Shilling)") %>%
+  dyRangeSelector()
+```
+
+```{r}
+library(htmlwidgets)
+saveWidget(dyg, "Kenya_Machinery_Parts.html")
+```
+
