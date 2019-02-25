@@ -42,6 +42,8 @@ CGDV promotes open data for public good. We recommended the following data sourc
 
 * [ACLED](https://www.acleddata.com/): The Armed Conflict Location & Event Data Project (ACLED) is a disaggregated conflict analysis and crisis mapping project.
 
+* [International Futures (IFs) model](https://pardee.du.edu/access-ifs): Pardee Center for International Futures is the home of International Futures model and a hub of long-term forecasting and global trend analysis.
+
 * [International Labour Organization(ILO)](https://www.ilo.org/global/statistics-and-databases/lang--en/index.htm): The world's leading source on labour statistics.
 
 * [Intact Forest Landscapes](http://www.intactforests.org/data.ifl.html): A spatial database that shows the extent of the intact forest landscapes.
