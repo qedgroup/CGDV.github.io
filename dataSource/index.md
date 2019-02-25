@@ -4,6 +4,10 @@ CGDV promotes open data for public good. We recommended the following data sourc
 
 * [Development Data Library (DDL)](https://data.usaid.gov/): Your gateway to USAID-funded, machine-readable data.
 
+* [IDEA](https://idea.usaid.gov/): International Data & Economic Analysis by USAID.
+
+* [DEC](https://dec.usaid.gov/dec/home/Default.aspx): Development Experience Clearinghouse by USAID.
+
 * [PEPFAR](https://data.pepfar.gov/): Program results achieved through PEPFAR support.
 
 * [CDC](https://data.cdc.gov/): Centers for Disease Control and Prevention.
