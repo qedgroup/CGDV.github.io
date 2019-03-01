@@ -1,0 +1,146 @@
+body {
+  min-width: 1200px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+  background-color: rgba(171, 203, 119, 0.5); }
+
+.calendar {
+  width: 1200px;
+  height: auto;
+  box-sizing: border-box;
+  border-style: double; }
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 60px; }
+
+#leftArrow {
+  height: 100px;
+  transform: rotate(180deg);
+  border: 0; }
+
+#rightArrow {
+  height: 100px; }
+
+.date {
+  padding: 20px;
+  display: grid;
+  grid-template-columns: 200px repeat(7, 120px);
+  grid-gap: 10px;
+  box-sizing: border-box; }
+
+.day {
+  font-weight: 700;
+  font-size: 20px; }
+
+.day#weekly {
+  font-size: 30px; }
+
+.number {
+  font-size: 100px;
+  font-weight: 700;
+  color: rgba(70, 66, 66, 0.6);
+  background-size: 120px 115px; }
+
+.otherMonth {
+  color: rgba(70, 66, 66, 0.3); }
+
+.number:hover {
+  color: #464242; }
+
+.weeklyTopic {
+  font-weight: 700;
+  font-size: 30px;
+  padding: 30px 0; }
+
+.twoLines {
+  font-weight: 700;
+  font-size: 30px;
+  padding: 20px 0; }
+
+a {
+  color: inherit;
+  text-decoration: inherit; }
+
+#v0225 {
+  background-image: url(../img/0225.png); }
+
+#v0226 {
+  background-image: url(../img/0226.png); }
+
+#v0227 {
+  background-image: url(../img/0227.png); }
+
+#v0228 {
+  background-image: url(../img/0228.png); }
+
+#v0301 {
+  background-image: url(../img/0301.png); }
+
+#v0304 {
+  background-image: url(../img/0304.png); }
+
+#v0305 {
+  background-image: url(../img/0305.png); }
+
+#v0306 {
+  background-image: url(../img/0306.png); }
+
+#v0307 {
+  background-image: url(../img/0307.png); }
+
+#v0308 {
+  background-image: url(../img/0308.png); }
+
+#v0311 {
+  background-image: url(../img/0311.png); }
+
+#v0312 {
+  background-image: url(../img/0312.png); }
+
+#v0313 {
+  background-image: url(../img/0313.png); }
+
+#v0314 {
+  background-image: url(../img/0314.png); }
+
+#v0315 {
+  background-image: url(../img/0315.png); }
+
+#v0318 {
+  background-image: url(../img/0318.png); }
+
+#v0319 {
+  background-image: url(../img/0319.png); }
+
+#v0320 {
+  background-image: url(../img/0320.png); }
+
+#v0321 {
+  background-image: url(../img/0321.png); }
+
+#v0322 {
+  background-image: url(../img/0322.png); }
+
+#v0325 {
+  background-image: url(../img/0325.png); }
+
+#v0326 {
+  background-image: url(../img/0326.png); }
+
+#v0327 {
+  background-image: url(../img/0327.png); }
+
+#v0328 {
+  background-image: url(../img/0328.png); }
+
+#v0329 {
+  background-image: url(../img/0329.png); }
