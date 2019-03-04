@@ -2,7 +2,7 @@
 
 # Open Challenge
 
-* [Drinking Water Quality in Ethiopia](/Drinking-Water-Quality-in-Ethiopia/): Visualize a report by the Central Statistical Agency of Ethiopia
+* [Drinking Water Quality in Ethiopia](./challenges/Drinking-Water-Quality-in-Ethiopia/): Visualize a report by the Central Statistical Agency of Ethiopia
 [Apr-5-2019 6:00 PM - 8:00 PM]
 
 # How to Participate?

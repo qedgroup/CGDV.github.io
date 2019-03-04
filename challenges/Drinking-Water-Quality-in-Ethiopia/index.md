@@ -19,5 +19,3 @@ Have trouble uploading your visualization on CGDV? Please see the [user guidance
 * 2nd Place: $xxx
 
 * 3rd Place: $xxx
-
-# Past Challenge
