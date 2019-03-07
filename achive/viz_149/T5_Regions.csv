@@ -1,0 +1,177 @@
+Water Source,Region,Percent,Show_Region
+Piped water into dwelling,Tigray,,Tigray
+Piped water into yard or plot,Tigray,20.8,Tigray
+"Piped water, public tap or standpipe",Tigray,5.5,Tigray
+Piped water kiosk or retailer,Tigray,,Tigray
+Tube well or borehole,Tigray,29.2,Tigray
+Protected dug well,Tigray,6.9,Tigray
+Protected spring,Tigray,,Tigray
+Rain water,Tigray,,Tigray
+Bottled water,Tigray,,Tigray
+Tanker truck or cart with small tank,Tigray,,Tigray
+Total improved,Tigray,72.1,Tigray
+Unprotected dug well,Tigray,5.7,Tigray
+Unprotected spring,Tigray,11.2,Tigray
+Surface water,Tigray,11,Tigray
+Other,Tigray,,Tigray
+Total unimproved,Tigray,27.9,Tigray
+Piped water into dwelling,Amhara,,Amhara
+Piped water into yard or plot,Amhara,12.4,Amhara
+"Piped water, public tap or standpipe",Amhara,4.7,Amhara
+Piped water kiosk or retailer,Amhara,2,Amhara
+Tube well or borehole,Amhara,19.3,Amhara
+Protected dug well,Amhara,4,Amhara
+Protected spring,Amhara,16.9,Amhara
+Rain water,Amhara,,Amhara
+Bottled water,Amhara,,Amhara
+Tanker truck or cart with small tank,Amhara,,Amhara
+Total improved,Amhara,61.7,Amhara
+Unprotected dug well,Amhara,,Amhara
+Unprotected spring,Amhara,25.1,Amhara
+Surface water,Amhara,10.8,Amhara
+Other,Amhara,,Amhara
+Total unimproved,Amhara,38.3,Amhara
+Piped water into dwelling,Oromia,,Oromia
+Piped water into yard or plot,Oromia,12.2,Oromia
+"Piped water, public tap or standpipe",Oromia,16.3,Oromia
+Piped water kiosk or retailer,Oromia,1.8,Oromia
+Tube well or borehole,Oromia,10.9,Oromia
+Protected dug well,Oromia,6.6,Oromia
+Protected spring,Oromia,13.8,Oromia
+Rain water,Oromia,,Oromia
+Bottled water,Oromia,,Oromia
+Tanker truck or cart with small tank,Oromia,,Oromia
+Total improved,Oromia,66,Oromia
+Unprotected dug well,Oromia,2.4,Oromia
+Unprotected spring,Oromia,21.4,Oromia
+Surface water,Oromia,8.8,Oromia
+Other,Oromia,,Oromia
+Total unimproved,Oromia,34,Oromia
+Piped water into dwelling,SNNP,,SNNP
+Piped water into yard or plot,SNNP,12.8,SNNP
+"Piped water, public tap or standpipe",SNNP,15.3,SNNP
+Piped water kiosk or retailer,SNNP,,SNNP
+Tube well or borehole,SNNP,13.4,SNNP
+Protected dug well,SNNP,,SNNP
+Protected spring,SNNP,20.1,SNNP
+Rain water,SNNP,,SNNP
+Bottled water,SNNP,,SNNP
+Tanker truck or cart with small tank,SNNP,,SNNP
+Total improved,SNNP,65.9,SNNP
+Unprotected dug well,SNNP,,SNNP
+Unprotected spring,SNNP,22.2,SNNP
+Surface water,SNNP,10.3,SNNP
+Other,SNNP,,SNNP
+Total unimproved,SNNP,34,SNNP
+Piped water into dwelling,Addis Ababa,,Addis Ababa
+Piped water into yard or plot,Addis Ababa,87.4,Addis Ababa
+"Piped water, public tap or standpipe",Addis Ababa,5.3,Addis Ababa
+Piped water kiosk or retailer,Addis Ababa,,Addis Ababa
+Tube well or borehole,Addis Ababa,,Addis Ababa
+Protected dug well,Addis Ababa,,Addis Ababa
+Protected spring,Addis Ababa,,Addis Ababa
+Rain water,Addis Ababa,,Addis Ababa
+Bottled water,Addis Ababa,,Addis Ababa
+Tanker truck or cart with small tank,Addis Ababa,,Addis Ababa
+Total improved,Addis Ababa,100,Addis Ababa
+Unprotected dug well,Addis Ababa,,Addis Ababa
+Unprotected spring,Addis Ababa,,Addis Ababa
+Surface water,Addis Ababa,,Addis Ababa
+Other,Addis Ababa,,Addis Ababa
+Total unimproved,Addis Ababa,,Addis Ababa
+Piped water into dwelling,Afar,,Other
+Piped water into yard or plot,Afar,12.4,Other
+"Piped water, public tap or standpipe",Afar,18.4,Other
+Piped water kiosk or retailer,Afar,,Other
+Tube well or borehole,Afar,7.5,Other
+Protected dug well,Afar,4.2,Other
+Protected spring,Afar,4.7,Other
+Rain water,Afar,,Other
+Bottled water,Afar,,Other
+Tanker truck or cart with small tank,Afar,2.2,Other
+Total improved,Afar,55.4,Other
+Unprotected dug well,Afar,13.5,Other
+Unprotected spring,Afar,5.4,Other
+Surface water,Afar,17,Other
+Other,Afar,8.6,Other
+Total unimproved,Afar,44.6,Other
+Piped water into dwelling,Benishangul-Gumuz,,Other
+Piped water into yard or plot,Benishangul-Gumuz,12.4,Other
+"Piped water, public tap or standpipe",Benishangul-Gumuz,18.4,Other
+Piped water kiosk or retailer,Benishangul-Gumuz,,Other
+Tube well or borehole,Benishangul-Gumuz,7.5,Other
+Protected dug well,Benishangul-Gumuz,4.2,Other
+Protected spring,Benishangul-Gumuz,4.7,Other
+Rain water,Benishangul-Gumuz,,Other
+Bottled water,Benishangul-Gumuz,,Other
+Tanker truck or cart with small tank,Benishangul-Gumuz,2.2,Other
+Total improved,Benishangul-Gumuz,55.4,Other
+Unprotected dug well,Benishangul-Gumuz,13.5,Other
+Unprotected spring,Benishangul-Gumuz,5.4,Other
+Surface water,Benishangul-Gumuz,17,Other
+Other,Benishangul-Gumuz,8.6,Other
+Total unimproved,Benishangul-Gumuz,44.6,Other
+Piped water into dwelling,Dire Dawa,,Other
+Piped water into yard or plot,Dire Dawa,12.4,Other
+"Piped water, public tap or standpipe",Dire Dawa,18.4,Other
+Piped water kiosk or retailer,Dire Dawa,,Other
+Tube well or borehole,Dire Dawa,7.5,Other
+Protected dug well,Dire Dawa,4.2,Other
+Protected spring,Dire Dawa,4.7,Other
+Rain water,Dire Dawa,,Other
+Bottled water,Dire Dawa,,Other
+Tanker truck or cart with small tank,Dire Dawa,2.2,Other
+Total improved,Dire Dawa,55.4,Other
+Unprotected dug well,Dire Dawa,13.5,Other
+Unprotected spring,Dire Dawa,5.4,Other
+Surface water,Dire Dawa,17,Other
+Other,Dire Dawa,8.6,Other
+Total unimproved,Dire Dawa,44.6,Other
+Piped water into dwelling,Harari People,,Other
+Piped water into yard or plot,Harari People,12.4,Other
+"Piped water, public tap or standpipe",Harari People,18.4,Other
+Piped water kiosk or retailer,Harari People,,Other
+Tube well or borehole,Harari People,7.5,Other
+Protected dug well,Harari People,4.2,Other
+Protected spring,Harari People,4.7,Other
+Rain water,Harari People,,Other
+Bottled water,Harari People,,Other
+Tanker truck or cart with small tank,Harari People,2.2,Other
+Total improved,Harari People,55.4,Other
+Unprotected dug well,Harari People,13.5,Other
+Unprotected spring,Harari People,5.4,Other
+Surface water,Harari People,17,Other
+Other,Harari People,8.6,Other
+Total unimproved,Harari People,44.6,Other
+Piped water into dwelling,Somali,,Other
+Piped water into yard or plot,Somali,12.4,Other
+"Piped water, public tap or standpipe",Somali,18.4,Other
+Piped water kiosk or retailer,Somali,,Other
+Tube well or borehole,Somali,7.5,Other
+Protected dug well,Somali,4.2,Other
+Protected spring,Somali,4.7,Other
+Rain water,Somali,,Other
+Bottled water,Somali,,Other
+Tanker truck or cart with small tank,Somali,2.2,Other
+Total improved,Somali,55.4,Other
+Unprotected dug well,Somali,13.5,Other
+Unprotected spring,Somali,5.4,Other
+Surface water,Somali,17,Other
+Other,Somali,8.6,Other
+Total unimproved,Somali,44.6,Other
+Piped water into dwelling,Gambela,,Other
+Piped water into yard or plot,Gambela,12.4,Other
+"Piped water, public tap or standpipe",Gambela,18.4,Other
+Piped water kiosk or retailer,Gambela,,Other
+Tube well or borehole,Gambela,7.5,Other
+Protected dug well,Gambela,4.2,Other
+Protected spring,Gambela,4.7,Other
+Rain water,Gambela,,Other
+Bottled water,Gambela,,Other
+Tanker truck or cart with small tank,Gambela,2.2,Other
+Total improved,Gambela,55.4,Other
+Unprotected dug well,Gambela,13.5,Other
+Unprotected spring,Gambela,5.4,Other
+Surface water,Gambela,17,Other
+Other,Gambela,8.6,Other
+Total unimproved,Gambela,44.6,Other

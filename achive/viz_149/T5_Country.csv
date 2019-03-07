@@ -1,0 +1,17 @@
+Water Source,Region,Percent
+Piped water into dwelling,Country,0.4
+Piped water into yard or plot,Country,15.7
+"Piped water, public tap or standpipe",Country,12
+Piped water kiosk or retailer,Country,1.9
+Tube well or borehole,Country,13.9
+Protected dug well,Country,4.6
+Protected spring,Country,14.3
+Rain water,Country,1.1
+Bottled water,Country,0.4
+Tanker truck or cart with small tank,Country,1.3
+Total improved,Country,66
+Unprotected dug well,Country,3
+Unprotected spring,Country,20.1
+Surface water,Country,9.9
+Other,Country,1.1
+Total unimproved,Country,34
