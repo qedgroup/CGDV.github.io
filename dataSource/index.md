@@ -56,4 +56,6 @@ CGDV promotes open data for public good. We recommended the following data sourc
 
 * [GDELT](https://www.gdeltproject.org/data.html): The GDELT Project is the largest, most comprehensive, and highest resolution open database of human society ever created.
 
+* [Media in The Middle East](http://www.mideastmedia.org/): Northwestern University in Qatar conducts an annual region-wide survey of media use patterns, content preferences, and attitudes toward issues such as censorship, digital privacy, freedom of speech, and cultural preservation.
+
 * [IHME](http://www.healthdata.org/): Institute for Health Metrics and Evaluation.
