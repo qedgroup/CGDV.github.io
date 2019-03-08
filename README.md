@@ -1,6 +1,6 @@
 # Visual Calendar
 
-Check CGDV's daily visual at[visual calendar](https://cgdv.github.io/visualCalendar/Jan-2019/).
+Check CGDV's daily visual at [visual calendar](https://cgdv.github.io/visualCalendar/Jan-2019/).
 
 # Visualization Challenge
 
