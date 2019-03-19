@@ -38,6 +38,8 @@ CGDV promotes open data for public good. We recommended the following data sourc
 
 * [UNHCR](https://www.unhcr.org/en-us/data.html): The UN Refugee Agency
 
+* [PRB](https://www.prb.org/): Population Reference Bureau (PRB), World Population Data Sheet
+
 * [AfDB Statistical Data Portal](http://dataportal.opendataforafrica.org/): Africa information highway by African Development Bank Group.
 
 * [PLISA](http://www.paho.org/data/index.php/en/): Health Information Platform for the Americans.
