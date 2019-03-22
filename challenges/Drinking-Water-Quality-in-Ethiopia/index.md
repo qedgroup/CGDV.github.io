@@ -1,12 +1,12 @@
 # Drinking Water Quality in Ethiopia
 
-# Requirement
+# Registration and Eligibility
 
-# Demo
+This is a student ONLY event. CGDV requires teams no larger than 4 people for ease of collaboration in such a short time-frame. All team members must be registered on CGDV’s website. Set up your CGDV profile at http://34.205.15.39:4000/authentication/signup.
 
-# Timeline
+# Time
 
-This visualization challenge will be open from 6:00 PM to 8:00 PM Apr-5-2019.
+12:00 PM to 4:00 PM Apr-12-2019.
 
 # How to Participate?
 
@@ -16,8 +16,6 @@ Have trouble uploading your visualization on CGDV? Please see the [user guidance
 
 # Prize
 
-* 1st Place: $xxx
+* 1st Place: Google Home Mini for each team member
 
-* 2nd Place: $xxx
-
-* 3rd Place: $xxx
+* 2nd Place: $100 gift card for the team
