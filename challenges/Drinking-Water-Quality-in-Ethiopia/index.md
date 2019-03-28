@@ -10,6 +10,12 @@ This is a student ONLY event. CGDV requires teams no larger than 4 people for ea
 
 # How to Participate?
 
+[Register to participate](https://www.eventbrite.com/e/cgdv-data-visualization-challenge-tickets-59229510059)
+
+![](https://cgdv.github.io/challenges/Drinking-Water-Quality-in-Ethiopia/post.jpg)
+
+# Team Formation 
+
 Register your team up to 4 members at [Team Registration](https://forms.gle/ivGWb2EQkb5CdjSG6)
 
 # How to submit 
