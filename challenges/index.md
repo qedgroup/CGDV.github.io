@@ -2,10 +2,9 @@
 
 # Open Challenge
 
-* [Drinking Water Quality in Ethiopia](https://cgdv.github.io/challenges/Drinking-Water-Quality-in-Ethiopia/): Visualize a report by the Central Statistical Agency of Ethiopia
-[Apr-5-2019 6:00 PM - 8:00 PM]
+* [Increasing Access to Safe Drinking Water in Ethiopia](https://cgdv.github.io/challenges/Drinking-Water-Quality-in-Ethiopia/): Visualize a report by the Central Statistical Agency of Ethiopia
+[Apr-12-2019 12:00 PM - 4:00 PM]. [Register here](https://www.eventbrite.com/e/cgdv-data-visualization-challenge-tickets-59229510059)
 
-# How to Participate?
 
 # User Guidance
 
