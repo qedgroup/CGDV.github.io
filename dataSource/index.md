@@ -54,6 +54,8 @@ CGDV promotes open data for public good. We recommended the following data sourc
 
 * [Intact Forest Landscapes](http://www.intactforests.org/data.ifl.html): A spatial database that shows the extent of the intact forest landscapes.
 
+* [mWater](https://portal.mwater.co/#/entities): mWater is a tool that can be used to upload and visualize geospatial data describing water and sanitation systems.
+
 * [GADM](https://gadm.org/): GADM provides maps and spatial data for all countries and their sub-divisions.
 
 * [GDELT](https://www.gdeltproject.org/data.html): The GDELT Project is the largest, most comprehensive, and highest resolution open database of human society ever created.
