@@ -14,6 +14,18 @@ This is a student ONLY event. CGDV requires teams no larger than 4 people for ea
 
 ![](https://cgdv.github.io/challenges/Drinking-Water-Quality-in-Ethiopia/post.jpg)
 
+## Agenda
+
+12:00 - 12:30 PM Refreshments and Networking
+
+12:30 – 1:00 PM Introduction of CGDV & Team Formation
+
+1:00 – 3:20 PM Data Visualization Challenge
+
+3:20 – 3:40 PM Visualization Presentation
+
+3:40 – 4:00 PM Award Ceremony
+
 ## Team Formation 
 
 Register your team up to 4 members at [Team Registration](https://forms.gle/ivGWb2EQkb5CdjSG6)
