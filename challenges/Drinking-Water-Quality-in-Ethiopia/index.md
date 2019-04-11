@@ -30,6 +30,22 @@ This is a student ONLY event. CGDV requires teams no larger than 4 people for ea
 
 Register your team up to 4 members at [Team Registration](https://forms.gle/ivGWb2EQkb5CdjSG6)
 
+## Visualization Task
+
+Visualize a Drinking Water Quality in Ethiopia report by the Central Statistical Agency of Ethiopia. Choose one or more tables and visualize them to create a data story.
+
+## Requirement 
+
+* At least one table from full report should be visualized.
+
+* Data visualization MUST support “Key Massages” from the beginning of corresponding chapter in the full report. 
+
+## Data
+
+* [Full report](https://cgdv.github.io/challenges/Drinking-Water-Quality-in-Ethiopia/report/Drinking-water-quality-ethiopia-ESS-2016.pdf )
+
+* [Clean data table](https://github.com/CGDV/CGDV.github.io/tree/master/challenges/Drinking-Water-Quality-in-Ethiopia/data )
+
 ## How to submit 
 
 Submit your visualization under captain's CGDV account by selecting "Increasing Access to Safe Drinking Water in Ethiopia" challenge.
