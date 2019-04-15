@@ -49,7 +49,7 @@ Copy and paste embded code into embed code box on CDGV.
 If you created advanced visualization using tools such as D3. Please upload your visualizaton to your own Github page, and use iframe tag (e.g.(
 
 ```
-<iframe> width="1200" height="1500" frameborder="0" src="your visual source" </iframe>
+<iframe width="1200" height="1500" frameborder="0" src="your visual source"> </iframe>
 ```
 
 ) in embed code section on CGDV.
