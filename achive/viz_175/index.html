@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>chart</title>
+    <link rel="stylesheet" href="css/main.css" />
+    <script type="text/javascript" src="../lib/d3_v5.min.js"></script>
+  </head>
+  <body>
+    <div id="title">
+      <h3 id="mainTitle">Children with Anemia<br />in India</h3>
+    </div>
+    <div id="story">
+      <span
+        >Region Rank Comparison:
+
+        <svg height="15" width="15">
+          <circle cx="10" cy="10" r="5" fill="#A77C86" />
+        </svg>
+
+        Children with any anemia VS
+
+        <svg height="15" width="15">
+          <circle cx="10" cy="10" r="5" fill="#17264F" />
+        </svg>
+
+        <select name="" id="dropdown">
+          <option value="any" id="any"> Children with any anemia </option>
+          <option value="mild" id="mild"> Children with mild anemia </option>
+          <option value="moderate" id="moderate">
+            Children with moderate anemia
+          </option>
+          <option value="severe" id="severe">
+            Children with severe anemia
+          </option>
+        </select>
+      </span>
+    </div>
+
+    <div id="chart"></div>
+    <!-- tooltip for reference group -->
+    <div class="hidden tooltip reference">
+      <p>
+        <b><span id="region"></span></b>
+      </p>
+      <p>
+        <b>Children with any anemia:</b>
+        <span id="value" class="reference"></span>%
+      </p>
+      <p><b>Rank</b>: <span id="rank" class="reference"></span> out of 36</p>
+    </div>
+
+    <!-- tooltip for compare group -->
+    <div class="hidden tooltip compareTooltip">
+      <p>
+        <b><span id="region"></span></b>
+      </p>
+      <p>
+        <b>Children with <span id="level"></span> anemia:</b>
+        <span id="value" class="compareTooltip"></span>%
+      </p>
+      <p>
+        <b>Rank</b>: <span id="rank" class="compareTooltip"></span> out of 36
+      </p>
+      <p>
+        <b>Rank move</b>(vs any anemia):
+        <span id="rankMove"></span>
+      </p>
+    </div>
+    <p>Children: Age 6-59 months</p>
+    <p>Source: <a href="https://statcompiler.com/en/">2015-16 DHS</a></p>
+    <script type="text/javascript" src="JavaScript/moving-rank.js"></script>
+  </body>
+</html>
