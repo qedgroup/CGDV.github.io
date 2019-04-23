@@ -14,7 +14,7 @@ var regionBase = [
   "Eastern"
 ];
 // read data and plot
-d3.csv("../data_clean.csv").then(function(data) {
+d3.csv("../viz_176/data_clean.csv").then(function(data) {
   dataset = data;
   scatterPlot();
 });
