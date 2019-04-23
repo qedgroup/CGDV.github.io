@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>chart</title>
+    <link rel="stylesheet" href="css/main.css" />
+    <script type="text/javascript" src="../lib/d3_v5.min.js"></script>
+  </head>
+  <body>
+    <div id="title">
+      <h3 id="mainTitle">Antenatal Care<br />in Uganda</h3>
+    </div>
+    <div id="story">
+      <span
+        >Region Rank Comparison: Antenatal care provided by
+
+        <svg height="15" width="15">
+          <circle cx="10" cy="10" r="5" fill="#A77C86" />
+        </svg>
+
+        Doctor VS
+
+        <svg height="15" width="15">
+          <circle cx="10" cy="10" r="5" fill="#17264F" />
+        </svg>
+
+        <select name="" id="dropdown">
+          <option value="doctor" id="doctor"> Doctor </option>
+          <option value="nurse" id="nurse"> Nurse/Midwife </option>
+          <option value="auxNurse" id="auxNurse"
+            >Auxiliary Nurse/Midwife</option
+          >
+          <option value="other" id="other">Other Health Worker</option>
+          <option value="traditional" id="traditional"
+            >Traditional Birth Attendant</option
+          >
+        </select>
+      </span>
+    </div>
+
+    <div id="chart">
+      <img class="mainChart" src="map.png" alt="map" height="500px" />
+    </div>
+    <!-- tooltip for reference group -->
+    <div class="hidden tooltip reference">
+      <p>
+        <b><span id="region"></span></b>
+      </p>
+      <p><b>Antenatal Care Provider:</b> Doctor</p>
+      <p>
+        <b>Percentage<sup>*</sup>:</b>
+        <span id="value" class="reference"></span>%
+      </p>
+      <p><b>Rank</b>: <span id="rank" class="reference"></span> out of 10</p>
+    </div>
+
+    <!-- tooltip for compare group -->
+    <div class="hidden tooltip compareTooltip">
+      <p>
+        <b><span id="region"></span></b>
+      </p>
+      <p><b>Antenatal Care Provider:</b> <span id="level"></span></p>
+      <p>
+        <b>Percentage<sup>*</sup>:</b>
+        <span id="value" class="compareTooltip"></span>%
+      </p>
+      <p>
+        <b>Rank</b>: <span id="rank" class="compareTooltip"></span> out of 10
+      </p>
+      <p>
+        <b>Rank move</b>(vs doctor):
+        <span id="rankMove"></span>
+      </p>
+    </div>
+
+    <p>
+      <b>Percentage</b><sup>*</sup>: Percentage of live births in the five years
+      preceding the survey whose source of antenatal care during pregnacy was a
+      [doctor/ nurse or midwife/ auxiliary nurse/ another type of health worker/
+      traditional birth attendant]
+    </p>
+    <p>Source: <a href="https://statcompiler.com/en/">2016 DHS</a></p>
+    <script type="text/javascript" src="JavaScript/moving-rank.js"></script>
+  </body>
+</html>
