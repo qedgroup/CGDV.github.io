@@ -40,7 +40,7 @@ var regionBase = [
   "Dadra and Nagar Haveli"
 ];
 // read data and plot
-d3.csv("../viz_175/data_clean.csv").then(function(data) {
+d3.csv("../viz_176/data_clean.csv").then(function(data) {
   dataset = data;
   scatterPlot();
 });
