@@ -10,9 +10,66 @@
   </head>
   <body>
     <div id="title">
-      <h3 id="mainTitle">Children with Anemia<br />in India</h3>
+      <h3 id="mainTitle">
+        Anemia Prevalence in <br />India for Under-5 <br />Year Old Children
+        <br />by Region
+      </h3>
     </div>
-    <div id="story">
+    <div>
+      <p id="story">
+        <b>Anemia</b> is a widespread public health problem associated with an
+        increased risk of morbidity and mortality, especially in pregnant women
+        and young children. It affects both developing and developed countries
+        with major consequences for human health as well as social and economic
+        development. Approximately 50% of the population suffers from
+        ‘nutritional anemia’ as known in countries where meat consumption is
+        low. In India, about 89 million children are anemic with the prevalence
+        of anemia at around 70% in children aged 6–59 months. The highest
+        prevalence of anemia has been observed in children less than 5 years. It
+        has a variable impact on physical development and children show poor
+        attentiveness, memory and academic performance. Iron deficiency is one
+        of its most common causes. Besides iron, other nutrients such as
+        vitamins A, E, and C also play a key role in formation and protection of
+        red blood cell (RBC) by stimulating stem cells as well as by activating
+        a number of antioxidant enzymes.
+      </p>
+    </div>
+    <div class="grid-container">
+      <div class="grid-item">
+        <br />
+        <img src="img/any.jpg" alt="" class="circleImg" />
+        <p><b>58.5%</b></p>
+        <p>
+          Children with<br />
+          Any Anemia
+        </p>
+      </div>
+      <div class="grid-item">
+        <br />
+        <img src="img/mild.png" alt="" class="circleImg" />
+        <p><b>27.8%</b></p>
+        <p>
+          Children with<br />
+          Mild Anemia<br />(10.0-10.9 g/dl)
+        </p>
+      </div>
+      <div class="grid-item">
+        <br />
+        <img src="img/moderate.png" alt="" class="circleImg" />
+        <p><b>29.2%</b></p>
+        <p>
+          Children with<br />
+          Moderate Anemia<br />(7.0-9.9 g/dl)
+        </p>
+      </div>
+      <div class="grid-item">
+        <br />
+        <img src="img/severe.png" alt="" class="circleImg" />
+        <p><b>1.6%</b></p>
+        <p>Children with<br />Severe Anemia<br />(below 7.0 g/dl)</p>
+      </div>
+    </div>
+    <div id="legend">
       <span
         >Region Rank Comparison:
 
@@ -69,8 +126,48 @@
         <span id="rankMove"></span>
       </p>
     </div>
-    <p>Children: Age 6-59 months</p>
-    <p>Source: <a href="https://statcompiler.com/en/">2015-16 DHS</a></p>
+    <div class="noteContainer">
+      <div class="note">
+        <br />
+        <p>
+          <b>How to Read the Graph:</b> The intersection of regions on the
+          x-axis and numbers ‘ranks’ on the y-axis depict the rank of 36
+          region’s in India for ‘children with any anemia’; as you hover your
+          mouse on these intersection points you can look at the % of children
+          with anemia in that region and its current rank. The drop-down box in
+          the legend allows you to compare ranks & percentage of ‘children with
+          any anemia’ with the three distinct categories – 1) children with mild
+          anemia, 2) children with moderate anemia and 3) children with severe
+          anemia. E.g., For New Delhi, 59.7% children in the age group of 6-59
+          months have anemia and it has a rank of 19 amongst 36 regions but in
+          terms of children with mild anemia New Delhi fares better and has a
+          little under 1 in 5 such cases with a rank of 4 amongst 36.
+        </p>
+        <p>Note:<br />Children definition: Age 6-59 months</p>
+        <div id="ref">
+          <p>Reference:</p>
+          <ul>
+            <li>
+              Data:
+              <a href="https://statcompiler.com/en/" target="_blank"
+                >2015-16 DHS</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104701/"
+                target="_blank"
+              >
+                Nutritional Anemia in Young Children with Focus on Asia and
+                India</a
+              >
+            </li>
+          </ul>
+        </div>
+
+        <br />
+      </div>
+    </div>
     <script type="text/javascript" src="JavaScript/moving-rank.js"></script>
   </body>
 </html>
