@@ -12,76 +12,189 @@
     <div id="title">
       <h3 id="mainTitle">Antenatal Care<br />in Uganda</h3>
     </div>
-    <div id="story">
-      <span
-        >Region Rank Comparison: Antenatal care provided by
 
-        <svg height="15" width="15">
-          <circle cx="10" cy="10" r="5" fill="#A77C86" />
-        </svg>
-
-        Doctor VS
-
-        <svg height="15" width="15">
-          <circle cx="10" cy="10" r="5" fill="#17264F" />
-        </svg>
-
-        <select name="" id="dropdown">
-          <option value="doctor" id="doctor"> Doctor </option>
-          <option value="nurse" id="nurse"> Nurse/Midwife </option>
-          <option value="auxNurse" id="auxNurse"
-            >Auxiliary Nurse/Midwife</option
-          >
-          <option value="other" id="other">Other Health Worker</option>
-          <option value="traditional" id="traditional"
-            >Traditional Birth Attendant</option
-          >
-        </select>
-      </span>
+    <div class="yellowContainer">
+      <br />
+      <br />
+      <p id="story">
+        <b>Antenatal care</b>(ANC) or, prenatal care is a type of preventive
+        healthcare that a pregnant woman receives during her pregnancy. Good ANC
+        links the woman and her family with the formal health system, increases
+        the chance of using a skilled attendant at birth and contributes to good
+        health through the life cycle. But only half of women worldwide receive
+        the recommended amount of care during pregnancy. Sub-Saharan Africa and
+        South Asia have the highest rate of maternal mortality in the world and
+        fewer women receive the recommended minimum four antenatal visits during
+        pregnancy. In Uganda, only 47.6% of expectant mothers received the
+        recommended minimum four antenatal visits by a skilled health
+        professional in 2014. Using 2016 DHS data we observe that in Uganda, at
+        21.2% Kampala has the highest percentage of expectant mothers who have
+        Doctors as antenatal care providers during their pregnancy; the Eastern
+        region is ranked the lowest with only 4.3% antenatal care providers as
+        Doctors. The majority population, anywhere from 76%-93% relies on
+        Nurses/ Midwife as the primary antenatal care providers across the
+        country. Reliance on Auxiliary Nurse, Other Health Worker and
+        Traditional birth Attendants is very low.
+      </p>
+      <br />
+      <br />
     </div>
 
-    <div id="chart">
-      <img class="mainChart" src="map.png" alt="map" height="500px" />
-    </div>
-    <!-- tooltip for reference group -->
-    <div class="hidden tooltip reference">
-      <p>
-        <b><span id="region"></span></b>
-      </p>
-      <p><b>Antenatal Care Provider:</b> Doctor</p>
-      <p>
-        <b>Percentage<sup>*</sup>:</b>
-        <span id="value" class="reference"></span>%
-      </p>
-      <p><b>Rank</b>: <span id="rank" class="reference"></span> out of 10</p>
+    <div class="blackContainer">
+      <br />
+      <div class="grid-container">
+        <div class="grid-item">
+          <br />
+          <img src="img/doctor.jpg" alt="" class="circleImg" />
+          <p class="largeNum"><b>9.7%</b></p>
+          <p>
+            Antenatal<br />Care Provider:<br />
+            <b>Doctor</b>
+          </p>
+        </div>
+        <div class="grid-item">
+          <br />
+          <img src="img/nurse.jpg" alt="" class="circleImg" />
+          <p class="largeNum"><b>86.9%</b></p>
+          <p>
+            Antenatal<br />Care Provider:<br />
+            <b>Nurse/Mildwife</b>
+          </p>
+        </div>
+        <div class="grid-item">
+          <br />
+          <img src="img/auxNurse.jpg" alt="" class="circleImg" />
+          <p class="largeNum"><b>0.8%</b></p>
+          <p>
+            Antenatal<br />Care Provider:<br />
+            <b>
+              Auxiliary<br />
+              Nurse/Mildwife</b
+            >
+          </p>
+        </div>
+        <div class="grid-item">
+          <br />
+          <img src="img/other.jpg" alt="" class="circleImg" />
+          <p class="largeNum"><b>0.5%</b></p>
+          <p>
+            Antenatal<br />Care Provider:<br />
+            <b>Other<br />Health Worker</b>
+          </p>
+        </div>
+        <div class="grid-item">
+          <br />
+          <img src="img/trad.jpg" alt="" class="circleImg" />
+          <p class="largeNum"><b>0.5%</b></p>
+          <p>
+            Antenatal<br />Care Provider:<br />
+            <b>Traditional<br />Birth Attendant</b>
+          </p>
+        </div>
+      </div>
+      <br />
     </div>
 
-    <!-- tooltip for compare group -->
-    <div class="hidden tooltip compareTooltip">
-      <p>
-        <b><span id="region"></span></b>
-      </p>
-      <p><b>Antenatal Care Provider:</b> <span id="level"></span></p>
-      <p>
-        <b>Percentage<sup>*</sup>:</b>
-        <span id="value" class="compareTooltip"></span>%
-      </p>
-      <p>
-        <b>Rank</b>: <span id="rank" class="compareTooltip"></span> out of 10
-      </p>
-      <p>
-        <b>Rank move</b>(vs doctor):
-        <span id="rankMove"></span>
-      </p>
-    </div>
+    <div class="yellowContainer">
+      <br />
+      <div id="legend">
+        <span
+          >Region Rank Comparison: Antenatal care provided by
+          <svg height="15" width="15">
+            <circle cx="10" cy="10" r="5" fill="#A77C86" />
+          </svg>
+          Doctor VS
+          <svg height="15" width="15">
+            <circle cx="10" cy="10" r="5" fill="#17264F" />
+          </svg>
 
-    <p>
-      <b>Percentage</b><sup>*</sup>: Percentage of live births in the five years
-      preceding the survey whose source of antenatal care during pregnacy was a
-      [doctor/ nurse or midwife/ auxiliary nurse/ another type of health worker/
-      traditional birth attendant]
-    </p>
-    <p>Source: <a href="https://statcompiler.com/en/">2016 DHS</a></p>
+          <select name="" id="dropdown">
+            <option value="doctor" id="doctor"> Doctor </option>
+            <option value="nurse" id="nurse"> Nurse/Midwife </option>
+            <option value="auxNurse" id="auxNurse"
+              >Auxiliary Nurse/Midwife</option
+            >
+            <option value="other" id="other">Other Health Worker</option>
+            <option value="traditional" id="traditional"
+              >Traditional Birth Attendant</option
+            >
+          </select>
+        </span>
+      </div>
+      <div class="vizContainer">
+        <img class="mainChart" src="img/map.png" alt="map" height="500px" />
+        <div id="chart"></div>
+      </div>
+
+      <!-- tooltip for reference group -->
+      <div class="hidden tooltip reference">
+        <p>
+          <b><span id="region"></span></b>
+        </p>
+        <p><b>Antenatal Care Provider:</b> Doctor</p>
+        <p>
+          <b>Percentage<sup>*</sup>:</b>
+          <span id="value" class="reference"></span>%
+        </p>
+        <p><b>Rank</b>: <span id="rank" class="reference"></span> out of 10</p>
+      </div>
+
+      <!-- tooltip for compare group -->
+      <div class="hidden tooltip compareTooltip">
+        <p>
+          <b><span id="region"></span></b>
+        </p>
+        <p><b>Antenatal Care Provider:</b> <span id="level"></span></p>
+        <p>
+          <b>Percentage<sup>*</sup>:</b>
+          <span id="value" class="compareTooltip"></span>%
+        </p>
+        <p>
+          <b>Rank</b>: <span id="rank" class="compareTooltip"></span> out of 10
+        </p>
+        <p>
+          <b>Rank move</b>(vs doctor):
+          <span id="rankMove"></span>
+        </p>
+      </div>
+      <br />
+    </div>
+    <div class="blackContainer">
+      <div class="note">
+        <br />
+        <p>
+          <b>How to Read the Graph:</b> The intersection of regions on the
+          x-axis and numbers ‘ranks’ on the y-axis depict the rank of 10
+          region’s in Uganda for ‘antenatal care percentage’; as you hover your
+          mouse on these intersection points you can look at the % of antenatal
+          care with specific provider in that region and its current rank. The
+          drop-down box in the legend allows you to compare ranks & percentage
+          of antenatal care provided by 'doctor’ with other four distinct
+          categories – 1) nurse/mildwife, 2) auxiliary nurse/mildwife, 3) other
+          health worker and 4) traditional birth attendant. E.g., For Kampala,
+          21.2% people receive antenatal care from a doctor and it has a rank of
+          1 amongst 10 regions but in terms of people receive antenatal care
+          from a nurse/mildwife Kampala has a percentage of 76.8% with a rank of
+          10 amongst 10.
+        </p>
+        <p>
+          Note:<br /><b>Percentage</b><sup>*</sup>: Percentage of live births in
+          the five years preceding the survey whose source of antenatal care
+          during pregnacy was a [doctor/ nurse or midwife/ auxiliary nurse/
+          another type of health worker/ traditional birth attendant]
+        </p>
+        <div id="ref">
+          <p>Reference:</p>
+          <ul>
+            <li>
+              Data:
+              <a href="https://statcompiler.com/en/">2016 DHS</a>
+            </li>
+          </ul>
+        </div>
+        <br />
+      </div>
+    </div>
     <script type="text/javascript" src="JavaScript/moving-rank.js"></script>
   </body>
 </html>

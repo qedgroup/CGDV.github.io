@@ -20,10 +20,10 @@ d3.csv("../viz_176/data_clean.csv").then(function(data) {
 });
 
 var scatterPlot = function() {
-  var w = 600;
+  var w = 480;
   var h = 500;
   // padding
-  var padding = { top: 20, right: 20, bottom: 20, left: 150 };
+  var padding = { top: 50, right: 20, bottom: 20, left: 80 };
   var xRange = [padding.left, w - padding.right];
   var yRange = [];
   for (var i = 0; i <= dataset.length; i++) {
@@ -78,12 +78,14 @@ var scatterPlot = function() {
     .append("g")
     .attr("class", "axis")
     .attr("transform", "translate(0," + padding.top + ")")
+    .style("font", "15px times")
     .call(xAxis);
   // Y axis
   svg
     .append("g")
     .attr("class", "axis")
     .attr("transform", "translate(" + padding.left + ",0)")
+    .style("font", "15px times")
     .call(yAxis);
   // add X gridline
   svg
@@ -98,17 +100,6 @@ var scatterPlot = function() {
     .attr("transform", "translate(" + padding.left + ",0)")
     .call(makeYGridlines());
 
-  /* 
-  //line generator
-  var line = d3
-    .line()
-    .x(function(d) {
-      return xScale(d["anyRank"]);
-    })
-    .y(function(d) {
-      return yScale(d["Region"]);
-    });
-  */
   // add rank trend line
   svg
     .append("g")
@@ -138,6 +129,78 @@ var scatterPlot = function() {
       }
     });
   //    .attr("marker-end", "url(#trianlge)");
+
+  // add axis reference
+  svg
+    .append("text")
+    .attr("transform", "translate(" + xRange[0] + " ," + (yRange[0] - 25) + ")")
+    .style("text-anchor", "middle")
+    .text("Best");
+
+  svg
+    .append("text")
+    .attr("transform", "translate(" + xRange[1] + " ," + (yRange[0] - 25) + ")")
+    .style("text-anchor", "middle")
+    .text("Worst");
+
+  svg
+    .append("text")
+    .attr(
+      "transform",
+      "translate(" + (xRange[0] + xRange[1]) / 2 + " ," + (yRange[0] - 25) + ")"
+    )
+    .style("text-anchor", "middle")
+    .text("Rank");
+
+  // arrow
+  svg
+    .append("svg:defs")
+    .append("svg:marker")
+    .attr("id", "arrowRed")
+    .attr("refX", 6)
+    .attr("refY", 6)
+    .attr("markerWidth", 30)
+    .attr("markerHeight", 30)
+    .attr("markerUnits", "userSpaceOnUse")
+    .attr("orient", "auto")
+    .append("path")
+    .attr("d", "M 0 0 12 6 0 12 3 6")
+    .style("opticity", 0.3)
+    .style("fill", "red");
+  svg
+    .append("svg:defs")
+    .append("svg:marker")
+    .attr("id", "arrowGreen")
+    .attr("refX", 6)
+    .attr("refY", 6)
+    .attr("markerWidth", 30)
+    .attr("markerHeight", 30)
+    .attr("markerUnits", "userSpaceOnUse")
+    .attr("orient", "auto")
+    .append("path")
+    .attr("d", "M 0 0 12 6 0 12 3 6")
+    .style("opticity", 0.3)
+    .style("fill", "limegreen");
+
+  svg
+    .append("line")
+    .attr("x2", xRange[0] + 20)
+    .attr("y2", yRange[0] - 30)
+    .attr("x1", (xRange[0] + xRange[1]) / 2 - 20)
+    .attr("y1", yRange[0] - 30)
+    .attr("stroke-width", 2)
+    .attr("stroke", "limegreen")
+    .attr("marker-end", "url(#arrowGreen)");
+
+  svg
+    .append("line")
+    .attr("x1", (xRange[0] + xRange[1]) / 2 + 20)
+    .attr("y1", yRange[0] - 30)
+    .attr("x2", xRange[1] - 30)
+    .attr("y2", yRange[0] - 30)
+    .attr("stroke-width", 2)
+    .attr("stroke", "red")
+    .attr("marker-end", "url(#arrowRed)");
 
   // reference group
   svg
@@ -415,20 +478,4 @@ var scatterPlot = function() {
         break;
     }
   });
-
-  // arrow
-  svg
-    .append("svg:defs")
-    .append("svg:marker")
-    .attr("id", "trianlge")
-    .attr("refX", 6)
-    .attr("refY", 6)
-    .attr("markerWidth", 30)
-    .attr("markerHeight", 30)
-    .attr("markerUnits", "userSpaceOnUse")
-    .attr("orient", "auto")
-    .append("path")
-    .attr("d", "M 0 0 12 6 0 12 3 6")
-    .style("opticity", 0.3)
-    .style("fill", "red");
 };
