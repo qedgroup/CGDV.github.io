@@ -62,7 +62,7 @@ body {
   display: grid;
   grid-gap: 50px;
   grid-template-columns: auto auto;
-  padding: 10px 15%; }
+  padding: 10px 10%; }
 
 .mainChart {
   display: inline-block;
