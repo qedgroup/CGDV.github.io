@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>chart</title>
+    <link rel="stylesheet" href="css/main.css" />
+    <script type="text/javascript" src="../lib/d3_v5.min.js"></script>
+  </head>
+  <body>
+    <div id="title">
+      <h3 id="mainTitle">Women's Empowerment<br />in Kenya</h3>
+    </div>
+    <div class="blackContainer text">
+      <br />
+      <p id="story">
+        <b>Women(%) Have Final Say In</b>
+      </p>
+    </div>
+
+    <div class="blackContainer">
+      <div class="pic-container">
+        <div class="grid-item">
+          <br />
+          <img src="img/all.jpg" alt="" class="circleImg" />
+          <p class="largeNum"><b>55.8%</b></p>
+          <p>All of the Decisions</p>
+        </div>
+        <div class="grid-item">
+          <br />
+          <img src="img/none.jpg" alt="" class="circleImg" />
+          <p class="largeNum"><b>9.7%</b></p>
+          <p>None of the Decisions</p>
+        </div>
+      </div>
+      <br />
+    </div>
+
+    <div class="redContainer">
+      <div class="grid-container">
+        <div class="grid-item">
+          <br />
+          <img src="img/healthCare.jpg" alt="" class="circleImg" />
+          <p class="largeNum"><b>78.7%</b></p>
+          <p>Own<br />Health Care</p>
+        </div>
+        <div class="grid-item">
+          <br />
+          <img src="img/purchase.jpg" alt="" class="circleImg" />
+          <p class="largeNum"><b>72.5%</b></p>
+          <p>Making <br />Large Purchases</p>
+        </div>
+        <div class="grid-item">
+          <br />
+          <img src="img/family.jpg" alt="" class="circleImg" />
+          <p class="largeNum"><b>73.4%</b></p>
+          <p>
+            Visits to Family,<br />
+            Relatives, Friends
+          </p>
+        </div>
+      </div>
+      <br />
+    </div>
+
+    <div class="greenContainer">
+      <br />
+      <br />
+      <p id="story">
+        <b>Women</b> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Perferendis tenetur eligendi exercitationem, dolore voluptatibus minus
+        quidem alias delectus harum quisquam, quas error? Possimus eaque, ab
+        molestias perspiciatis quas doloremque voluptatibus!
+      </p>
+      <br />
+      <br />
+    </div>
+
+    <div id="legend">
+      <span
+        >Region Rank Comparison<br />Women(%) Have Final Say In:
+        <svg height="15" width="15">
+          <circle cx="10" cy="10" r="5" fill="#A77C86" />
+        </svg>
+        All of the Decisions
+        <svg height="15" width="15">
+          <circle cx="10" cy="10" r="5" fill="#17264F" />
+        </svg>
+
+        <select name="" id="dropdown">
+          <option value="all" id="all">All of the Decisions</option>
+          <option value="none" id="none">None of the Decisions</option>
+          <option value="healthCare" id="healthCare">Own Health Care</option>
+          <option value="purchase" id="purchase">
+            Making Large Purchases
+          </option>
+          <option value="family" id="family"
+            >Visits to Family, Relatives, Friends</option
+          >
+        </select>
+      </span>
+    </div>
+
+    <div id="chart"></div>
+
+    <!-- tooltip for reference group -->
+    <div class="hidden tooltip reference">
+      <p>
+        <b><span id="region"></span></b>
+      </p>
+      <p><b>Women Have Final Say In:</b> All of the Decisions</p>
+      <p>
+        <b>Percentage:</b>
+        <span id="value" class="reference"></span>%
+      </p>
+      <p><b>Rank</b>: <span id="rank" class="reference"></span> out of 8</p>
+    </div>
+
+    <!-- tooltip for compare group -->
+    <div class="hidden tooltip compareTooltip">
+      <p>
+        <b><span id="region"></span></b>
+      </p>
+      <p><b>Women Have Final Say In:</b> <span id="level"></span></p>
+      <p>
+        <b>Percentage:</b>
+        <span id="value" class="compareTooltip"></span>%
+      </p>
+      <p>
+        <b>Rank</b>: <span id="rank" class="compareTooltip"></span> out of 8
+      </p>
+      <p>
+        <b>Rank move</b>(vs All of the Decisions):
+        <span id="rankMove"></span>
+      </p>
+    </div>
+
+    <div class="blackContainer">
+      <div class="note">
+        <br />
+        <p>
+          <b>How to Read the Graph:</b> The intersection of regions on the
+          x-axis and numbers "ranks" on the y-axis depict the rank of 8 region's
+          in Kenya for "percentage of women who have the final say"; as you
+          hover your mouse on these intersection points you can look at the % of
+          women have say in with specific decisions in that region and its
+          current rank. The drop-down box in the legend allows you to compare
+          ranks & percentage of women who have the final say in any of the
+          decisions with other four distinct categories – 1) None of the
+          Decisions, 2) Own Health Care, 3) Making Large Purchases and 4) Visits
+          to Family, Relatives, Friends. E.g., For Nairobi, 59.7% women have the
+          final say in any of the decisions and it has a rank of 2 amongst 8
+          regions but in terms of women who have the final say in own health
+          care Nairobi has a percentage of 78.1% with a rank of 4 amongst 8.
+        </p>
+
+        <div id="ref">
+          <p>Reference:</p>
+          <ul>
+            <li>
+              Data:
+              <a href="https://statcompiler.com/en/"
+                >USAID 2014 Demographic and Health Surveys (DHS)</a
+              >
+            </li>
+          </ul>
+        </div>
+        <br />
+      </div>
+    </div>
+    <script type="text/javascript" src="JavaScript/moving-rank.js"></script>
+  </body>
+</html>

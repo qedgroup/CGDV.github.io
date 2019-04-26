@@ -1,0 +1,118 @@
+body {
+  background: #fff;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  min-width: 800px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; }
+
+p {
+  margin: 10px 0px; }
+
+#title {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-image: url(../img/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 450px; }
+
+#mainTitle {
+  color: #fff;
+  font-size: 60px;
+  position: absolute;
+  top: 270px;
+  margin: 0 60px; }
+
+.redContainer {
+  background-color: #bb0000;
+  color: #fff; }
+
+.greenContainer {
+  background-color: #006600;
+  color: #fff; }
+
+.blackContainer {
+  background-color: #000000;
+  color: #fff; }
+
+#story {
+  margin: 0 10%;
+  font-size: 25px; }
+
+.text {
+  text-align: center; }
+
+.pic-container {
+  display: grid;
+  grid-gap: 50px;
+  grid-template-columns: 50% 50%;
+  padding: 10px 5%; }
+
+.grid-container {
+  display: grid;
+  grid-gap: 0px;
+  grid-template-columns: 33.3% 33.3% 33.4%;
+  padding: 10px 0%; }
+
+.grid-item {
+  padding: 0px;
+  font-size: 25px;
+  text-align: center; }
+
+.circleImg {
+  height: 160px;
+  width: 160px;
+  border-radius: 25%; }
+
+.largeNum {
+  font-size: 45px;
+  margin: 0; }
+
+#legend {
+  margin: 20px 20px 10px 20px;
+  text-align: center;
+  font-size: 20px; }
+
+.mainChart {
+  display: block;
+  margin: auto; }
+
+.grid {
+  stroke: lightgrey;
+  opacity: 0.2; }
+
+.note {
+  margin: 0px 10%;
+  font-size: 20px; }
+
+#ref {
+  color: #fff; }
+
+a {
+  color: lightgrey; }
+
+.tooltip {
+  position: absolute;
+  width: 300px;
+  height: auto;
+  padding: 10px;
+  background-color: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  pointer-events: none; }
+
+.tooltip.hidden {
+  display: none; }
+
+.tooltip p {
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 12px;
+  line-height: 20px; }
