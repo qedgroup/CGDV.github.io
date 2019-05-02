@@ -68,6 +68,11 @@ p {
   width: 160px;
   border-radius: 20%; }
 
+.tableau {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto; }
+
 #year11 {
   background-color: #8e805b; }
 
