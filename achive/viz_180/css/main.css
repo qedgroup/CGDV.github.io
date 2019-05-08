@@ -67,6 +67,15 @@ p {
   margin: 3%;
   font-weight: bold; }
 
+#nile {
+  grid-gap: 30px;
+  text-align: left; }
+  #nile img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    padding: 40px 0; }
+
 #year08 {
   background-color: #ffcd94;
   color: #8d5524; }
