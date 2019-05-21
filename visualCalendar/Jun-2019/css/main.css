@@ -1,0 +1,133 @@
+body {
+  min-width: 1200px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+  background-color: rgba(171, 203, 119, 0.5); }
+
+.calendar {
+  width: 1200px;
+  height: auto;
+  box-sizing: border-box;
+  border-style: double; }
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 60px; }
+
+#leftArrow {
+  height: 100px;
+  transform: rotate(180deg);
+  border: 0; }
+
+#rightArrow {
+  height: 100px; }
+
+.date {
+  padding: 20px;
+  display: grid;
+  grid-template-columns: 200px repeat(7, 120px);
+  grid-gap: 10px;
+  box-sizing: border-box; }
+
+.day {
+  font-weight: 700;
+  font-size: 20px; }
+
+.day#weekly {
+  font-size: 30px; }
+
+.number {
+  font-size: 100px;
+  font-weight: 700;
+  color: rgba(70, 66, 66, 0.6);
+  background-size: 120px 115px; }
+
+.otherMonth {
+  color: rgba(70, 66, 66, 0.3); }
+
+.number:hover {
+  color: #464242; }
+
+.weeklyTopic {
+  font-weight: 700;
+  font-size: 30px;
+  padding: 30px 0; }
+
+.twoLines {
+  font-weight: 700;
+  font-size: 30px;
+  padding: 20px 0; }
+
+a {
+  color: inherit;
+  text-decoration: inherit; }
+
+
+#v0603 {
+  background-image: url(../img/0603.png); }
+
+#v0604 {
+  background-image: url(../img/0604.png); }
+
+#v0605 {
+  background-image: url(../img/0605.png); }
+
+#v0606 {
+  background-image: url(../img/0606.png); }
+
+#v0607 {
+  background-image: url(../img/0607.png); }
+
+
+#v0610 {
+  background-image: url(../img/0610.png); }
+
+#v0611 {
+  background-image: url(../img/0611.png); }
+
+#v0612 {
+  background-image: url(../img/0612.png); }
+
+#v0613 {
+  background-image: url(../img/0613.png); }
+
+#v0614 {
+  background-image: url(../img/0614.png); }
+
+#v0617 {
+  background-image: url(../img/0617.png); }
+
+#v0618 {
+  background-image: url(../img/0618.png); }
+
+#v0619 {
+  background-image: url(../img/0619.png); }    
+
+#v0620 {
+  background-image: url(../img/0620.png); }
+
+#v0621 {
+  background-image: url(../img/0621.png); }
+
+#v0624 {
+  background-image: url(../img/0624.png); }
+
+#v0625 {
+  background-image: url(../img/0625.png); }
+
+#v0626 {
+  background-image: url(../img/0626.png); }    
+
+#v0627 {
+  background-image: url(../img/0627.png); }
+
+#v0628 {
+  background-image: url(../img/0628.png); }
