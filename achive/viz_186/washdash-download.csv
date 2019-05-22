@@ -1,0 +1,577 @@
+country,country_name,residence_type,service_type,year,value,population,service_level
+TKM,Turkmenistan,total,Sanitation,2000,95.18972,4284888.12146,At least basic
+TKM,Turkmenistan,rural,Sanitation,2000,96.31833,2345045.6782,At least basic
+TKM,Turkmenistan,urban,Sanitation,2000,93.86018,1939842.44526,At least basic
+TKM,Turkmenistan,total,Drinking water,2000,16.73416,753274.55382,Basic service
+TKM,Turkmenistan,rural,Drinking water,2000,27.9934,681550.47201,Basic service
+TKM,Turkmenistan,urban,Drinking water,2000,3.4704,71724.10169,Basic service
+TKM,Turkmenistan,total,Hygiene,2000,70.7457,3184560.39472,Basic service
+TKM,Turkmenistan,rural,Hygiene,2000,60.588,1475125.47889,Basic service
+TKM,Turkmenistan,urban,Hygiene,2000,82.7118,1709434.89789,Basic service
+TKM,Turkmenistan,total,Hygiene,2000,6.31933,284459.6431,Limited service
+TKM,Turkmenistan,rural,Hygiene,2000,5.412,131765.02099,Limited service
+TKM,Turkmenistan,urban,Hygiene,2000,7.3882,152694.62051,Limited service
+TKM,Turkmenistan,total,Sanitation,2000,3.05621,137572.85153,Limited service
+TKM,Turkmenistan,rural,Sanitation,2000,0.94943,23115.60483,Limited service
+TKM,Turkmenistan,urban,Sanitation,2000,5.53807,114457.24298,Limited service
+TKM,Turkmenistan,total,Drinking water,2000,4.65637,209602.94474,Limited service
+TKM,Turkmenistan,rural,Drinking water,2000,1.31237,31952.12804,Limited service
+TKM,Turkmenistan,urban,Drinking water,2000,8.59572,177650.8108,Limited service
+TKM,Turkmenistan,total,Hygiene,2000,22.93497,1032398.96218,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2000,34,827792.0757,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2000,9.9,204606.90602,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2000,0.58856,26493.68774,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2000,0.86383,21031.5991,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2000,0.26429,5462.08912,Open defecation
+TKM,Turkmenistan,total,Drinking water,2000,67.25394,3027381.72471,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2000,50.23201,1222990.00825,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2000,87.30633,1804391.68641,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2000,9.68147,435803.35735,Surface water
+TKM,Turkmenistan,rural,Drinking water,2000,17.52041,426566.32472,Surface water
+TKM,Turkmenistan,urban,Drinking water,2000,0.44694,9237.04647,Surface water
+TKM,Turkmenistan,total,Sanitation,2000,1.16551,52464.33926,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2000,1.8684,45489.69344,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2000,0.33747,6974.64706,Unimproved
+TKM,Turkmenistan,total,Drinking water,2000,1.67406,75356.41937,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2000,2.94181,71623.64256,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2000,0.18061,3732.77905,Unimproved
+TKM,Turkmenistan,total,Sanitation,2001,95.28802,4337283.76341,At least basic
+TKM,Turkmenistan,rural,Sanitation,2001,96.4777,2365358.86548,At least basic
+TKM,Turkmenistan,urban,Sanitation,2001,93.89911,1971924.89671,At least basic
+TKM,Turkmenistan,total,Drinking water,2001,16.22222,738396.98519,Basic service
+TKM,Turkmenistan,rural,Drinking water,2001,27.14354,665482.45375,Basic service
+TKM,Turkmenistan,urban,Drinking water,2001,3.47204,72914.52026,Basic service
+TKM,Turkmenistan,total,Hygiene,2001,72.58038,3303686.13648,Basic service
+TKM,Turkmenistan,rural,Hygiene,2001,62.9938,1544428.70581,Basic service
+TKM,Turkmenistan,urban,Hygiene,2001,83.77231,1759257.44049,Basic service
+TKM,Turkmenistan,total,Hygiene,2001,5.9492,270793.44041,Limited service
+TKM,Turkmenistan,rural,Hygiene,2001,5.10528,125166.98635,Limited service
+TKM,Turkmenistan,urban,Hygiene,2001,6.93444,145626.45492,Limited service
+TKM,Turkmenistan,total,Sanitation,2001,3.0684,139666.04975,Limited service
+TKM,Turkmenistan,rural,Sanitation,2001,0.951,23315.83616,Limited service
+TKM,Turkmenistan,urban,Sanitation,2001,5.54036,116350.21576,Limited service
+TKM,Turkmenistan,total,Drinking water,2001,4.68621,213305.25844,Limited service
+TKM,Turkmenistan,rural,Drinking water,2001,1.334,32705.94674,Limited service
+TKM,Turkmenistan,urban,Drinking water,2001,8.59978,180599.31513,Limited service
+TKM,Turkmenistan,total,Hygiene,2001,21.47042,977282.42311,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2001,31.90092,782119.82667,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2001,9.29325,195162.58576,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2001,0.55151,25103.61168,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2001,0.81284,19928.49687,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2001,0.24643,5175.11454,Open defecation
+TKM,Turkmenistan,total,Drinking water,2001,68.50819,3118329.69212,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2001,52.37109,1283990.18988,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2001,87.34757,1834339.51876,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2001,9.02145,410635.02863,Surface water
+TKM,Turkmenistan,rural,Drinking water,2001,16.3949,401956.25756,Surface water
+TKM,Turkmenistan,urban,Drinking water,2001,0.41327,8678.76352,Surface water
+TKM,Turkmenistan,total,Sanitation,2001,1.09207,49708.57516,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2001,1.75846,43112.32032,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2001,0.3141,6596.25416,Unimproved
+TKM,Turkmenistan,total,Drinking water,2001,1.56192,71095.03563,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2001,2.75646,67580.6709,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2001,0.16735,3514.3635,Unimproved
+TKM,Turkmenistan,total,Sanitation,2002,95.38575,4387908.49709,At least basic
+TKM,Turkmenistan,rural,Sanitation,2002,96.63708,2384462.15504,At least basic
+TKM,Turkmenistan,urban,Sanitation,2002,93.93804,2003446.34266,At least basic
+TKM,Turkmenistan,total,Drinking water,2002,15.69107,721816.14128,Basic service
+TKM,Turkmenistan,rural,Drinking water,2002,26.25117,647731.81968,Basic service
+TKM,Turkmenistan,urban,Drinking water,2002,3.47368,74084.32672,Basic service
+TKM,Turkmenistan,total,Hygiene,2002,74.40923,3422952.39269,Basic service
+TKM,Turkmenistan,rural,Hygiene,2002,65.39959,1613695.94303,Basic service
+TKM,Turkmenistan,urban,Hygiene,2002,84.83282,1809256.44529,Basic service
+TKM,Turkmenistan,total,Hygiene,2002,5.57843,256617.19308,Limited service
+TKM,Turkmenistan,rural,Hygiene,2002,4.79856,118401.69149,Limited service
+TKM,Turkmenistan,urban,Hygiene,2002,6.48068,138215.50121,Limited service
+TKM,Turkmenistan,total,Sanitation,2002,3.08063,141714.22963,Limited service
+TKM,Turkmenistan,rural,Sanitation,2002,0.95257,23504.14128,Limited service
+TKM,Turkmenistan,urban,Sanitation,2002,5.54266,118210.08732,Limited service
+TKM,Turkmenistan,total,Drinking water,2002,4.71604,216946.16714,Limited service
+TKM,Turkmenistan,rural,Drinking water,2002,1.35563,33449.39944,Limited service
+TKM,Turkmenistan,urban,Drinking water,2002,8.60384,183496.76607,Limited service
+TKM,Turkmenistan,total,Hygiene,2002,20.01235,920602.41424,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2002,29.80184,735342.6453,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2002,8.6865,185259.77368,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2002,0.51461,23672.87186,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2002,0.76184,18798.05662,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2002,0.22857,4874.81536,Open defecation
+TKM,Turkmenistan,total,Drinking water,2002,69.77617,3209823.92212,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2002,54.55269,1346055.11072,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2002,87.38881,1863768.80402,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2002,8.36618,384858.69612,Surface water
+TKM,Turkmenistan,rural,Drinking water,2002,15.26939,376763.02395,Surface water
+TKM,Turkmenistan,urban,Drinking water,2002,0.37959,8095.67551,Surface water
+TKM,Turkmenistan,total,Sanitation,2002,1.01901,46876.40143,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2002,1.64851,40675.92689,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2002,0.29073,6200.47484,Unimproved
+TKM,Turkmenistan,total,Drinking water,2002,1.45053,66727.07334,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2002,2.57112,63440.92603,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2002,0.15408,3286.14785,Unimproved
+TKM,Turkmenistan,total,Sanitation,2003,95.48294,4438081.32282,At least basic
+TKM,Turkmenistan,rural,Sanitation,2003,96.79645,2403122.2375,At least basic
+TKM,Turkmenistan,urban,Sanitation,2003,93.97697,2034959.08296,At least basic
+TKM,Turkmenistan,total,Drinking water,2003,15.14123,703769.65056,Basic service
+TKM,Turkmenistan,rural,Drinking water,2003,25.31627,628515.6906,Basic service
+TKM,Turkmenistan,urban,Drinking water,2003,3.47532,75253.94169,Basic service
+TKM,Turkmenistan,total,Hygiene,2003,76.23202,3543291.69584,Basic service
+TKM,Turkmenistan,rural,Hygiene,2003,67.80539,1683374.21789,Basic service
+TKM,Turkmenistan,urban,Hygiene,2003,85.89333,1859917.49308,Basic service
+TKM,Turkmenistan,total,Hygiene,2003,5.20699,242022.77271,Limited service
+TKM,Turkmenistan,rural,Hygiene,2003,4.49185,111517.04227,Limited service
+TKM,Turkmenistan,urban,Hygiene,2003,6.02692,130505.73173,Limited service
+TKM,Turkmenistan,total,Sanitation,2003,3.09287,143757.51898,Limited service
+TKM,Turkmenistan,rural,Sanitation,2003,0.95414,23688.0776,Limited service
+TKM,Turkmenistan,urban,Sanitation,2003,5.54496,120069.44522,Limited service
+TKM,Turkmenistan,total,Drinking water,2003,4.7458,220586.37176,Limited service
+TKM,Turkmenistan,rural,Drinking water,2003,1.37726,34192.63509,Limited service
+TKM,Turkmenistan,urban,Drinking water,2003,8.6079,186393.74272,Limited service
+TKM,Turkmenistan,total,Hygiene,2003,18.56099,862721.53145,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2003,27.70276,687764.12483,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2003,8.07975,174957.3902,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2003,0.47785,22210.72269,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2003,0.71085,17647.95597,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2003,0.21071,4562.7663,Open defecation
+TKM,Turkmenistan,total,Drinking water,2003,71.05723,3302765.83504,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2003,56.77681,1409572.5888,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2003,87.43005,1893193.2719,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2003,7.71582,358634.19848,Surface water
+TKM,Turkmenistan,rural,Drinking water,2003,14.14388,351143.73767,Surface water
+TKM,Turkmenistan,urban,Drinking water,2003,0.34592,7490.44927,Surface water
+TKM,Turkmenistan,total,Sanitation,2003,0.94634,43986.43552,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2003,1.53856,38197.11392,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2003,0.26736,5789.32053,Unimproved
+TKM,Turkmenistan,total,Drinking water,2003,1.33992,62279.94416,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2003,2.38578,59230.73284,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2003,0.14082,3049.20944,Unimproved
+TKM,Turkmenistan,total,Sanitation,2004,95.57959,4489254.59168,At least basic
+TKM,Turkmenistan,rural,Sanitation,2004,96.95582,2422125.46953,At least basic
+TKM,Turkmenistan,urban,Sanitation,2004,94.0159,2067129.12177,At least basic
+TKM,Turkmenistan,total,Drinking water,2004,14.57298,684474.96209,Basic service
+TKM,Turkmenistan,rural,Drinking water,2004,24.33885,608026.96383,Basic service
+TKM,Turkmenistan,urban,Drinking water,2004,3.47696,76447.99557,Basic service
+TKM,Turkmenistan,total,Hygiene,2004,78.04876,3665853.39792,Basic service
+TKM,Turkmenistan,rural,Hygiene,2004,70.21119,1753997.95644,Basic service
+TKM,Turkmenistan,urban,Hygiene,2004,86.95384,1911855.44365,Basic service
+TKM,Turkmenistan,total,Hygiene,2004,4.83489,227088.90036,Limited service
+TKM,Turkmenistan,rural,Hygiene,2004,4.18513,104551.77681,Limited service
+TKM,Turkmenistan,urban,Hygiene,2004,5.57316,122537.12372,Limited service
+TKM,Turkmenistan,total,Sanitation,2004,3.10511,145842.98178,Limited service
+TKM,Turkmenistan,rural,Sanitation,2004,0.95571,23875.39643,Limited service
+TKM,Turkmenistan,urban,Sanitation,2004,5.54726,121967.58594,Limited service
+TKM,Turkmenistan,total,Drinking water,2004,4.77547,224297.95408,Limited service
+TKM,Turkmenistan,rural,Drinking water,2004,1.39889,34946.70378,Limited service
+TKM,Turkmenistan,urban,Drinking water,2004,8.61196,189351.25123,Limited service
+TKM,Turkmenistan,total,Hygiene,2004,17.11635,803933.70172,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2004,25.60368,639624.66073,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2004,7.473,164309.03865,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2004,0.44124,20724.69609,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2004,0.65986,16484.34294,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2004,0.19286,4240.3531,Open defecation
+TKM,Turkmenistan,total,Drinking water,2004,72.35109,3398240.93538,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2004,59.04345,1475008.37975,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2004,87.47129,1923232.5593,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2004,7.07038,332086.8548,Surface water
+TKM,Turkmenistan,rural,Drinking water,2004,13.01837,325221.51958,Surface water
+TKM,Turkmenistan,urban,Drinking water,2004,0.31224,6865.33359,Surface water
+TKM,Turkmenistan,total,Sanitation,2004,0.87406,41053.73045,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2004,1.42861,35689.18508,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2004,0.24399,5364.54521,Unimproved
+TKM,Turkmenistan,total,Drinking water,2004,1.23008,57775.29365,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2004,2.20044,54970.82705,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2004,0.12755,2804.46633,Unimproved
+TKM,Turkmenistan,total,Sanitation,2005,95.67535,4542511.75645,At least basic
+TKM,Turkmenistan,rural,Sanitation,2005,97.11519,2441549.42747,At least basic
+TKM,Turkmenistan,urban,Sanitation,2005,94.05483,2100962.3285,At least basic
+TKM,Turkmenistan,total,Drinking water,2005,14.08433,668701.24738,Basic service
+TKM,Turkmenistan,rural,Drinking water,2005,23.31892,586255.21095,Basic service
+TKM,Turkmenistan,urban,Drinking water,2005,3.6909,82446.0333,Basic service
+TKM,Turkmenistan,total,Hygiene,2005,79.86114,3791678.22548,Basic service
+TKM,Turkmenistan,rural,Hygiene,2005,72.61699,1825646.0131,Basic service
+TKM,Turkmenistan,urban,Hygiene,2005,88.01435,1966032.21484,Basic service
+TKM,Turkmenistan,total,Hygiene,2005,4.46227,211861.37337,Limited service
+TKM,Turkmenistan,rural,Hygiene,2005,3.87841,97506.13882,Limited service
+TKM,Turkmenistan,urban,Hygiene,2005,5.1194,114355.23475,Limited service
+TKM,Turkmenistan,total,Sanitation,2005,3.11785,148030.72089,Limited service
+TKM,Turkmenistan,rural,Sanitation,2005,0.95728,24066.86244,Limited service
+TKM,Turkmenistan,urban,Sanitation,2005,5.54955,123963.85918,Limited service
+TKM,Turkmenistan,total,Drinking water,2005,4.80586,228174.36059,Limited service
+TKM,Turkmenistan,rural,Drinking water,2005,1.42052,35712.91618,Limited service
+TKM,Turkmenistan,urban,Drinking water,2005,8.61602,192461.44556,Limited service
+TKM,Turkmenistan,total,Hygiene,2005,15.67659,744299.40115,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2005,23.5046,590923.53942,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2005,6.86625,153375.85907,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2005,0.40474,19216.3157,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2005,0.60886,15307.22984,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2005,0.175,3909.08579,Open defecation
+TKM,Turkmenistan,total,Drinking water,2005,73.56044,3492531.36233,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2005,61.35261,1542451.03538,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2005,87.30022,1950080.33108,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2005,6.42857,305218.05865,Surface water
+TKM,Turkmenistan,rural,Drinking water,2005,11.89286,298995.43043,Surface water
+TKM,Turkmenistan,urban,Drinking water,2005,0.27857,6222.62636,Surface water
+TKM,Turkmenistan,total,Sanitation,2005,0.80205,38080.20695,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2005,1.31866,33152.17159,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2005,0.22062,4928.03518,Unimproved
+TKM,Turkmenistan,total,Drinking water,2005,1.1208,53213.97105,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2005,2.0151,50661.09839,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2005,0.11429,2552.87235,Unimproved
+TKM,Turkmenistan,total,Sanitation,2006,95.77017,4598494.84056,At least basic
+TKM,Turkmenistan,rural,Sanitation,2006,97.27456,2461661.2611,At least basic
+TKM,Turkmenistan,urban,Sanitation,2006,94.09376,2136833.57727,At least basic
+TKM,Turkmenistan,total,Drinking water,2006,13.57698,651911.253,Basic service
+TKM,Turkmenistan,rural,Drinking water,2006,22.25646,563229.15718,Basic service
+TKM,Turkmenistan,urban,Drinking water,2006,3.90504,88682.08318,Basic service
+TKM,Turkmenistan,total,Hygiene,2006,81.66885,3921406.74029,Basic service
+TKM,Turkmenistan,rural,Hygiene,2006,75.02278,1898550.60813,Basic service
+TKM,Turkmenistan,urban,Hygiene,2006,89.07486,2022856.14184,Basic service
+TKM,Turkmenistan,total,Hygiene,2006,4.08908,196341.20804,Limited service
+TKM,Turkmenistan,rural,Hygiene,2006,3.57169,90386.35264,Limited service
+TKM,Turkmenistan,urban,Hygiene,2006,4.66564,105954.85616,Limited service
+TKM,Turkmenistan,total,Sanitation,2006,3.13116,150345.48959,Limited service
+TKM,Turkmenistan,rural,Sanitation,2006,0.95886,24265.10898,Limited service
+TKM,Turkmenistan,urban,Sanitation,2006,5.55185,126080.38378,Limited service
+TKM,Turkmenistan,total,Drinking water,2006,4.83702,232254.14325,Limited service
+TKM,Turkmenistan,rural,Drinking water,2006,1.44215,36495.45389,Limited service
+TKM,Turkmenistan,urban,Drinking water,2006,8.62008,195758.69431,Limited service
+TKM,Turkmenistan,total,Hygiene,2006,14.24206,683846.05167,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2006,21.40552,541695.07212,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2006,6.2595,142150.96911,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2006,0.36834,17686.20827,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2006,0.55787,14117.55347,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2006,0.15714,3568.65452,Open defecation
+TKM,Turkmenistan,total,Drinking water,2006,74.78322,3590786.578,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2006,63.70429,1612121.07906,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2006,87.12896,1978665.51507,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2006,5.79065,278043.47748,Surface water
+TKM,Turkmenistan,rural,Drinking water,2006,10.76735,272481.93073,Surface water
+TKM,Turkmenistan,urban,Drinking water,2006,0.2449,5561.53951,Surface water
+TKM,Turkmenistan,total,Sanitation,2006,0.73033,35067.46157,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2006,1.20871,30588.10933,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2006,0.19724,4479.35154,Unimproved
+TKM,Turkmenistan,total,Drinking water,2006,1.01213,48598.54827,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2006,1.82976,46304.41203,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2006,0.10102,2294.13505,Unimproved
+TKM,Turkmenistan,total,Sanitation,2007,95.86403,4657299.86326,At least basic
+TKM,Turkmenistan,rural,Sanitation,2007,97.43394,2482520.52854,At least basic
+TKM,Turkmenistan,urban,Sanitation,2007,94.13269,2174779.33423,At least basic
+TKM,Turkmenistan,total,Drinking water,2007,13.05187,634090.64033,Basic service
+TKM,Turkmenistan,rural,Drinking water,2007,21.15149,538919.05435,Basic service
+TKM,Turkmenistan,urban,Drinking water,2007,4.11939,95171.58345,Basic service
+TKM,Turkmenistan,total,Hygiene,2007,83.47129,4055231.59773,Basic service
+TKM,Turkmenistan,rural,Hygiene,2007,77.42858,1972803.85931,Basic service
+TKM,Turkmenistan,urban,Hygiene,2007,90.13537,2082427.7403,Basic service
+TKM,Turkmenistan,total,Hygiene,2007,3.71527,180496.69945,Limited service
+TKM,Turkmenistan,rural,Hygiene,2007,3.26497,83188.28166,Limited service
+TKM,Turkmenistan,urban,Hygiene,2007,4.21188,97308.41793,Limited service
+TKM,Turkmenistan,total,Sanitation,2007,3.14497,152790.0338,Limited service
+TKM,Turkmenistan,rural,Sanitation,2007,0.96043,24470.72314,Limited service
+TKM,Turkmenistan,urban,Sanitation,2007,5.55415,128319.31134,Limited service
+TKM,Turkmenistan,total,Drinking water,2007,4.86889,236541.95859,Limited service
+TKM,Turkmenistan,rural,Drinking water,2007,1.46378,37295.58965,Limited service
+TKM,Turkmenistan,urban,Drinking water,2007,8.62414,199246.37001,Limited service
+TKM,Turkmenistan,total,Hygiene,2007,12.81343,622506.70282,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2007,19.30645,491909.18995,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2007,5.65276,130597.51085,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2007,0.33207,16132.57006,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2007,0.50687,12914.60525,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2007,0.13929,3217.96475,Open defecation
+TKM,Turkmenistan,total,Drinking water,2007,76.01799,3693132.40872,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2007,66.09848,1684124.12237,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2007,86.9575,2009008.28944,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2007,5.15711,250544.47839,Surface water
+TKM,Turkmenistan,rural,Drinking water,2007,9.64184,245664.48649,Surface water
+TKM,Turkmenistan,urban,Drinking water,2007,0.21122,4879.99051,Surface water
+TKM,Turkmenistan,total,Sanitation,2007,0.65893,32012.53288,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2007,1.09877,27995.474,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2007,0.17387,4017.05875,Unimproved
+TKM,Turkmenistan,total,Drinking water,2007,0.90415,43925.51397,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2007,1.64442,41898.07807,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2007,0.08776,2027.43567,Unimproved
+TKM,Turkmenistan,total,Sanitation,2008,95.95685,4718717.61668,At least basic
+TKM,Turkmenistan,rural,Sanitation,2008,97.59331,2503929.8358,At least basic
+TKM,Turkmenistan,urban,Sanitation,2008,94.17163,2214787.78053,At least basic
+TKM,Turkmenistan,total,Drinking water,2008,12.50963,615166.16571,Basic service
+TKM,Turkmenistan,rural,Drinking water,2008,20.004,513238.0811,Basic service
+TKM,Turkmenistan,urban,Drinking water,2008,4.33393,101928.08296,Basic service
+TKM,Turkmenistan,total,Hygiene,2008,85.26813,4193095.20247,Basic service
+TKM,Turkmenistan,rural,Hygiene,2008,79.83438,2048292.96059,Basic service
+TKM,Turkmenistan,urban,Hygiene,2008,91.19588,2144802.24307,Basic service
+TKM,Turkmenistan,total,Hygiene,2008,3.3408,164285.04466,Limited service
+TKM,Turkmenistan,rural,Hygiene,2008,2.95825,75899.27886,Limited service
+TKM,Turkmenistan,urban,Hygiene,2008,3.75812,88385.76589,Limited service
+TKM,Turkmenistan,total,Sanitation,2008,3.15934,155361.70319,Limited service
+TKM,Turkmenistan,rural,Sanitation,2008,0.962,24681.75915,Limited service
+TKM,Turkmenistan,urban,Sanitation,2008,5.55644,130679.94453,Limited service
+TKM,Turkmenistan,total,Drinking water,2008,4.90152,241034.15099,Limited service
+TKM,Turkmenistan,rural,Drinking water,2008,1.48541,38110.72978,Limited service
+TKM,Turkmenistan,urban,Drinking water,2008,8.6282,202923.42196,Limited service
+TKM,Turkmenistan,total,Hygiene,2008,11.39107,560160.75287,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2008,17.20737,441485.59139,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2008,5.04601,118675.1602,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2008,0.29592,14552.19038,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2008,0.45588,11696.35649,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2008,0.12143,2855.83385,Open defecation
+TKM,Turkmenistan,total,Drinking water,2008,77.26375,3799476.39517,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2008,68.5352,1758392.38797,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2008,86.78583,2041084.00911,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2008,4.52822,222677.25973,Surface water
+TKM,Turkmenistan,rural,Drinking water,2008,8.51633,218501.5018,Surface water
+TKM,Turkmenistan,urban,Drinking water,2008,0.17755,4175.75706,Surface water
+TKM,Turkmenistan,total,Sanitation,2008,0.58789,28909.48974,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2008,0.98882,25369.8794,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2008,0.1505,3539.61026,Unimproved
+TKM,Turkmenistan,total,Drinking water,2008,0.79688,39187.0284,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2008,1.45907,37435.13018,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2008,0.07449,1751.89807,Unimproved
+TKM,Turkmenistan,total,Sanitation,2009,96.0486,4782221.33423,At least basic
+TKM,Turkmenistan,rural,Sanitation,2009,97.75268,2525569.55508,At least basic
+TKM,Turkmenistan,urban,Sanitation,2009,94.21056,2256651.7771,At least basic
+TKM,Turkmenistan,total,Drinking water,2009,11.95108,595039.72257,Basic service
+TKM,Turkmenistan,rural,Drinking water,2009,18.81398,486084.11792,Basic service
+TKM,Turkmenistan,urban,Drinking water,2009,4.54867,108955.59641,Basic service
+TKM,Turkmenistan,total,Hygiene,2009,87.05887,4334626.55787,Basic service
+TKM,Turkmenistan,rural,Hygiene,2009,82.24018,2124783.5729,Basic service
+TKM,Turkmenistan,urban,Hygiene,2009,92.25639,2209842.99075,Basic service
+TKM,Turkmenistan,total,Hygiene,2009,2.9656,147656.11386,Limited service
+TKM,Turkmenistan,rural,Hygiene,2009,2.65154,68505.9415,Limited service
+TKM,Turkmenistan,urban,Hygiene,2009,3.30436,79150.17273,Limited service
+TKM,Turkmenistan,total,Sanitation,2009,3.17426,158045.12517,Limited service
+TKM,Turkmenistan,rural,Sanitation,2009,0.96357,24895.06638,Limited service
+TKM,Turkmenistan,urban,Sanitation,2009,5.55874,133150.06144,Limited service
+TKM,Turkmenistan,total,Drinking water,2009,4.93491,245707.13675,Limited service
+TKM,Turkmenistan,rural,Drinking water,2009,1.50703,38936.23838,Limited service
+TKM,Turkmenistan,urban,Drinking water,2009,8.63226,206770.90249,Limited service
+TKM,Turkmenistan,total,Hygiene,2009,9.97552,496677.32827,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2009,15.10829,390342.56145,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2009,4.43926,106334.76066,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2009,0.25993,12941.57287,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2009,0.40488,10460.69734,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2009,0.10357,2480.87535,Open defecation
+TKM,Turkmenistan,total,Drinking water,2009,78.51921,3909440.21625,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2009,71.01443,1834751.66648,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2009,86.61397,2074688.55878,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2009,3.90439,194397.84462,Surface water
+TKM,Turkmenistan,rural,Drinking water,2009,7.39082,190951.50128,Surface water
+TKM,Turkmenistan,urban,Drinking water,2009,0.14388,3446.33916,Surface water
+TKM,Turkmenistan,total,Sanitation,2009,0.51722,25751.96774,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2009,0.87887,22706.75706,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2009,0.12713,3045.21024,Unimproved
+TKM,Turkmenistan,total,Drinking water,2009,0.69041,34375.07981,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2009,1.27373,32908.55181,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2009,0.06122,1466.5273,Unimproved
+TKM,Turkmenistan,total,Sanitation,2010,96.1393,4847338.54068,At least basic
+TKM,Turkmenistan,rural,Sanitation,2010,97.91205,2547249.11087,At least basic
+TKM,Turkmenistan,urban,Sanitation,2010,94.24949,2300089.42902,At least basic
+TKM,Turkmenistan,total,Drinking water,2010,11.37736,573646.03717,Basic service
+TKM,Turkmenistan,rural,Drinking water,2010,17.58145,457393.54422,Basic service
+TKM,Turkmenistan,urban,Drinking water,2010,4.76361,116252.4902,Basic service
+TKM,Turkmenistan,total,Hygiene,2010,88.84287,4479453.24431,Basic service
+TKM,Turkmenistan,rural,Hygiene,2010,84.64597,2202123.03562,Basic service
+TKM,Turkmenistan,urban,Hygiene,2010,93.3169,2277330.21056,Basic service
+TKM,Turkmenistan,total,Hygiene,2010,2.58962,130568.74952,Limited service
+TKM,Turkmenistan,rural,Hygiene,2010,2.34482,61002.04979,Limited service
+TKM,Turkmenistan,urban,Hygiene,2010,2.8506,69566.69984,Limited service
+TKM,Turkmenistan,total,Sanitation,2010,3.18965,160821.79462,Limited service
+TKM,Turkmenistan,rural,Sanitation,2010,0.96514,25108.76628,Limited service
+TKM,Turkmenistan,urban,Sanitation,2010,5.56104,135713.02932,Limited service
+TKM,Turkmenistan,total,Drinking water,2010,4.96891,250532.25003,Limited service
+TKM,Turkmenistan,rural,Drinking water,2010,1.52866,39769.24211,Limited service
+TKM,Turkmenistan,urban,Drinking water,2010,8.63632,210763.00945,Limited service
+TKM,Turkmenistan,total,Hygiene,2010,8.5675,431973.00616,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2010,13.00921,338443.47315,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2010,3.83251,93529.53104,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2010,0.22409,11298.45815,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2010,0.35389,9206.664,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2010,0.08571,2091.79409,Open defecation
+TKM,Turkmenistan,total,Drinking water,2010,79.78281,4022645.39216,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2010,73.53619,1913094.3113,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2010,86.4419,2109551.08364,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2010,3.28611,165685.68505,Surface water
+TKM,Turkmenistan,rural,Drinking water,2010,6.26531,162996.23418,Surface water
+TKM,Turkmenistan,urban,Drinking water,2010,0.1102,2689.44955,Surface water
+TKM,Turkmenistan,total,Sanitation,2010,0.44697,22536.20655,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2010,0.76892,20004.0174,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2010,0.10376,2532.189,Unimproved
+TKM,Turkmenistan,total,Drinking water,2010,0.5848,29485.63558,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2010,1.08839,28315.22675,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2010,0.04796,1170.4086,Unimproved
+TKM,Turkmenistan,total,Sanitation,2011,96.22883,4914090.962,At least basic
+TKM,Turkmenistan,rural,Sanitation,2011,98.07142,2568848.72465,At least basic
+TKM,Turkmenistan,urban,Sanitation,2011,94.28842,2345242.23594,At least basic
+TKM,Turkmenistan,total,Drinking water,2011,10.78905,550961.18105,Basic service
+TKM,Turkmenistan,rural,Drinking water,2011,16.3064,427124.23593,Basic service
+TKM,Turkmenistan,urban,Drinking water,2011,4.97876,123836.94089,Basic service
+TKM,Turkmenistan,total,Hygiene,2011,90.61987,4627659.42401,Basic service
+TKM,Turkmenistan,rural,Hygiene,2011,87.05177,2280203.82238,Basic service
+TKM,Turkmenistan,urban,Hygiene,2011,94.37741,2347455.60437,Basic service
+TKM,Turkmenistan,total,Hygiene,2011,2.21283,113001.93515,Limited service
+TKM,Turkmenistan,rural,Hygiene,2011,2.0381,53385.2797,Limited service
+TKM,Turkmenistan,urban,Hygiene,2011,2.39684,59616.65559,Limited service
+TKM,Turkmenistan,total,Sanitation,2011,3.20559,163698.8736,Limited service
+TKM,Turkmenistan,rural,Sanitation,2011,0.96671,25321.67819,Limited service
+TKM,Turkmenistan,urban,Sanitation,2011,5.56333,138377.19713,Limited service
+TKM,Turkmenistan,total,Drinking water,2011,5.00366,255520.56843,Limited service
+TKM,Turkmenistan,rural,Drinking water,2011,1.55029,40607.83737,Limited service
+TKM,Turkmenistan,urban,Drinking water,2011,8.64038,214912.73372,Limited service
+TKM,Turkmenistan,total,Hygiene,2011,7.1673,366010.64084,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2011,10.91013,285776.12948,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2011,3.22576,80234.50849,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2011,0.18841,9621.72937,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2011,0.30289,7933.91397,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2011,0.06786,1687.81531,Open defecation
+TKM,Turkmenistan,total,Drinking water,2011,81.05356,4139139.57514,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2011,76.10046,1993348.97937,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2011,86.26964,2145790.59958,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2011,2.67363,136533.58025,Surface water
+TKM,Turkmenistan,rural,Drinking water,2011,5.1398,134630.02726,Surface water
+TKM,Turkmenistan,urban,Drinking water,2011,0.07653,1903.5511,Surface water
+TKM,Turkmenistan,total,Sanitation,2011,0.37716,19260.43503,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2011,0.65897,17260.91475,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2011,0.08039,1999.52006,Unimproved
+TKM,Turkmenistan,total,Drinking water,2011,0.4801,24517.09512,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2011,0.90305,23654.15164,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2011,0.03469,862.94316,Unimproved
+TKM,Turkmenistan,total,Sanitation,2012,96.31721,4982432.37628,At least basic
+TKM,Turkmenistan,rural,Sanitation,2012,98.23079,2590356.03877,At least basic
+TKM,Turkmenistan,urban,Sanitation,2012,94.32735,2392076.33992,At least basic
+TKM,Turkmenistan,total,Drinking water,2012,10.18716,526975.80155,Basic service
+TKM,Turkmenistan,rural,Drinking water,2012,14.98883,395257.05636,Basic service
+TKM,Turkmenistan,urban,Drinking water,2012,5.1941,131718.75121,Basic service
+TKM,Turkmenistan,total,Hygiene,2012,92.38931,4779244.6999,Basic service
+TKM,Turkmenistan,rural,Hygiene,2012,89.45757,2359005.19736,Basic service
+TKM,Turkmenistan,urban,Hygiene,2012,95.43792,2420239.49886,Basic service
+TKM,Turkmenistan,total,Hygiene,2012,1.83516,94931.75601,Limited service
+TKM,Turkmenistan,rural,Hygiene,2012,1.73138,45656.71167,Limited service
+TKM,Turkmenistan,urban,Hygiene,2012,1.94308,49275.04421,Limited service
+TKM,Turkmenistan,total,Sanitation,2012,3.22204,166674.25023,Limited service
+TKM,Turkmenistan,rural,Sanitation,2012,0.96828,25533.68027,Limited service
+TKM,Turkmenistan,urban,Sanitation,2012,5.56563,141140.56713,Limited service
+TKM,Turkmenistan,total,Drinking water,2012,5.03908,260668.74949,Limited service
+TKM,Turkmenistan,rural,Drinking water,2012,1.57192,41451.74638,Limited service
+TKM,Turkmenistan,urban,Drinking water,2012,8.64444,219216.99875,Limited service
+TKM,Turkmenistan,total,Hygiene,2012,5.77553,298764.54409,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2012,8.81105,232348.2861,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2012,2.61901,66416.2618,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2012,0.15292,7910.59644,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2012,0.2519,6642.63116,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2012,0.05,1267.9654,Open defecation
+TKM,Turkmenistan,total,Drinking water,2012,82.33001,4258883.06864,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2012,78.70725,2075518.25042,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2012,86.09718,2183364.81366,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2012,2.06737,106943.94859,Surface water
+TKM,Turkmenistan,rural,Drinking water,2012,4.01429,105857.12355,Surface water
+TKM,Turkmenistan,urban,Drinking water,2012,0.04286,1086.82749,Surface water
+TKM,Turkmenistan,total,Sanitation,2012,0.30783,15923.77705,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2012,0.54902,14477.84494,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2012,0.05702,1445.93241,Unimproved
+TKM,Turkmenistan,total,Drinking water,2012,0.37637,19469.43174,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2012,0.71771,18926.01842,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2012,0.02143,543.41374,Unimproved
+TKM,Turkmenistan,total,Sanitation,2013,96.40438,5051674.27978,At least basic
+TKM,Turkmenistan,rural,Sanitation,2013,98.39017,2611377.95053,At least basic
+TKM,Turkmenistan,urban,Sanitation,2013,94.36628,2440296.33246,At least basic
+TKM,Turkmenistan,total,Drinking water,2013,9.57262,501613.56362,Basic service
+TKM,Turkmenistan,rural,Drinking water,2013,13.62874,361721.14363,Basic service
+TKM,Turkmenistan,urban,Drinking water,2013,5.40964,139892.42657,Basic service
+TKM,Turkmenistan,total,Hygiene,2013,94.15077,4933583.07119,Basic service
+TKM,Turkmenistan,rural,Hygiene,2013,91.86337,2438149.86244,Basic service
+TKM,Turkmenistan,urban,Hygiene,2013,96.49843,2495433.20505,Basic service
+TKM,Turkmenistan,total,Hygiene,2013,1.45657,76325.49475,Limited service
+TKM,Turkmenistan,rural,Hygiene,2013,1.42466,37812.06015,Limited service
+TKM,Turkmenistan,urban,Hygiene,2013,1.48931,38513.43455,Limited service
+TKM,Turkmenistan,total,Sanitation,2013,3.239,169726.61055,Limited service
+TKM,Turkmenistan,rural,Sanitation,2013,0.96985,25740.89765,Limited service
+TKM,Turkmenistan,urban,Sanitation,2013,5.56793,143985.70923,Limited service
+TKM,Turkmenistan,total,Drinking water,2013,5.07517,265943.27796,Limited service
+TKM,Turkmenistan,rural,Drinking water,2013,1.59355,42294.51566,Limited service
+TKM,Turkmenistan,urban,Drinking water,2013,8.6485,223648.75666,Limited service
+TKM,Turkmenistan,total,Hygiene,2013,4.39266,230179.43405,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2013,6.71197,178142.72937,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2013,2.01226,52036.70845,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2013,0.11762,6163.45524,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2013,0.20091,5332.24645,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2013,0.03214,831.20893,Open defecation
+TKM,Turkmenistan,total,Drinking water,2013,83.61085,4381281.89939,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2013,81.35656,2159288.31987,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2013,85.92451,2221993.57586,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2013,1.4677,76908.61117,Surface water
+TKM,Turkmenistan,rural,Drinking water,2013,2.88878,76671.1252,Surface water
+TKM,Turkmenistan,urban,Drinking water,2013,0.00918,237.48827,Surface water
+TKM,Turkmenistan,total,Sanitation,2013,0.239,12523.65443,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2013,0.43908,11653.55733,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2013,0.03365,870.09742,Unimproved
+TKM,Turkmenistan,total,Drinking water,2013,0.27367,14340.64786,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2013,0.53237,14129.5476,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2013,0.00816,211.10068,Unimproved
+TKM,Turkmenistan,total,Sanitation,2014,96.49031,5120921.89852,At least basic
+TKM,Turkmenistan,rural,Sanitation,2014,98.54954,2631422.86363,At least basic
+TKM,Turkmenistan,urban,Sanitation,2014,94.40521,2489499.0355,At least basic
+TKM,Turkmenistan,total,Drinking water,2014,8.94553,474755.98846,Basic service
+TKM,Turkmenistan,rural,Drinking water,2014,12.22614,326456.49329,Basic service
+TKM,Turkmenistan,urban,Drinking water,2014,5.62372,148299.49613,Basic service
+TKM,Turkmenistan,total,Hygiene,2014,95.90378,5089794.15957,Basic service
+TKM,Turkmenistan,rural,Hygiene,2014,94.26916,2517130.35867,Basic service
+TKM,Turkmenistan,urban,Hygiene,2014,97.55893,2572663.80042,Basic service
+TKM,Turkmenistan,total,Hygiene,2014,1.07701,57158.78359,Limited service
+TKM,Turkmenistan,rural,Hygiene,2014,1.11795,29850.84384,Limited service
+TKM,Turkmenistan,urban,Hygiene,2014,1.03555,27307.93976,Limited service
+TKM,Turkmenistan,total,Sanitation,2014,3.25648,172827.31976,Limited service
+TKM,Turkmenistan,rural,Sanitation,2014,0.97142,25938.48454,Limited service
+TKM,Turkmenistan,urban,Sanitation,2014,5.57023,146888.83455,Limited service
+TKM,Turkmenistan,total,Drinking water,2014,5.11064,271231.35097,Limited service
+TKM,Turkmenistan,rural,Drinking water,2014,1.61518,43127.7741,Limited service
+TKM,Turkmenistan,urban,Drinking water,2014,8.65,228103.57584,Limited service
+TKM,Turkmenistan,total,Hygiene,2014,3.01921,160235.05684,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2014,4.61289,123171.23862,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2014,1.40551,37063.81869,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2014,0.08252,4379.57756,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2014,0.14991,4002.85822,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2014,0.01429,376.71937,Open defecation
+TKM,Turkmenistan,total,Drinking water,2014,84.8821,4504852.71094,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2014,84.04839,2244220.22381,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2014,85.72628,2260632.48689,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2014,0.88713,47081.87136,Surface water
+TKM,Turkmenistan,rural,Drinking water,2014,1.76327,47081.87162,Surface water
+TKM,Turkmenistan,urban,Drinking water,2014,0,0,Surface water
+TKM,Turkmenistan,total,Sanitation,2014,0.1707,9059.20415,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2014,0.32913,8788.23475,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2014,0.01028,270.96945,Unimproved
+TKM,Turkmenistan,total,Drinking water,2014,0.17459,9266.07827,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2014,0.34702,9266.07832,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2014,0,0,Unimproved
+TKM,Turkmenistan,total,Sanitation,2015,96.56707,5189033.61816,At least basic
+TKM,Turkmenistan,rural,Sanitation,2015,98.70891,2650100.12679,At least basic
+TKM,Turkmenistan,urban,Sanitation,2015,94.42841,2538933.49425,At least basic
+TKM,Turkmenistan,total,Drinking water,2015,8.30711,446382.49204,Basic service
+TKM,Turkmenistan,rural,Drinking water,2015,10.78101,289444.55667,Basic service
+TKM,Turkmenistan,urban,Drinking water,2015,5.83686,156937.9387,Basic service
+TKM,Turkmenistan,total,Hygiene,2015,97.64792,5247113.03417,Basic service
+TKM,Turkmenistan,rural,Hygiene,2015,96.67496,2595493.44341,Basic service
+TKM,Turkmenistan,urban,Hygiene,2015,98.61944,2651619.58946,Basic service
+TKM,Turkmenistan,total,Hygiene,2015,0.69643,37422.44927,Limited service
+TKM,Turkmenistan,rural,Hygiene,2015,0.81123,21779.52431,Limited service
+TKM,Turkmenistan,urban,Hygiene,2015,0.58179,15642.92511,Limited service
+TKM,Turkmenistan,total,Sanitation,2015,3.274,175928.22757,Limited service
+TKM,Turkmenistan,rural,Sanitation,2015,0.97299,26122.59022,Limited service
+TKM,Turkmenistan,urban,Sanitation,2015,5.57159,149805.63425,Limited service
+TKM,Turkmenistan,total,Drinking water,2015,5.146,276520.38703,Limited service
+TKM,Turkmenistan,rural,Drinking water,2015,1.63681,43944.4477,Limited service
+TKM,Turkmenistan,urban,Drinking water,2015,8.65,232575.93462,Limited service
+TKM,Turkmenistan,total,Hygiene,2015,1.65565,88966.51656,No handwashing facility
+TKM,Turkmenistan,rural,Hygiene,2015,2.51381,67489.90377,No handwashing facility
+TKM,Turkmenistan,urban,Hygiene,2015,0.79876,21476.61394,No handwashing facility
+TKM,Turkmenistan,total,Sanitation,2015,0.04942,2655.68117,Open defecation
+TKM,Turkmenistan,rural,Sanitation,2015,0.09892,2655.68124,Open defecation
+TKM,Turkmenistan,urban,Sanitation,2015,0,0,Open defecation
+TKM,Turkmenistan,total,Drinking water,2015,86.14747,4629136.11064,Safely managed service
+TKM,Turkmenistan,rural,Drinking water,2015,86.78274,2329910.8563,Safely managed service
+TKM,Turkmenistan,urban,Drinking water,2015,85.51314,2299225.25519,Safely managed service
+TKM,Turkmenistan,total,Drinking water,2015,0.31864,17122.21176,Surface water
+TKM,Turkmenistan,rural,Drinking water,2015,0.63776,17122.21219,Surface water
+TKM,Turkmenistan,urban,Drinking water,2015,0,0,Surface water
+TKM,Turkmenistan,total,Sanitation,2015,0.10951,5884.4731,Unimproved
+TKM,Turkmenistan,rural,Sanitation,2015,0.21918,5884.47324,Unimproved
+TKM,Turkmenistan,urban,Sanitation,2015,0,0,Unimproved
+TKM,Turkmenistan,total,Drinking water,2015,0.08078,4340.79852,Unimproved
+TKM,Turkmenistan,rural,Drinking water,2015,0.16168,4340.79863,Unimproved
+TKM,Turkmenistan,urban,Drinking water,2015,0,0,Unimproved
