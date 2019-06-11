@@ -50,6 +50,8 @@ CGDV promotes open data for public good. We recommended the following data sourc
 
 * [IPUMS](https://www.ipums.org/) IPUMS provides census and survey data from around the world integrated across time and space
 
+* [INFORM](http://www.inform-index.org/): INFORM is a global, open-source risk assessment for humanitarian crises and disasters. 
+
 * [ACLED](https://www.acleddata.com/): The Armed Conflict Location & Event Data Project (ACLED) is a disaggregated conflict analysis and crisis mapping project.
 
 * [International Futures (IFs) model](https://pardee.du.edu/access-ifs): Pardee Center for International Futures is the home of International Futures model and a hub of long-term forecasting and global trend analysis.
