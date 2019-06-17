@@ -1,4 +1,4 @@
-var map = L.map("caseMap").setView([0.8, 29.5], 8);
+var map = L.map("caseMap").setView([1, 29.5], 8);
 L.tileLayer(
   "https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}",
   {
