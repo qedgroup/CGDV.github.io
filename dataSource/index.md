@@ -28,6 +28,8 @@ CGDV promotes open data for public good. We recommended the following data sourc
 
 * [Humanitarian Data Exchange](https://data.humdata.org/): Find, share and use humanitarian data all in one place
 
+* [Google Public Data](https://www.google.com/publicdata/directory): Google’s Public Data Explorer
+
 * [UNICEF data](https://data.unicef.org/): Monitoring the situation of children and women.
 
 * [Global Health Observatory data repository](http://apps.who.int/gho/data/node.home): WHO's gateway to health-related statistics for more than 1000 indicators for its 194 Member States.
