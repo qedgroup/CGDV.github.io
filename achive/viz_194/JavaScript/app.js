@@ -87,7 +87,7 @@ let graphDimensions = {
 runApp(country);
 
 function runApp(country) {
-  d3.csv("../data/clean_data.csv").then(dataset => {
+  d3.csv("https://raw.githubusercontent.com/CGDV/CGDV.github.io/master/achive/viz_194/data/clean_data.csv").then(dataset => {
     //performanceScatterPlot(d, thetasInput);
     // filter dataset
     let data = dataset.filter(d => d.country === country);
