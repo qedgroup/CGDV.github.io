@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="//rawgithub.com/Caged/d3-tip/master/examples/example-styles.css"
+    />
+    <style>
+      #loading,
+      #results {
+        display: none;
+      }
+    </style>
+
+    <title>Food Security Index Prediction Model</title>
+  </head>
+  <body class="bg-dark">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10 mx-auto">
+          <div class="card card-body text-center mt-5">
+            <h1 class="heading display-5 pb-3">
+              Food Security Index Prediction Model
+            </h1>
+            <h3 class="heading display-5 pb-3" id="country-name"></h3>
+            <div id="prediction-plot"></div>
+            <form id="self-reliance-form">
+              <div class="form-group">
+                <!-- Open And Accountable Governance -->
+                <div class="input-group">
+                  <span class="input-group-text"
+                    >Open And Accountable Governance</span
+                  >
+                  <input
+                    type="number"
+                    step="0.01"
+                    max="1"
+                    min="0"
+                    class="form-control"
+                    id="open-and-accountable-governance"
+                    placeholder="0"
+                    required
+                  />
+                </div>
+                <!-- Inclusive Development -->
+                <div class="input-group">
+                  <span class="input-group-text">Inclusive Development</span>
+                  <input
+                    type="number"
+                    step="0.01"
+                    max="1"
+                    min="0"
+                    class="form-control"
+                    id="inclusive-development"
+                    placeholder="0"
+                    required
+                  />
+                </div>
+                <!-- Economic Policy -->
+                <div class="input-group">
+                  <span class="input-group-text">Economic Policy</span>
+                  <input
+                    type="number"
+                    step="0.01"
+                    max="1"
+                    min="0"
+                    class="form-control"
+                    id="economic-policy"
+                    placeholder="0"
+                    required
+                  />
+                </div>
+                <!-- Government Capacity -->
+                <div class="input-group">
+                  <span class="input-group-text">Government Capacity</span>
+                  <input
+                    type="number"
+                    step="0.01"
+                    max="1"
+                    min="0"
+                    class="form-control"
+                    id="government-capacity"
+                    placeholder="0"
+                    required
+                  />
+                </div>
+                <!-- Civil Society Capacity -->
+                <div class="input-group">
+                  <span class="input-group-text">Civil Society Capacity</span>
+                  <input
+                    type="number"
+                    step="0.01"
+                    max="1"
+                    min="0"
+                    class="form-control"
+                    id="civil-society-capacity"
+                    placeholder="0"
+                    required
+                  />
+                </div>
+                <!-- Citizen Capacity -->
+                <div class="input-group">
+                  <span class="input-group-text">Citizen Capacity</span>
+                  <input
+                    type="number"
+                    step="0.01"
+                    max="1"
+                    min="0"
+                    class="form-control"
+                    id="citizen-capacity"
+                    placeholder="0"
+                    required
+                  />
+                </div>
+                <!-- Capacity of the Economy -->
+                <div class="input-group">
+                  <span class="input-group-text">Capacity of the Economy</span>
+                  <input
+                    type="number"
+                    step="0.01"
+                    max="1"
+                    min="0"
+                    class="form-control"
+                    id="capacity-of-the-economy"
+                    placeholder="0"
+                    required
+                  />
+                </div>
+              </div>
+              <!-- submit btn -->
+              <div class="form-group">
+                <div class="input-group">
+                  <input
+                    type="submit"
+                    value="Run"
+                    class="btn btn-dark btn-block"
+                  />
+                </div>
+              </div>
+            </form>
+
+            <!-- Loader -->
+            <div id="loading"><img src="img/loading.gif" alt="" /></div>
+
+            <!-- Result -->
+            <div id="results" class="pt-4">
+              <h5>Prediction</h5>
+              <!-- Food Security Index -->
+              <div class="form-group">
+                <div class="input-group">
+                  <span class="input-group-text">Food Security Index</span>
+                  <input
+                    type="number"
+                    step="0.01"
+                    class="form-control"
+                    id="calculated-prediction"
+                    disabled
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--
+    <div id="scatter-plot">
+      <h3>Prediction Model Performance</h3>
+    </div>
+-->
+    <!-- D3 -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://d3js.org/d3-color.v1.min.js"></script>
+    <script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+    <script src="JavaScript/d3-tip.js"></script>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+      integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+      integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+      crossorigin="anonymous"
+    ></script>
+    <script src="JavaScript/predict.js"></script>
+    <script src="JavaScript/performanceScatterPlot.js"></script>
+    <script src="JavaScript/predictionPlot.js"></script>
+    <script src="JavaScript/app.js"></script>
+  </body>
+</html>
