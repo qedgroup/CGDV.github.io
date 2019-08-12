@@ -1,0 +1,44 @@
+body {
+  background: #fff;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  min-width: 1100px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif; }
+
+p {
+  margin: 10px 0px; }
+
+#title {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-image: url(../img/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 550px; }
+
+.storyContainer {
+  background-color: #323232;
+  color: #fff;
+  font-size: 28px; }
+
+.story {
+  margin-left: 10%;
+  margin-right: 10%; }
+
+a {
+  color: #b2b2b2; }
+
+p {
+  margin: 0, 15px; }
+
+#video {
+  float: left;
+  padding: 10px;
+  margin: 10px 0px; }
+
+.flourish-container {
+  margin-left: 10%;
+  margin-right: 10%; }
