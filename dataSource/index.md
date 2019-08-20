@@ -73,3 +73,5 @@ CGDV promotes open data for public good. We recommended the following data sourc
 * [Media in The Middle East](http://www.mideastmedia.org/): Northwestern University in Qatar conducts an annual region-wide survey of media use patterns, content preferences, and attitudes toward issues such as censorship, digital privacy, freedom of speech, and cultural preservation.
 
 * [IHME](http://www.healthdata.org/): Institute for Health Metrics and Evaluation.
+
+* [healthdata.africa](http://healthdata.africa/): Health data in Africa.
