@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+      integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+      integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Data Viz Hack-a-thon</title>
+  </head>
+
+  <body data-spy="scroll" data-target="#main-nav" id="home">
+    <nav
+      class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top"
+      id="main-nav"
+    >
+      <div class="container">
+        <a href="index.html" class="navbar-brand">Data Viz Hack-a-thon</a>
+        <button
+          class="navbar-toggler"
+          data-toggle="collapse"
+          data-target="#navbarCollapse"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a href="#home" class="nav-link">Home</a>
+            </li>
+            <li class="nav-item">
+              <a href="#task-head-section" class="nav-link">Task</a>
+            </li>
+            <li class="nav-item">
+              <a href="#submit-head-section" class="nav-link">Submit</a>
+            </li>
+            <li class="nav-item">
+              <a href="#more-head-section" class="nav-link">More</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!--Home section-->
+    <header id="home-section">
+      <div class="dark-overlay">
+        <div class="home-inner container">
+          <div class="row">
+            <div class="col-lg-6 d-none d-lg-block">
+              <h1 class="display-4">
+                <strong>Visualize the Ebola Outbreak in the DRC </strong>
+              </h1>
+              <div class="d-flex">
+                <div class="p4 align-self-end">
+                  <a href="https://www.centerforglobaldata.org/"
+                    >The Center for Global Data Visualization (CGDV)</a
+                  >
+                  , powered by QED, and in collaboration with Georgetown Data
+                  Analytics, George Washington Data Science, and the Tableau
+                  Foundation invite you to take part in a data visualization
+                  hack-a-thon to help stamp out the Ebola outbreak in the DRC.
+                </div>
+              </div>
+              <div class="d-flex">
+                <div class="p4 align-self-end">
+                  The Hack-a-thon will bring together teams of participants from
+                  across the world to demonstrate the power of open data for
+                  public good. Teams will assess, analyze and visualize data and
+                  present to an audience to communicate a recommendation, story,
+                  or new idea through data visualization. This allows for better
+                  decision-making and more varied solutions to problems that
+                  span a wide range of public health topics.
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-6">
+              <div class="card bg-primary text-center card-form">
+                <div class="card-body">
+                  <h1 class="display-6">
+                    <strong>Register Here!</strong>
+                  </h1>
+                  <a
+                    href="https://www.eventbrite.com/e/data-visualization-hackathon-visualize-the-ebola-outbreak-in-the-drc-tickets-69746945993"
+                    target="_blank"
+                  >
+                    <img src="img/flyer.jpg" alt="" class="img-fluid" />
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Task HEAD -->
+    <section id="task-head-section">
+      <div class="container">
+        <div class="row">
+          <div class="col text-center py-5">
+            <h1 class="display-4">Task</h1>
+            <p class="lead">
+              Visualize the current Ebola outbreak in the Democratic Republic of
+              the Congo, perform exploratory analysis and give insights from the
+              data.
+            </p>
+            <a
+              href="https://www.who.int/emergencies/diseases/ebola/drc-2019"
+              target="_blank"
+              class="btn btn-outline-secondary"
+            >
+              Find Out More About Ebola in DRC</a
+            >
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Task SECTION -->
+    <section id="task-section" class="bg-light text-muted py-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <img
+              src="img/ebola1.jpg"
+              alt=""
+              class="img-fluid mb-3 rounded-circle"
+            />
+          </div>
+          <div class="col-md-6">
+            <h3>Data</h3>
+            <p>
+              Main data sources are provided as following, and any other data
+              sources can be embedded in the data visualization if they are
+              public and available to everyone.
+            </p>
+            <div class="d-flex">
+              <div class="p-4 align-self-start">
+                <i class="fas fa-table fa-3x"></i>
+              </div>
+              <div class="p-4 align-self-end">
+                <a href="#">To Be Announced</a>
+              </div>
+            </div>
+
+            <div class="d-flex">
+              <div class="p-4 align-self-start">
+                <i class="fas fa-hospital fa-3x"></i>
+              </div>
+              <div class="p-4 align-self-end">
+                <a href="#">To Be Announced</a>
+              </div>
+            </div>
+
+            <div class="d-flex">
+              <div class="p-4 align-self-start">
+                <i class="fas fa-map fa-3x"></i>
+              </div>
+              <div class="p-4 align-self-end">
+                <a href="#">To Be Announced</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Submit HEAD -->
+    <section id="submit-head-section" class="bg-primary">
+      <div class="container">
+        <div class="row">
+          <div class="col text-center py-5">
+            <h1 class="display-4">Submit</h1>
+            <p class="lead">
+              Register an account on
+              <a
+                class="text-white"
+                target="_blank_"
+                href="https://www.centerforglobaldata.org/"
+                ><strong>CGDV</strong></a
+              >, and submit your work before 3:15 PM EST.
+            </p>
+            <a
+              href="https://cgdv.github.io/userGuidance/"
+              class="btn btn-outline-light"
+              target="_blank_"
+            >
+              How To Upload Visual to CGDV?</a
+            >
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Submit SECTION -->
+    <section id="submit-section" class="py-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 order-2">
+            <img
+              src="img/echo.jpeg"
+              alt=""
+              class="img-fluid mb-3 rounded-circle"
+            />
+          </div>
+          <div class="col-md-6 order-1">
+            <h3>Team Up</h3>
+            <div class="d-flex">
+              <div class="p-4 align-self-start">
+                <i class="fas fa-users fa-3x"></i>
+              </div>
+              <div class="p-4 align-self-end">
+                Meet your neighbors and form a team up to
+                <strong>4</strong> members
+              </div>
+            </div>
+
+            <h3>Prize</h3>
+            <div class="d-flex">
+              <div class="p-4 align-self-start">
+                <i class="fas fa-gift fa-3x"></i>
+              </div>
+              <div class="p-4 align-self-end">
+                <strong>First Place</strong>: Amazon Echo Dot for every team
+                member.
+              </div>
+            </div>
+
+            <div class="d-flex">
+              <div class="p-4 align-self-start">
+                <i class="fas fa-gift fa-3x"></i>
+              </div>
+              <div class="p-4 align-self-end">
+                <strong>Second Place</strong>: $100 gift card for the whole
+                team.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- More HEAD -->
+    <section id="more-head-section" class="bg-primary">
+      <div class="container">
+        <div class="row">
+          <div class="col text-center py-5">
+            <h1 class="display-4">More Hack-a-thon</h1>
+            <p class="lead">
+              CGDV is also hosting an international online data visualizatoin
+              hack-a-thon from Oct.19th to Oct.26th.
+            </p>
+            <a
+              href="https://www.eventbrite.com/e/online-data-visualization-hackathon-visualizing-the-refugee-crisis-tickets-69752895789"
+              target="_blank"
+              class="btn btn-outline-light"
+            >
+              Find Out More</a
+            >
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- More SECTION -->
+    <section id="more-section" class="bg-light text-muted py-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h3>Organizer</h3>
+
+            <div class="card-columns">
+              <div class="card">
+                <a href="https://www.qedgroupllc.com/" target="_blank">
+                  <img
+                    class="card-img-top img-fluid p-2"
+                    src="img/logo-qed.svg"
+                    alt=""
+                  />
+                </a>
+              </div>
+
+              <div class="card">
+                <a href="https://www.centerforglobaldata.org/" target="_blank">
+                  <img
+                    class="card-img-top img-fluid p-2"
+                    src="img/CGDV logo 2019.png"
+                    alt=""
+                  />
+                </a>
+              </div>
+
+              <div class="card">
+                <a href="https://analytics.georgetown.edu/" target="_blank">
+                  <img
+                    class="card-img-top img-fluid p-2"
+                    src="img/georgetown logo.jpeg"
+                    alt=""
+                  />
+                </a>
+              </div>
+
+              <div class="card">
+                <a href="https://datasci.columbian.gwu.edu/" target="_blank">
+                  <img
+                    class="card-img-top img-fluid p-2"
+                    src="img/gw logo.jpeg"
+                    alt=""
+                  />
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12">
+            <h3>Try Tableau For Free!</h3>
+            <div class="card-columns">
+              <div class="card">
+                <a href="https://www.tableau.com/academic" target="_blank">
+                  <img
+                    class="card-img-top img-fluid"
+                    src="img/tableau-logo-tableau-software.jpg"
+                    alt=""
+                  />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer id="main-footer" class="bg-dark">
+      <div class="container">
+        <div class="row">
+          <div class="col text-center py-4">
+            <h3>QED Group</h3>
+            <p>Copyright &copy; <span id="year"></span></p>
+            <a href="https://www.qedgroupllc.com/contact-us/" target="_blank"
+              ><button class="btn btn-primary">
+                Contact Us
+              </button></a
+            >
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script
+      src="http://code.jquery.com/jquery-3.3.1.min.js"
+      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+      integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
+      integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+      crossorigin="anonymous"
+    ></script>
+
+    <script>
+      // Get the current year for the copyright
+      $("#year").text(new Date().getFullYear());
+
+      // Init Scrollspy
+      $("body").scrollspy({ target: "#main-nav" });
+
+      // Smooth Scrolling
+      $("#main-nav a").on("click", function(event) {
+        if (this.hash !== "") {
+          event.preventDefault();
+          const hash = this.hash;
+          $("html, body").animate(
+            {
+              scrollTop: $(hash).offset().top
+            },
+            800,
+            function() {
+              window.location.hash = hash;
+            }
+          );
+        }
+      });
+    </script>
+  </body>
+</html>
