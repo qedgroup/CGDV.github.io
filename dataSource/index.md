@@ -43,6 +43,8 @@ CGDV promotes open data for public good. We recommended the following data sourc
 
 * [IPUMS](https://www.ipums.org/) IPUMS provides census and survey data from around the world integrated across time and space
 
+* [KIDB](https://kidb.adb.org/kidb/) The Key Indicators Database (KIDB) is ADB's central statistical database and one of the world's most comprehensive resources for macroeconomic and social indicators from across Asia and the Pacific.
+
 * [Media in The Middle East](http://www.mideastmedia.org/): Northwestern University in Qatar conducts an annual region-wide survey of media use patterns, content preferences, and attitudes toward issues such as censorship, digital privacy, freedom of speech, and cultural preservation.
 
 * [mWater](https://portal.mwater.co/#/entities): mWater is a tool that can be used to upload and visualize geospatial data describing water and sanitation systems.
