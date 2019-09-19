@@ -2,7 +2,9 @@
 
 # Upcoming Challenge
 
-September 2019 @ Georgetown University
+* [October 2019 @ Georgetown University](https://cgdv.github.io/challenges/Hack-a-thon-Georgetown/index.html)
+
+* [October 2019 Online Hack-a-thon](https://cgdv.github.io/challenges/Hack-a-thon-Refugee/index.html)
 
 # User Guidance
 
