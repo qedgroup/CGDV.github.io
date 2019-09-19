@@ -1,8 +1,12 @@
 # Increasing Access to Safe Drinking Water in Ethiopia
 
+![](https://cgdv.github.io/challenges/Drinking-Water-Quality-in-Ethiopia/photo.jpg)
+
+View all submissions on [CGDV](https://www.centerforglobaldata.org/viz-challenge)!
+
 ## Registration and Eligibility
 
-This is a student ONLY event. CGDV requires teams no larger than 4 people for ease of collaboration in such a short time-frame. All team members must be registered on CGDV’s website. Set up your account and profile at [CGDV](http://34.205.15.39:4000/authentication/signup).
+This is a student ONLY event. CGDV requires teams no larger than 4 people for ease of collaboration in such a short time-frame. All team members must be registered on CGDV’s website. Set up your account and profile at [CGDV](https://www.centerforglobaldata.org/authentication/signup).
 
 ## Time
 
