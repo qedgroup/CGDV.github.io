@@ -1,6 +1,6 @@
 # Increasing Access to Safe Drinking Water in Ethiopia
 
-![](https://cgdv.github.io/challenges/Drinking-Water-Quality-in-Ethiopia/photo.jpg)
+![](https://cgdv.github.io/challenges/Drinking-Water-Quality-in-Ethiopia/photo.JPG)
 
 View all submissions on [CGDV](https://www.centerforglobaldata.org/viz-challenge)!
 
