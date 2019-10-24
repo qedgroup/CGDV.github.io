@@ -2,7 +2,7 @@
 
 ## Step 1 
 
-Go to [Center for Global Data Visualization](https://www.centerforglobaldata.org/authentication/signin), create an account and complete the profile with a photo.
+Go to [Center for Global Data Visualization](https://www.centerforglobaldata.org/authentication/signin), create an account and complete the profile with a photo. Then start your submission through "My Visuals" button on the top right.
 
 ## Step 2
 Fill out all info needed including title, challenge (only for hackathon) and etc. For team submission, you can add you team member by using "Multiple Users for this Submission" option at the bottom.
