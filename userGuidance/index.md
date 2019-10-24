@@ -9,23 +9,23 @@ Fill out all info needed including title, challenge (only for hackathon) and etc
 
 ## Step 3 Upload Your Visual
 
-Your can upload you visual vis My Visuals on CGDV. Method to upload different type of viusal file may vary. Please find your file type below. 
+Your can upload you visual vis My Visuals on CGDV. Method to upload different type of visual file may vary. Please find your file type below. 
 
 ### Static graph and .gif
 
 Upload your visual via Choose File button under picture.
 
-* Google Slides
+### Non static graph
 
-If you have multiple graph and not familiar with web development, you can create your visualization using [Google Slides](https://www.google.com/slides/about/) and embed it on CGDV by putting following embed code into "Embed Code" section. Please replace "GOOGLE SLIDES SHARING LINK" to your own sharing link and keep quotation marks outside.
+Please upload a screenshot of your visual via "Choose File" button under "Picture" as profile picture of the visual.
+
+#### Google Slides
+
+If you have multiple graphs and not familiar with web development, you can create your visualization story using [Google Slides](https://www.google.com/slides/about/) and embed it on CGDV by putting following embed code into "Embed Code" section. Please replace "GOOGLE SLIDES SHARING LINK" to your own sharing link and keep quotation marks outside.
 
 ```
 <iframe width="1200" height="800" frameborder="0" src="GOOGLE SLIDES SHARING LINK"> </iframe>
 ```
-
-### Non static graph
-
-Please upload a screenshot of your visual via Choose File button under picture as profile picture of the visual.
 
 #### Visual built with visualization platform
 
@@ -70,6 +70,11 @@ If you created advanced visualization using tools such as D3. Please upload your
 ```
 
 ) in embed code section on CGDV.
+
+
+## Step 4 Double check your submission 
+
+Go to "My Visuals" on CGDV, scroll down and you should see you submission. Go into your submission and make sure everything looks good. In addition, make sure your submission has a profile picture.
 
 # Having Problem to upload?
 
