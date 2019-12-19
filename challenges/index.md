@@ -1,7 +1,7 @@
 # Welcome to CGDV data visualization challenge!
 
 # Upcoming Challenge
-
+* [2020 Hackathon](https://cgdv.github.io/challenges/Hackathon-2020/#home) TBD
 
 # User Guidance
 
@@ -14,4 +14,4 @@ Have trouble uploading your visualization on CGDV? Please see the [user guidance
 
 * [October 2019 @ Georgetown University](https://cgdv.github.io/challenges/Hack-a-thon-Georgetown/index.html) Visualize the Ebola Outbreak in the DRC
 
-* [October 2019 Online Hack-a-thon](https://cgdv.github.io/challenges/Hack-a-thon-Refugee/index.html) Visualizing the Refugee Crisis
+* [October 2019 Online Hackathon](https://cgdv.github.io/challenges/Hack-a-thon-Refugee/index.html) Visualizing the Refugee Crisis
