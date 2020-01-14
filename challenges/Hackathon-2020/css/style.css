@@ -13,9 +13,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  /*min-height: 800px;*/
+  min-height: 700px;
   /*line added by rk*/
-  height:100%;
+  /*height:100%;*/
 }
 
 #home-section .dark-overlay {
@@ -23,9 +23,9 @@ body {
   top: 0;
   left: 0;
   width: 100%;
- /* min-height: 800px;*/
+ min-height: 700px; 
   /*new line added by rk */
-  height:100%;
+   
   background-color: rgba(0, 0, 0, 0.7);
 }
 
