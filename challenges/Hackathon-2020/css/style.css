@@ -109,6 +109,7 @@ body {
   width: 45%;
   position: relative;
   transition: all 5s ease-in-out;
+  font-size:15px;
 }
 
 .popup h2 {
