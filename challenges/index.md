@@ -1,7 +1,7 @@
 # Welcome to CGDV data visualization challenge!
 
-# Upcoming Challenge
-* [2020 Hackathon](https://cgdv.github.io/challenges/Hackathon-2020/#home) TBD
+# Challenge in 2020
+* [LASER & CGDV Hackathon: Visualizing Venezuelan Migration Issues in Colombia](https://cgdv.github.io/challenges/Hackathon-2020/#home)
 
 # User Guidance
 
