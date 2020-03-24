@@ -82,3 +82,23 @@ In response to the global COVID-19 outbreak, CGDV creates a separate section whe
 * [World Bank Open data](https://data.worldbank.org/): Free and open access to global development data.
 
 ## COVID-19 Data Sources
+* [Johns Hopkins CSSE](https://systems.jhu.edu/research/public-health/ncov/): Interactive web-based dashboard tracking reported cases in real-time at the province level in China, city level in the US, Australia and Canada, and at the country level otherwise.
+
+* [DXY](https://ncov.dxy.cn/ncovh5/view/pneumonia): An online platform run by members of the Chinese medical community, which aggregates local media and government reports to provide COVID-19 cumulative case totals in near real-time at the province level in China and country level otherwise.
+
+* [ECDC](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases): 	
+European Centre for Disease Prevention and Control
+
+* [CCDC](http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm): China CDC
+
+* [Hong Kong Department of Health](https://www.coronavirus.gov.hk/eng/index.html): Local Situation Dashboard
+
+* [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):Coronavirus Disease (COVID-2019) situation reports
+
+* [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html): COVID-19 Cases in the U.S.
+
+* [Australian Government Department of Health](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers) COVID-19 current situation and case numbers in Australia
+
+* [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html): COVID-19 Outbreak in Canada
+
+* [Tableau COVID-19 Data Hub](https://www.tableau.com/covid-19-coronavirus-data-resources)
