@@ -82,6 +82,8 @@ In response to the global COVID-19 outbreak, CGDV creates a separate section whe
 * [World Bank Open data](https://data.worldbank.org/): Free and open access to global development data.
 
 ## COVID-19 Data Sources
+
+### Public Data Sources
 * [Johns Hopkins CSSE](https://systems.jhu.edu/research/public-health/ncov/): Interactive web-based dashboard tracking reported cases in real-time at the province level in China, city level in the US, Australia and Canada, and at the country level otherwise.
 
 * [Tableau COVID-19 Data Hub](https://www.tableau.com/covid-19-coronavirus-data-resources): A free COVID-19 Data Resource page contains: reshaped acurate data sources from WHO, JHU and NextStrain; Featured Viz & Sample Dashboard by experts and organizations; Viz Responsibly Guidelines; forum for collaboration, sharing resources and feedbacks. 
@@ -110,3 +112,9 @@ European Centre for Disease Prevention and Control
 * [INDIA COVID-19 TRACKER](https://www.covid19india.org/): A crowdsourced initiative by dedicated volunteers who are curating the news coming from state bulletins, press releases and news houses in India.
 
 * [HDX](https://data.humdata.org/event/covid-19): COVID-19 Pandemic in Locations with a Humanitarian Response. Other relevant datasets available to download in the platform are: World Bank Indicators of Interest to the COVID-19 Outbreak; Global Travel Restrictions and Airline Information; Global School Closures.
+
+### Social Media Data 
+* [Google Trend](https://trends.google.com/trends/?geo=US): Explore what the world is searching in Google. 
+
+
+### Behavior Survey Data
