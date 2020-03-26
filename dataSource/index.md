@@ -2,7 +2,7 @@
 
 CGDV promotes open data for public good. We recommended the following data sources for researching and creating data visualizations. Please let us know if there is more to be added to the list.
 
-In response to the global COVID-19 outbreak, CGDV creates a [separate section](COVID-19 Data Sources) where we gather COVID-19 data from various reputable sources. We believe data and fact are essential to understand the pandemic in this difficult time. We encourage CGDV users to make responsible visualziations using reliable data sources.
+In response to the global COVID-19 outbreak, CGDV creates a separate sectionCOVID-19 Data Sources where we gather COVID-19 data from various reputable sources. We believe data and fact are essential to understand the pandemic in this difficult time. We encourage CGDV users to make responsible visualziations using reliable data sources.
 
 * [ACLED](https://www.acleddata.com/): The Armed Conflict Location & Event Data Project (ACLED) is a disaggregated conflict analysis and crisis mapping project.
 
@@ -81,7 +81,7 @@ In response to the global COVID-19 outbreak, CGDV creates a [separate section](C
 
 * [World Bank Open data](https://data.worldbank.org/): Free and open access to global development data.
 
-[## COVID-19 Data Sources](separate section)
+## COVID-19 Data Sources
 
 ### Public Data Sources
 * [Johns Hopkins CSSE](https://systems.jhu.edu/research/public-health/ncov/): Interactive web-based dashboard tracking reported cases in real-time at the province level in China, city level in the US, Australia and Canada, and at the country level otherwise.
