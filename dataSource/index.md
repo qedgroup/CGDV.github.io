@@ -81,7 +81,7 @@ In response to the global COVID-19 outbreak, CGDV creates a [separate section](C
 
 * [World Bank Open data](https://data.worldbank.org/): Free and open access to global development data.
 
-## COVID-19 Data Sources
+[## COVID-19 Data Sources](separate section)
 
 ### Public Data Sources
 * [Johns Hopkins CSSE](https://systems.jhu.edu/research/public-health/ncov/): Interactive web-based dashboard tracking reported cases in real-time at the province level in China, city level in the US, Australia and Canada, and at the country level otherwise.
