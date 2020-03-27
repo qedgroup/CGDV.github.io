@@ -116,5 +116,6 @@ European Centre for Disease Prevention and Control
 ### Social Media Data 
 * [Google Trend](https://trends.google.com/trends/?geo=US): Explore what the world is searching in Google. 
 
+* [Postman COVID-19 API Resource Center](https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiWkRabE9HWmpZMkl3Tm1RMSIsInQiOiJOYWUrcGNQYTZjekdsMytQNUN6dVNYdHlIaVM0cTIwQkhyTFpONGhySUVMWVBSaU4wYmh5cXhGYStqTW1JQWdxTG1qeEFhb0pvNUtpelgwV1h5SWJcLysybVo1WEorM0cyUGErZFFsYzZIUStrWDBmRlwvN0VseExkSFRtOXhQeG0rIn0%3D): API collections to pull information from website and social media account (YouTube, Twitter) of agencies including CDC, WHO. 
 
 ### Behavior Survey Data
