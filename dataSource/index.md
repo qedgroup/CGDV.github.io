@@ -84,6 +84,9 @@ In response to the global COVID-19 outbreak, CGDV creates a separate section whe
 * [World Bank Open data](https://data.worldbank.org/): Free and open access to global development data.
 
 ## COVID-19 Data Sources
+master
+
+### Public Data Sources
 * [Australian Government Department of Health](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers): COVID-19 current situation and case numbers in Australia
 
 * [CCDC](http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm): China CDC
@@ -101,6 +104,8 @@ European Centre for Disease Prevention and Control
 
 * [Hong Kong Department of Health](https://www.coronavirus.gov.hk/eng/index.html): Local Situation Dashboard
 
+* [HDX](https://data.humdata.org/event/covid-19): COVID-19 Pandemic in Locations with a Humanitarian Response. Other relevant datasets available to download in the platform are: World Bank Indicators of Interest to the COVID-19 Outbreak; Global Travel Restrictions and Airline Information; Global School Closures.
+
 * [INDIA COVID-19 TRACKER](https://www.covid19india.org/): A crowdsourced initiative by dedicated volunteers who are curating the news coming from state bulletins, press releases and news houses in India.
 
 * [Johns Hopkins CSSE](https://systems.jhu.edu/research/public-health/ncov/): Interactive web-based dashboard tracking reported cases in real-time at the province level in China, city level in the US, Australia and Canada, and at the country level otherwise.
@@ -110,3 +115,10 @@ European Centre for Disease Prevention and Control
 * [Tableau COVID-19 Data Hub](https://www.tableau.com/covid-19-coronavirus-data-resources): A free COVID-19 Data Resource page contains: reshaped acurate data sources from WHO, JHU and NextStrain; Featured Viz & Sample Dashboard by experts and organizations; Viz Responsibly Guidelines; forum for collaboration, sharing resources and feedbacks. 
 
 * [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):Coronavirus Disease (COVID-2019) situation reports
+
+### Social Media Data 
+* [Google Trend](https://trends.google.com/trends/?geo=US): Explore what the world is searching in Google. 
+
+* [Postman COVID-19 API Resource Center](https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiWkRabE9HWmpZMkl3Tm1RMSIsInQiOiJOYWUrcGNQYTZjekdsMytQNUN6dVNYdHlIaVM0cTIwQkhyTFpONGhySUVMWVBSaU4wYmh5cXhGYStqTW1JQWdxTG1qeEFhb0pvNUtpelgwV1h5SWJcLysybVo1WEorM0cyUGErZFFsYzZIUStrWDBmRlwvN0VseExkSFRtOXhQeG0rIn0%3D): API collections to pull information from website and social media account (YouTube, Twitter) of agencies including CDC, WHO. 
+
+### Behavior Survey Data
