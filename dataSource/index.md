@@ -84,7 +84,6 @@ In response to the global COVID-19 outbreak, CGDV creates a separate section whe
 * [World Bank Open data](https://data.worldbank.org/): Free and open access to global development data.
 
 ## COVID-19 Data Sources
-master
 
 ### Public Data Sources
 * [Australian Government Department of Health](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers): COVID-19 current situation and case numbers in Australia
