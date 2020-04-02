@@ -8,6 +8,8 @@ In response to the global COVID-19 outbreak, CGDV creates the Pandemic Data Room
 ### Publicly accessible
 * [Australian Government Department of Health](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers): COVID-19 current situation and case numbers in Australia
 
+* [Abt Associates](https://www.abtassociates.com/insights/perspectives-blog/covid-19-data-visualizations-data-infographics-dashboards-and-models?utm_campaign=.gabrielkrieshok_is_back_&utm_content=1585255353&utm_medium=twitter&utm_source=abtassociates#): Abt Associates highlighted a few COVID-19 related resources. Find resources about Data, Data Streams, Infographics, Flattening the Curve, Dashboards and Model in the article by Gabriel Krieshok. 
+
 * [CCDC](http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm): China CDC
 
 * [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html): COVID-19 Cases in the U.S.
@@ -34,6 +36,8 @@ European Centre for Disease Prevention and Control
 * [Tableau COVID-19 Data Hub](https://www.tableau.com/covid-19-coronavirus-data-resources): A free COVID-19 Data Resource page contains: reshaped acurate data sources from WHO, JHU and NextStrain; Featured Viz & Sample Dashboard by experts and organizations; Viz Responsibly Guidelines; forum for collaboration, sharing resources and feedbacks. 
 
 * [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):Coronavirus Disease (COVID-2019) situation reports
+
+* [The World Bank](http://datatopics.worldbank.org/universal-health-coverage/covid19/): This site provides an array of real-time data, statistical indicators, and other types of data that are relevant to the coronavirus pandemic. These data are drawn from the World Bank’s data catalog and other authoritative sources.
 
 ### Provided by our Partners
 
