@@ -1,12 +1,14 @@
-# CGDV Pandemic Data Room
+# CGDV COVID-19 Pandemic Data Room
 
-In response to the global COVID-19 outbreak, CGDV creates the Pandemic Data Room where we gather COVID-19 data from various reputable sources. We believe data and fact are essential to understand the pandemic in this difficult time. We encourage CGDV users to make responsible visualziations using reliable data sources.
+In response to the global COVID-19 outbreak, CGDV has created the Pandemic Data Room, a compendium of COVID-19-related data from various reputable sources. We believe data and fact are essential to understand the pandemic in this difficult time. We encourage CGDV users to create useful, innovative and responsible visualizations using reliable data sources.
 
 
 ## COVID-19 Data Sources
 
 ### Publicly accessible
 * [Australian Government Department of Health](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers): COVID-19 current situation and case numbers in Australia
+
+* [Abt Associates](https://www.abtassociates.com/insights/perspectives-blog/covid-19-data-visualizations-data-infographics-dashboards-and-models?utm_campaign=.gabrielkrieshok_is_back_&utm_content=1585255353&utm_medium=twitter&utm_source=abtassociates#): Abt Associates highlighted a few COVID-19 related resources. Find resources about Data, Data Streams, Infographics, Flattening the Curve, Dashboards and Model in the article by Gabriel Krieshok. 
 
 * [CCDC](http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm): China CDC
 
@@ -35,7 +37,16 @@ European Centre for Disease Prevention and Control
 
 * [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):Coronavirus Disease (COVID-2019) situation reports
 
-### Provided by our Partners
+* [The World Bank](http://datatopics.worldbank.org/universal-health-coverage/covid19/): This site provides an array of real-time data, statistical indicators, and other types of data that are relevant to the coronavirus pandemic. These data are drawn from the World Bank’s data catalog and other authoritative sources.
+
+### Provided by our Partners  
+[Fraym](https://fraym.io/): Geospatial Data For Covid-19 Prevention and Crisis Response  
+
+The risks posed by coronavirus are especially high for millions of people who live in low-and middle-income countries, where financial, medical equipment, and health personnel resources are highly constrained. 
+
+To rapidly identify countries, cities and communities that exhibit the greatest risk of emergency cases and rapid transmission, Fraym provides access to relevant data layers including Emergency Case Risk Factors (Smoking prevalence, Elderly households, Body health - obesity, child stunting, child wasting) and Tramsmission Risk Factors (Population density, Household size, Occupation, Transportation modes, Hand washington Practices).
+
+CGDV has requested the above data layers for countries including Guatemala, Kenya, Nigeria, Pakistan, Philippines, Rwanda, Senegal, and South Africa. Please find the downloadable raster files with high-resolution down to 1km2 here. 
 
 
 ## Social Media Data Sources
