@@ -55,3 +55,5 @@ CGDV has requested the above data layers for countries including Guatemala, Keny
 * [Postman COVID-19 API Resource Center](https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiWkRabE9HWmpZMkl3Tm1RMSIsInQiOiJOYWUrcGNQYTZjekdsMytQNUN6dVNYdHlIaVM0cTIwQkhyTFpONGhySUVMWVBSaU4wYmh5cXhGYStqTW1JQWdxTG1qeEFhb0pvNUtpelgwV1h5SWJcLysybVo1WEorM0cyUGErZFFsYzZIUStrWDBmRlwvN0VseExkSFRtOXhQeG0rIn0%3D): API collections to pull information from website and social media account (YouTube, Twitter) of agencies including CDC, WHO. 
 
 ## Behavioral Survey Data Source
+* [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/) These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential.
+
