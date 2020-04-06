@@ -40,7 +40,7 @@ European Centre for Disease Prevention and Control
 * [The World Bank](http://datatopics.worldbank.org/universal-health-coverage/covid19/): This site provides an array of real-time data, statistical indicators, and other types of data that are relevant to the coronavirus pandemic. These data are drawn from the World Bank’s data catalog and other authoritative sources.
 
 ### Provided by our Partners  
-Fraym: Geospatial Data For Covid-19 Prevention and Crisis Response
+Fraym(https://fraym.io/): Geospatial Data For Covid-19 Prevention and Crisis Response
 The risks posed by coronavirus are especially high for millions of people who live in low-and middle-income countries, where financial, medical equipment, and health personnel resources are highly constrained. 
 
 To rapidly identify countries, cities and communities that exhibit the greatest risk of emergency cases and rapid transmission, Fraym provides access to relevant data layers including Emergency Case Risk Factors (Smoking prevalence, Elderly households, Body health - obesity, child stunting, child wasting) and Tramsmission Risk Factors (Population density, Household size, Occupation, Transportation modes, Hand washington Practices).
