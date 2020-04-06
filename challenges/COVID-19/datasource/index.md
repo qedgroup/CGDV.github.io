@@ -1,6 +1,6 @@
-# CGDV Pandemic Data Room
+# CGDV COVID-19 Pandemic Data Room
 
-In response to the global COVID-19 outbreak, CGDV creates the Pandemic Data Room where we gather COVID-19 data from various reputable sources. We believe data and fact are essential to understand the pandemic in this difficult time. We encourage CGDV users to make responsible visualziations using reliable data sources.
+In response to the global COVID-19 outbreak, CGDV has created the Pandemic Data Room, a compendium of COVID-19-related data from various reputable sources. We believe data and fact are essential to understand the pandemic in this difficult time. We encourage CGDV users to create useful, innovative and responsible visualizations using reliable data sources.
 
 
 ## COVID-19 Data Sources
