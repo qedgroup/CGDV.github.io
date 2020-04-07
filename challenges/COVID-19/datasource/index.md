@@ -12,9 +12,9 @@ The risks posed by coronavirus are especially high for millions of people who li
 
 To rapidly identify countries, cities and communities that exhibit the greatest risk of emergency cases and rapid transmission, Fraym provides access to relevant data layers including Emergency Case Risk Factors (Smoking prevalence, Elderly households, Body health - obesity, child stunting, child wasting) and Transmission Risk Factors (Population density, Household size, Occupation, Transportation modes, Hand Washing Practices).
 
-CGDV has requested the above data layers for countries including Guatemala, Kenya, Nigeria, Pakistan, Philippines, Rwanda, Senegal, and South Africa. Please find the downloadable raster files with high-resolution down to 1km2 [here](CGDV.github.io/challenges/COVID-19/source_PartnerProvided/).  
+CGDV has requested the above data layers for countries including Guatemala, Kenya, Nigeria, Pakistan, Philippines, Rwanda, Senegal, and South Africa. Download raster files with high-resolution down to 1km2in [CGDV GitHub Repository](CGDV.github.io/challenges/COVID-19/source_PartnerProvided/).
   
-[Geopoll](https://www.geopoll.com/) Coronavirus In Sub-Saharan Africa  
+[Geopoll](https://www.geopoll.com/): Coronavirus In Sub-Saharan Africa  
   
 As a research organization that conducts remote research, GeoPoll takes an initiative to assist the global response to coronavirus. From March 10th – 13th, 2020, GeoPoll administered a survey on the knowledge of and perceptions towards coronavirus in South Africa, Kenya, and Nigeria. The study was conducted among 1,350 respondents, nationally representative by location in each country and with a 50-50 gender split, and an age split of 33% ages 15-24, 35% ages 25-34, and 32% ages 35+.  
   
@@ -32,12 +32,14 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 
 * [The World Bank](http://datatopics.worldbank.org/universal-health-coverage/covid19/): This site provides an array of real-time data, statistical indicators, and other types of data that are relevant to the coronavirus pandemic. These data are drawn from the World Bank’s data catalog and other authoritative sources.  
 
+* [HDX](https://data.humdata.org/event/covid-19): COVID-19 Pandemic in Locations with a Humanitarian Response. Other relevant datasets available to download in the platform are: World Bank Indicators of Interest to the COVID-19 Outbreak; Global Travel Restrictions and Airline Information; Global School Closures.
+
 #### Country/area - level cases
-* [Australian Government Department of Health](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers): COVID-19 current situation and case numbers in Australia
+* [Australian Government Department of Health](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers): COVID-19 current situation and case numbers in Australia  
+  
+* [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html): COVID-19 Cases in the U.S.    
 
 * [CCDC](http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm): China CDC
-
-* [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html): COVID-19 Cases in the U.S.
 
 * [COVID-19 Open Research Dataset Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#metadata.csv): CORD-19 is an AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House. With over 44,000 scholarly articles, including over 29,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses, this freely available dataset allows global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease.
 
@@ -49,8 +51,6 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 European Centre for Disease Prevention and Control
 
 * [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html): COVID-19 Outbreak in Canada
-
-* [HDX](https://data.humdata.org/event/covid-19): COVID-19 Pandemic in Locations with a Humanitarian Response. Other relevant datasets available to download in the platform are: World Bank Indicators of Interest to the COVID-19 Outbreak; Global Travel Restrictions and Airline Information; Global School Closures.
 
 * [INDIA COVID-19 TRACKER](https://www.covid19india.org/): A crowdsourced initiative by dedicated volunteers who are curating the news coming from state bulletins, press releases and news houses in India.
 
