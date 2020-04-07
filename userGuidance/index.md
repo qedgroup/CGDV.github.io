@@ -8,7 +8,7 @@ Go to [Center for Global Data Visualization](https://www.centerforglobaldata.org
 ## Step 2
 Fill out all info needed including Visualization Title, Country, University or Organization, challenge and Data Source. For team submission, you can add you team members by using "Multiple Users for this Submission" option at the bottom.
 
-## Step 3 Upload Your Visual
+## Step 3 Upload your visual
 
 Under Embed, you will find 3 options to upload your visual: [Source](https://github.com/XinerNing/CGDV.github.io/blob/master/userGuidance/index.md#source), [Embed url](https://github.com/XinerNing/CGDV.github.io/blob/master/userGuidance/index.md#embed-url), [Document](https://github.com/XinerNing/CGDV.github.io/blob/master/userGuidance/index.md#document)
 
@@ -78,14 +78,14 @@ If you created advanced visualization using tools such as D3. Please upload your
   
 If your visulization is in static format such as word, pdf or excel, select *Document* and use the Choose File button to upload files. Remember to click Upload after choosing a file. You are allowed to upload one or multiple files.  
   
-## Step 4 Upload your Code file  
+## Step 4 Upload your code file  
 For this challenge, we require participants to submit codes that are used for data wrangling. Codes will be assessed during an initial Quality Assurance process to prevent any data misinterpretation.  
 
 If you upload your visual using either *Source* or *Embed url* in Step 3, upload the code file to a file storage platform such as Google Drive. Copy and paste the shareable link into the Description box below. Please make sure anyone with the link can view and download the file. But don't give access to edit.  
     
 If you upload your visual using *Document* in Step 3, upload the code file along with your visualization file.    
   
-## Step 5 Upload a Visual Cover Picture  
+## Step 5 Upload a visual cover picture  
 Upload a cover picture for your visual. Your cover picture along with your visulizaton title will be presented in the CGDV Library as a submission entry.  
 
 
@@ -93,6 +93,6 @@ Upload a cover picture for your visual. Your cover picture along with your visul
 
 Go to "My Visuals" on CGDV, scroll down and you should see you submission. Go into your submission and make sure everything looks good. In addition, make sure your submission has a profile picture.
 
-# Having Problem to upload?
+# Having problem to upload?
 
 Please contact Xiner Ning(xning@qedgroupllc.com) with your issue, we will response ASAP.
