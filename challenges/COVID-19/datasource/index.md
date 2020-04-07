@@ -1,12 +1,12 @@
-# CGDV COVID-19 Pandemic Data Room
+# A Resource Provided by The Center for Global Data Visualization
 
-In response to the global COVID-19 outbreak, CGDV has created the Pandemic Data Room, a compendium of COVID-19-related data from various reputable sources. We believe data and fact are essential to understand the pandemic in this difficult time. We encourage CGDV users to create useful, innovative and responsible visualizations using reliable data sources.
+A Pandemic Data Room is a comprehensive global COVID-19 data repository created by a consortium of partners and led by QED Group to improve understanding of the impact of physical distancing policies on social behavior, disease rates, hospital utilization, and local/national economies. This initiative will generate critical information needed to adjust policies to control the outbreak. We hope to bring amazing talent to work on the data and generate new tools that can be used to manage and understand this pandemic.
 
 
 ## COVID-19 Data Sources  
   
 ### Provided by our Partners  
-[Fraym](https://fraym.io/): Geospatial Data For Covid-19 Prevention and Crisis Response  
+* [Fraym](https://fraym.io/): Geospatial Data For Covid-19 Prevention and Crisis Response  
 
 The risks posed by coronavirus are especially high for millions of people who live in low-and middle-income countries, where financial, medical equipment, and health personnel resources are highly constrained. 
 
@@ -14,8 +14,8 @@ To rapidly identify countries, cities and communities that exhibit the greatest 
 
 CGDV has requested the above data layers for countries including Guatemala, Kenya, Nigeria, Pakistan, Philippines, Rwanda, Senegal, and South Africa. Download raster files with high-resolution down to 1km2in [CGDV GitHub Repository](CGDV.github.io/challenges/COVID-19/source_PartnerProvided/).
   
-[Geopoll](https://www.geopoll.com/): Coronavirus In Sub-Saharan Africa  
-  
+* [Geopoll](https://www.geopoll.com/): Coronavirus In Sub-Saharan Africa  
+
 As a research organization that conducts remote research, GeoPoll takes an initiative to assist the global response to coronavirus. From March 10th – 13th, 2020, GeoPoll administered a survey on the knowledge of and perceptions towards coronavirus in South Africa, Kenya, and Nigeria. The study was conducted among 1,350 respondents, nationally representative by location in each country and with a 50-50 gender split, and an age split of 33% ages 15-24, 35% ages 25-34, and 32% ages 35+.  
   
 To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/blog/coronavirus-africa). Download a copy of survey data in [CGDV GitHub Repository](CGDV.github.io/challenges/COVID-19/source_PartnerProvided/). 
