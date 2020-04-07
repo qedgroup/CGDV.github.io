@@ -12,7 +12,7 @@ The risks posed by coronavirus are especially high for millions of people who li
 
 To rapidly identify countries, cities and communities that exhibit the greatest risk of emergency cases and rapid transmission, Fraym provides access to relevant data layers including Emergency Case Risk Factors (Smoking prevalence, Elderly households, Body health - obesity, child stunting, child wasting) and Transmission Risk Factors (Population density, Household size, Occupation, Transportation modes, Hand Washing Practices).
 
-CGDV has requested the above data layers for countries including Guatemala, Kenya, Nigeria, Pakistan, Philippines, Rwanda, Senegal, and South Africa. Download raster files with high-resolution down to 1km2in [CGDV GitHub Repository](CGDV.github.io/challenges/COVID-19/source_PartnerProvided/).
+CGDV has requested the above data layers for countries including Guatemala, Kenya, Nigeria, Pakistan, Philippines, Rwanda, Senegal, and South Africa. Download raster files with high-resolution down to 1km2 in [CGDV GitHub Repository](CGDV.github.io/challenges/COVID-19/source_PartnerProvided/).
   
 * [Geopoll](https://www.geopoll.com/): Coronavirus In Sub-Saharan Africa  
 
