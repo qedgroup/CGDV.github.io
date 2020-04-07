@@ -44,7 +44,7 @@ European Centre for Disease Prevention and Control
 
 The risks posed by coronavirus are especially high for millions of people who live in low-and middle-income countries, where financial, medical equipment, and health personnel resources are highly constrained. 
 
-To rapidly identify countries, cities and communities that exhibit the greatest risk of emergency cases and rapid transmission, Fraym provides access to relevant data layers including Emergency Case Risk Factors (Smoking prevalence, Elderly households, Body health - obesity, child stunting, child wasting) and Tramsmission Risk Factors (Population density, Household size, Occupation, Transportation modes, Hand washington Practices).
+To rapidly identify countries, cities and communities that exhibit the greatest risk of emergency cases and rapid transmission, Fraym provides access to relevant data layers including Emergency Case Risk Factors (Smoking prevalence, Elderly households, Body health - obesity, child stunting, child wasting) and Transmission Risk Factors (Population density, Household size, Occupation, Transportation modes, Hand Washing Practices).
 
 CGDV has requested the above data layers for countries including Guatemala, Kenya, Nigeria, Pakistan, Philippines, Rwanda, Senegal, and South Africa. Please find the downloadable raster files with high-resolution down to 1km2 here. 
 
@@ -55,3 +55,5 @@ CGDV has requested the above data layers for countries including Guatemala, Keny
 * [Postman COVID-19 API Resource Center](https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiWkRabE9HWmpZMkl3Tm1RMSIsInQiOiJOYWUrcGNQYTZjekdsMytQNUN6dVNYdHlIaVM0cTIwQkhyTFpONGhySUVMWVBSaU4wYmh5cXhGYStqTW1JQWdxTG1qeEFhb0pvNUtpelgwV1h5SWJcLysybVo1WEorM0cyUGErZFFsYzZIUStrWDBmRlwvN0VseExkSFRtOXhQeG0rIn0%3D): API collections to pull information from website and social media account (YouTube, Twitter) of agencies including CDC, WHO. 
 
 ## Behavioral Survey Data Source
+* [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/): These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential.
+
