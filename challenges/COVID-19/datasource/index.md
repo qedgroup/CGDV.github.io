@@ -15,7 +15,7 @@ To rapidly identify countries, cities and communities that exhibit the greatest 
 CGDV has requested the above data layers for countries including Guatemala, Kenya, Nigeria, Pakistan, Philippines, Rwanda, Senegal, and South Africa. Please find the downloadable raster files with high-resolution down to 1km2 [here](CGDV.github.io/challenges/COVID-19/source_PartnerProvided/).
 
 ### Publicly accessible 
-### Global cases  
+#### Global cases  
 * [Johns Hopkins CSSE](https://systems.jhu.edu/research/public-health/ncov/): Interactive web-based dashboard tracking reported cases in real-time at the province level in China, city level in the US, Australia and Canada, and at the country level otherwise.
 
 * [kaggle Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset): Daily affected cases in country level. Data are extracted from JHU dashboard and made available for kaggle users. 
@@ -26,7 +26,7 @@ CGDV has requested the above data layers for countries including Guatemala, Keny
 
 * [The World Bank](http://datatopics.worldbank.org/universal-health-coverage/covid19/): This site provides an array of real-time data, statistical indicators, and other types of data that are relevant to the coronavirus pandemic. These data are drawn from the World Bank’s data catalog and other authoritative sources.  
 
-### Country/area - level cases
+#### Country/area - level cases
 * [Australian Government Department of Health](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers): COVID-19 current situation and case numbers in Australia
 
 * [CCDC](http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm): China CDC
@@ -48,7 +48,7 @@ European Centre for Disease Prevention and Control
 
 * [INDIA COVID-19 TRACKER](https://www.covid19india.org/): A crowdsourced initiative by dedicated volunteers who are curating the news coming from state bulletins, press releases and news houses in India.
 
-### Blog | Report | Article
+#### Blog | Report | Article
 * [Abt Associates](https://www.abtassociates.com/insights/perspectives-blog/covid-19-data-visualizations-data-infographics-dashboards-and-models?utm_campaign=.gabrielkrieshok_is_back_&utm_content=1585255353&utm_medium=twitter&utm_source=abtassociates#): Abt Associates highlighted a few COVID-19 related resources. Find resources about Data, Data Streams, Infographics, Flattening the Curve, Dashboards and Model in the article by Gabriel Krieshok.  
  
 ## Social Media Data Sources  
