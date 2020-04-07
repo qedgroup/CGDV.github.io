@@ -1,4 +1,4 @@
-# CGDV Submission Guidance  
+# CGDV COVID-19 Challenge Submission Guidance  
 Step by step instructions on uploading visuals to CGDV platform  
 
 ## Step 1 
