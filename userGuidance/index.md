@@ -10,7 +10,7 @@ Fill out all info needed including Visualization Title, Country, University or O
 
 ## Step 3 Upload Your Visual
 
-Under Embed, you will find 3 options to upload your visual. 
+Under Embed, you will find 3 options to upload your visual: [Source](https://github.com/XinerNing/CGDV.github.io/blob/master/userGuidance/index.md#source)
 
 ### Source
 If your visualization is in any site hosting service such as GitHub Pages, select *Source* and put the URL in the box after Embed.  
