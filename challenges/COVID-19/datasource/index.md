@@ -1,4 +1,4 @@
-<img src=""/>
+<img src="https://cgdv.github.io/assets/img/sunrise.jpg" alt=""/>
 
 # A Resource Provided by The Center for Global Data Visualization
 
