@@ -1,2 +1,6 @@
-theme: jekyll-theme-architect
 title: Pandemic Data Room
+logo: /assets/img/logo.png
+description: A Resource Provided by The Center for Global Data Visualization
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
