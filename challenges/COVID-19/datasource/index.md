@@ -19,7 +19,7 @@ CGDV has requested the above data layers for countries including Guatemala, Keny
 As a research organization that conducts remote research, GeoPoll takes an initiative to assist the global response to coronavirus. From March 10th – 13th, 2020, GeoPoll administered a survey on the knowledge of and perceptions towards coronavirus in South Africa, Kenya, and Nigeria. The study was conducted among 1,350 respondents, nationally representative by location in each country and with a 50-50 gender split, and an age split of 33% ages 15-24, 35% ages 25-34, and 32% ages 35+.  
   
 To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/blog/coronavirus-africa). Download a copy of survey data in [CGDV GitHub Repository](source_provided_by_partner/Geopoll/). 
-
+<a href ="source_provided_by_partner/Geopoll"> the new link </a>
 ### Publicly accessible 
 #### Global cases  
 * [Johns Hopkins CSSE](https://systems.jhu.edu/research/public-health/ncov/): Interactive web-based dashboard tracking reported cases in real-time at the province level in China, city level in the US, Australia and Canada, and at the country level otherwise.
