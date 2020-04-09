@@ -144,3 +144,7 @@ body {
   }
 }
 
+div.container-lg.px-3.my-5.markdown-body h1 a {
+    display: none;
+}
+
