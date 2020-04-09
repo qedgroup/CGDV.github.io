@@ -3,7 +3,7 @@
  </style> 
  
 
-# CGDV COVID-19 Challenge Submission Guidance  
+# <h2>CGDV COVID-19 Challenge Submission Guidance  </h2>
 Step by step instructions on uploading visuals to CGDV platform  
 
 ## Step 1 
