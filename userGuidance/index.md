@@ -8,7 +8,7 @@ div.container-lg.px-3.my-5.markdown-body h1 {
  </style> 
  
 
-# <h3>CGDV COVID-19 Challenge Submission Guidance </h3>
+# <span> CGDV COVID-19 Challenge Submission Guidance</span>
 Step by step instructions on uploading visuals to CGDV platform  
 
 ## Step 1 
