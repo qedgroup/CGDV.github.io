@@ -1,5 +1,5 @@
 <img src="https://cgdv.github.io/assets/img/sunrise.jpg" alt=""/>
- <link rel="stylesheet" href="css/style.css" />
+ <link rel="stylesheet" href="/style.css" />
 # Pandemic Data Room
 ## A Resource Provided by The Center for Global Data Visualization
 
