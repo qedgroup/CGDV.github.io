@@ -1,7 +1,5 @@
 <style type="text/css">
- div.container-lg.px-3.my-5.markdown-body h1 {
-    display: none;
-}
+
  </style> 
  
 
