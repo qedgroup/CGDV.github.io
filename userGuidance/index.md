@@ -2,12 +2,13 @@
 div.container-lg.px-3.my-5.markdown-body h1 {
     display: none;
 }
-
+#header
+    {font-size:27px;}
 
  </style> 
  
 
-# <h3>CGDV COVID-19 Challenge Submission Guidance </h3>
+# <h3 id="header">CGDV COVID-19 Challenge Submission Guidance </h3>
 Step by step instructions on uploading visuals to CGDV platform  
 
 ## Step 1 
