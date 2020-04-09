@@ -6,11 +6,11 @@ Step by step instructions on uploading visuals to CGDV platform
 Go to [Center for Global Data Visualization](https://www.centerforglobaldata.org/authentication/signin), create an account and complete the profile with a photo. Then start your submission through "My Visuals" button on the top right.
 
 ## Step 2
-Fill out all info needed including Visualization Title, Country, University or Organization, challenge and Data Source. For team submission, you can add you team members by using "Multiple Users for this Submission" option at the bottom.
+Fill out all information needed including Visualization Title, Country, University or Organization, challenge and Data Source. For team submission, you can add you team members by using "Multiple Users for this Submission" option at the bottom.
 
 ## Step 3 Upload your visual
 
-Under Embed, you will find 3 options to upload your visual: [Source](https://github.com/XinerNing/CGDV.github.io/blob/master/userGuidance/index.md#source), [Embed url](https://github.com/XinerNing/CGDV.github.io/blob/master/userGuidance/index.md#embed-url), [Document](https://github.com/XinerNing/CGDV.github.io/blob/master/userGuidance/index.md#document)
+Under Embed, you will find 3 options to upload your visual: Source, Embed url, Document
 
 ### Source
 If your visualization is in any site hosting service such as GitHub Pages, select *Source* and put the URL in the box after Embed.  
