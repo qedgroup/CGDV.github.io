@@ -3,7 +3,7 @@
  </style> 
  
 
-# <h2>CGDV COVID-19 Challenge Submission Guidance  </h2>
+# <h2 style="font-size:27px">CGDV COVID-19 Challenge Submission Guidance  </h2>
 Step by step instructions on uploading visuals to CGDV platform  
 
 ## Step 1 
