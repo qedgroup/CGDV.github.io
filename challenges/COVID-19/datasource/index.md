@@ -70,18 +70,98 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 </p>
 </details>
 
-* [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):Coronavirus Disease (COVID-2019) situation reports
+<details>
+<summary>
+<a href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports'>WHO COVID-19 situation reports</a>
+</summary>
+<p>
+ 
+* Detailed Description: 
+</p>
+</details>
 
-* [The World Bank](http://datatopics.worldbank.org/universal-health-coverage/covid19/): This site provides an array of real-time data, statistical indicators, and other types of data that are relevant to the coronavirus pandemic. These data are drawn from the World Bank’s data catalog and other authoritative sources.  
+<details>
+<summary>
+<a href='http://datatopics.worldbank.org/universal-health-coverage/covid19/'>The World Bank</a>
+</summary>
+<p>
+ 
+* Detailed Description: This site provides an array of real-time data, statistical indicators, and other types of data that are relevant to the coronavirus pandemic. These data are drawn from the World Bank’s data catalog and other authoritative sources.  
+</p>
+</details>
 
-* [HDX](https://data.humdata.org/event/covid-19): COVID-19 Pandemic in Locations with a Humanitarian Response. Other relevant datasets available to download in the platform are: World Bank Indicators of Interest to the COVID-19 Outbreak; Global Travel Restrictions and Airline Information; Global School Closures.
+<details>
+<summary>
+<a href='https://data.humdata.org/event/covid-19'>HDX</a>
+</summary>
+<p>
+ 
+* Detailed Description: COVID-19 Pandemic in Locations with a Humanitarian Response. Other relevant datasets available to download in the platform are: World Bank Indicators of Interest to the COVID-19 Outbreak; Global Travel Restrictions and Airline Information; Global School Closures.  
+</p>
+</details>
+
+
 
 #### Country/area - level cases
-* [Australian Government Department of Health](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers): COVID-19 current situation and case numbers in Australia  
-  
-* [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html): COVID-19 Cases in the U.S.    
+<details>
+<summary>
+<a href="https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers">Australian Government Department of Health</a>: COVID-19 current situation and case numbers in Australia</summary>
+<p>
 
-* [CCDC](http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm): China CDC
+* Detailed Description: HTML report of the current situation and case numbers in Austrailia. There are a few instances where data tables and visualizations are seen.
+* Data Resolution: 
+* Frequency of update: nan
+* Download Method: nan
+  * File type: nan
+* Cleaning requirements: nan
+* Link: https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers
+</p>
+</details>  
+  
+<details>
+<summary>
+<a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html">CDC: COVID-19 Cases in the U.S.</a>: Background information about COVID 19 such as protocols on how to get tested, how to stay safe, etc.</summary>
+<p>
+
+* Detailed Description: nan
+* Data Resolution: 
+* Frequency of update: nan
+* Download Method: nan
+  * File type: nan
+* Cleaning requirements: nan
+* Link: https://www.cdc.gov/coronavirus/2019-ncov/index.html
+</p>
+</details>
+
+<details>
+<summary>
+<a href="http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm">CCDC: China CDC</a>: Cases report from China National Health Commission</summary>
+<p>
+
+* Detailed Description: nan
+* Data Resolution: China
+* Frequency of update: Daily
+* Download Method: Copy-paste
+  * File type: Text
+* Cleaning requirements: Significant
+* Link: http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm
+</p>
+</details>
+
+<details>
+<summary>
+<a href="https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html">Government of Canada: COVID-19 Outbreak in Canada</a>: Website pertaining to the symptoms of coronavirus.</summary>
+<p>
+
+* Detailed Description: nan
+* Data Resolution: 
+* Frequency of update: nan
+* Download Method: nan
+  * File type: nan
+* Cleaning requirements: nan
+* Link: https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html
+</p>
+</details>
 
 * [COVID-19 Open Research Dataset Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#metadata.csv): CORD-19 is an AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House. With over 44,000 scholarly articles, including over 29,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses, this freely available dataset allows global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease.
 
@@ -92,7 +172,6 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 * [ECDC](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases): 	
 European Centre for Disease Prevention and Control
 
-* [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html): COVID-19 Outbreak in Canada
 
 * [INDIA COVID-19 TRACKER](https://www.covid19india.org/): A crowdsourced initiative by dedicated volunteers who are curating the news coming from state bulletins, press releases and news houses in India.
 
