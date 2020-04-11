@@ -201,7 +201,66 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 </details>
 </details>
 
+<details>
+<summary>
+<a href="https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers">Australian Government Department of Health</a>: COVID-19 current situation and case numbers in Australia</summary>
+<p>
 
+* Detailed Description: HTML report of the current situation and case numbers in Austrailia. There are a few instances where data tables and visualizations are seen.
+* Data Resolution: 
+* Frequency of update: nan
+* Download Method: nan
+  * File type: nan
+* Cleaning requirements: nan
+* Link: https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers
+</p>
+</details>
+
+
+<details>
+<summary>
+<a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html">CDC: COVID-19 Cases in the U.S.</a>: Background information about COVID 19 such as protocols on how to get tested, how to stay safe, etc.</summary>
+<p>
+
+* Detailed Description: nan
+* Data Resolution: 
+* Frequency of update: nan
+* Download Method: nan
+  * File type: nan
+* Cleaning requirements: nan
+* Link: https://www.cdc.gov/coronavirus/2019-ncov/index.html
+</p>
+</details>
+
+<details>
+<summary>
+<a href="http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm">CCDC: China CDC</a>: Cases report from China National Health Commission</summary>
+<p>
+
+* Detailed Description: nan
+* Data Resolution: China
+* Frequency of update: Daily
+* Download Method: Copy-paste
+  * File type: Text
+* Cleaning requirements: Significant
+* Link: http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm
+</p>
+</details>
+
+<details>
+<summary>
+<a href="https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html">Government of Canada: COVID-19 Outbreak in Canada</a>: Website pertaining to the symptoms of coronavirus.</summary>
+<p>
+
+* Detailed Description: nan
+* Data Resolution: 
+* Frequency of update: nan
+* Download Method: nan
+  * File type: nan
+* Cleaning requirements: nan
+* Link: https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html
+</p>
+</details>
 
 
 
