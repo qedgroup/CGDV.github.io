@@ -29,7 +29,21 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 
 ### Publicly accessible 
 #### Global cases  
-* [Johns Hopkins CSSE](https://systems.jhu.edu/research/public-health/ncov/): Interactive web-based dashboard tracking reported cases in real-time at the province level in China, city level in the US, Australia and Canada, and at the country level otherwise.
+<details>
+<summary>
+<a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins Coronavirus Dashboard Dataset</a>: Country, foreign provinces, and U.S. county case statistics</summary>
+<p>
+
+* Detailed Description: Contains recovered, infected, and fatility case numbers for all countries, province-level for many countries, and county level for the US. Data is sourced from a variety of health organizations around the world.
+* Data Resolution: Global (some province level), U.S. County
+* Frequency of update: Daily
+* Download Method: Download / Clone
+  * File type: CSV
+* Cleaning requirements: Minimal
+* Link: https://github.com/CSSEGISandData/COVID-19
+</p>
+</details>
+
 
 * [kaggle Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset): Daily affected cases in country level. Data are extracted from JHU dashboard and made available for kaggle users. 
 
