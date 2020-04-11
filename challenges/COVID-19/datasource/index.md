@@ -188,8 +188,14 @@ European Centre for Disease Prevention and Control
   
     
  ##  Experts' Thoughts on Dealing with COVID-19 Data
- * [You are (almost definitely) not qualified to make predictions about COVID-19. We’re here to help explain why.](
+ * [You are (almost definitely) not qualified to make predictions about COVID-19. We’re here to help explain why](
 https://www.tableau.com/about/blog/2020/4/you-are-almost-definitely-not-qualified-make-predictions-about-covid-19
-), by ANDY COTGREAVE
+), by Andy Cotgreave
+* [Visualizing coronavirus data? Consider adding a disclaimer](https://www.tableau.com/about/blog/2020/4/visualizing-coronavirus-data-consider-adding-disclaimer), by Amanda Makulec  
+* [Display New Daily Cases of COVID-19 with Care](https://www.perceptualedge.com/blog/?p=3123), by Stephen Few  
+* [10 considerations before you create another chart about COVID-19](https://www.tableau.com/about/blog/2020/3/ten-considerations-you-create-another-chart-about-covid-19), by Amanda Makulec
+* [Coronavirus Case Counts Are Meaningless*](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/), by Nate Silver  
+* [Rates of change are tricky](http://www.thefunctionalart.com/2020/03/rates-of-change-are-tricky.html), by Alberto Cairo  
+
  
  
