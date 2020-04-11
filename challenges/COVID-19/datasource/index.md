@@ -187,4 +187,9 @@ European Centre for Disease Prevention and Control
 * [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/): These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential.
   
     
- Please find more detailed instructions on using the listed data sources in a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1sgRWDUuh3GJbgcNJVJBLwnA5oZLgigvm1nPCZmq4EWQ/edit#gid=0) developed and maintained by graduate students in Georgetown University. 
+ ##  Experts' Thoughts on Dealing with COVID-19 Data
+ * [You are (almost definitely) not qualified to make predictions about COVID-19. We’re here to help explain why.](
+https://www.tableau.com/about/blog/2020/4/you-are-almost-definitely-not-qualified-make-predictions-about-covid-19
+), by ANDY COTGREAVE
+ 
+ 
