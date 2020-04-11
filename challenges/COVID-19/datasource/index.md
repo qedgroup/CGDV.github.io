@@ -61,8 +61,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 </details>
 
     
-### Publicly accessible 
-#### Global cases  
+## COVID-19 Case Data  
 <details>
 <summary>
 <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins Coronavirus Dashboard Dataset</a>: Country, foreign provinces, and U.S. county case statistics</summary>
@@ -95,13 +94,112 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 </details>
 
 <details>
+<summary></summary>
+<details>
 <summary>
-<a href='https://www.tableau.com/covid-19-coronavirus-data-resources'>Tableau COVID-19 Data Hub</a>
-</summary>
+<a href="https://github.com/covid19india/api">INDIA COVID-19 TRACKER</a>: Crowdsourced India COVID-19 data. Some interesting points because it takes data from anyone.</summary>
 <p>
- 
-* Detailed Description: A free COVID-19 Data Resource page contains: reshaped acurate data sources from WHO, JHU and NextStrain; Featured Viz & Sample Dashboard by experts and organizations; Viz Responsibly Guidelines; forum for collaboration, sharing resources and feedbacks. 
+
+* Detailed Description: This is a link to a GitHub repository that is used to crowdsource data about COVID-19 in India. The crowdsourced data has been used to make an HTML page (the link is in the GitHub repository). The data is crowdsourced through telegram, a social media type application, but it is not thoroughly validated. It is really interesting data about India, but it needs to be used appropriately in analysis. It is submitted through a social media platform, so some of it is likely incorrect, but could make fantastic supplementary data.
+* Data Resolution: Country
+* Frequency of update: Daily
+* Download Method: Clone / API
+  * File type: JSON
+* Cleaning requirements: Minimal
+* Link: https://github.com/covid19india/api
 </p>
+</details>
+
+<details>
+<summary>
+<a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide">European Centre for Disease Prevention and Control</a>: Dataset of positive cases and deaths by country worldwide</summary>
+<p>
+
+* Detailed Description: Contains a dataset that tracks positive cases and deaths per country. Originally a record data but could be transformed into timeseries with decent coding work
+* Data Resolution: Global
+* Frequency of update: Daily
+* Download Method: Download
+  * File type: CSV, JSON, XML
+* Cleaning requirements: Minimal/Moderate
+* Link: https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+</p>
+</details>
+
+<details>
+<summary>
+<a href="https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19">Patient Medical Data for COVID-19</a>: Medical records of patients infected with COVID-19</summary>
+<p>
+
+* Detailed Description: Patient record including age, sex, location, date of onset, symptoms, travel history, chronic diseases, and date of discharge or death.
+* Data Resolution: Global
+* Frequency of update: Last updated on April 1
+* Download Method: Download
+  * File type: CSV/JSON
+* Cleaning requirements: Minimal
+* Link: https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19
+</p>
+</details>
+
+<details>
+<summary>
+<a href="https://ncov.dxy.cn/ncovh5/view/pneumonia">DXY: a Chinese pandemic tracking online platform</a>: A Chinese online platform showing the number of cases locally and globally</summary>
+<p>
+
+* Detailed Description: Daily confirmed, deaths, and recovered cases worldwide. There is English version if click "switch to English version", but it doesn't provide dataset to download.
+* Data Resolution: Global, China
+* Frequency of update: Daily
+* Download Method: Copy-paste
+  * File type: Text
+* Cleaning requirements: Significant
+* Link: https://ncov.dxy.cn/ncovh5/view/pneumonia
+</p>
+</details>
+
+<details>
+<summary>
+<a href="https://github.com/nychealth/coronavirus-data">New York City Public Health Department</a>: Cases, hospitalizations, deaths by date of diagnosis as well as cases by ZIP code</summary>
+<p>
+
+* Detailed Description: There are a lot of files in the github repo, however only 2 datasets that I think valuable (case-hosp-death.csv and tests-by-zcta.csv). The case-hosp-death accounts cases by date of diagnosis, hospitalized and deaths in NYC hospitals. The latter dataset is cumulative positive cases per zip code
+* Data Resolution: U.S., U.S. ZIP
+* Frequency of update: Daily
+* Download Method: Download / Clone
+  * File type: CSV
+* Cleaning requirements: Minimal
+* Link: https://github.com/nychealth/coronavirus-data
+</p>
+</details>
+
+
+<details>
+<summary>
+<a href="https://github.com/nytimes/covid-19-data">New York Times Data</a>: Two time-series datasets collected by the New York Times from various U.S. state and local agencies; the first record is aligns with the first case in the United States on 21 January 2020.</summary>
+<p>
+
+* Detailed Description: Two time-series datasets collected by the New York Times from various state and local government agencies; the first record is the first case in the United States on 21 January 2020. One dataset contains information aggregated at the state-level and the other is information broken down by county. Features contained are: date, county/state, fips, cases, and deaths. NOTE: This source only provides information about positive cases.
+* Data Resolution: U.S. States, U.S. County
+* Frequency of update: Daily
+* Download Method: Download / Clone
+  * File type: CSV
+* Cleaning requirements: Minimal
+* Link: https://github.com/nytimes/covid-19-data
+</p>
+</details>
+
+<details>
+<summary>
+<a href="https://coronavirus.1point3acres.com/en">1Point3Acres covid19 dataset</a>: case based covid 19 dataset in US and Canada</summary>
+<p>
+
+* Detailed Description: The case data contains case id, confirmed date, state/province, county (for US only), confirmed case count, and death count. (Have rules on citing this source)
+* Data Resolution: US(county level) and Canada
+* Frequency of update: Daily
+* Download Method: API(I have requested and get the API access token,  20 requests per 24 hour)
+  * File type: CSV
+* Cleaning requirements: Minimal
+* Link: https://coronavirus.1point3acres.com/en
+</p>
+</details>
 </details>
 
 <details>
