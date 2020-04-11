@@ -188,6 +188,7 @@ European Centre for Disease Prevention and Control
   
     
  ##  Experts' Thoughts on Dealing with COVID-19 Data
+ In working with COVID-19 Data, we encourage you to recognize both the limitations of the data and your ability to draw conclusions from the list data.The articles below provide some insights on the challenges of COVID-19 data.  
  * [You are (almost definitely) not qualified to make predictions about COVID-19. We’re here to help explain why](
 https://www.tableau.com/about/blog/2020/4/you-are-almost-definitely-not-qualified-make-predictions-about-covid-19
 ), by Andy Cotgreave
