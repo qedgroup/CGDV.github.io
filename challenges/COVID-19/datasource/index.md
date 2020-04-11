@@ -65,6 +65,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <a href='https://www.tableau.com/covid-19-coronavirus-data-resources'>Tableau COVID-19 Data Hub</a>
 </summary>
 <p>
+ 
 * Detailed Description: A free COVID-19 Data Resource page contains: reshaped acurate data sources from WHO, JHU and NextStrain; Featured Viz & Sample Dashboard by experts and organizations; Viz Responsibly Guidelines; forum for collaboration, sharing resources and feedbacks. 
 </p>
 </details>
