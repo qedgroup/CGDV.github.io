@@ -29,13 +29,38 @@ CGDV has requested the above data layers for countries including Guatemala, Keny
 </p>
 </details>
 
+<details>
+<summary>
+<a href="https://www.geopoll.com//">Geopoll</a>: Coronavirus In Sub-Saharan Africa</summary>
+<p>
+
+* Detailed Description: As a research organization that conducts remote research, GeoPoll takes an initiative to assist the global response to coronavirus. From March 10th – 13th, 2020, GeoPoll administered a survey on the knowledge of and perceptions towards coronavirus in South Africa, Kenya, and Nigeria. The study was conducted among 1,350 respondents, nationally representative by location in each country and with a 50-50 gender split, and an age split of 33% ages 15-24, 35% ages 25-34, and 32% ages 35+.  
+To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/blog/coronavirus-africa). Download a copy of survey data in [CGDV Google Drive](https://drive.google.com/drive/folders/14P_mzWfNmottpzMtTpCvvuT1gkotvK5p?usp=sharing).
+* Data Resolution:
+* Frequency of update: 
+* Download Method: 
+  * File type: 
+* Cleaning requirements: 
+* Link: 
+</p>
+</details>
+
+<details>
+<summary>
+<a href="">Exovera</a>:</summary>
+<p>
+
+* Detailed Description: 
+* Data Resolution:
+* Frequency of update: 
+* Download Method: 
+  * File type: 
+* Cleaning requirements: 
+* Link: 
+</p>
+</details>
+
     
-* [Geopoll](https://www.geopoll.com/): Coronavirus In Sub-Saharan Africa  
-
-As a research organization that conducts remote research, GeoPoll takes an initiative to assist the global response to coronavirus. From March 10th – 13th, 2020, GeoPoll administered a survey on the knowledge of and perceptions towards coronavirus in South Africa, Kenya, and Nigeria. The study was conducted among 1,350 respondents, nationally representative by location in each country and with a 50-50 gender split, and an age split of 33% ages 15-24, 35% ages 25-34, and 32% ages 35+.  
-  
-To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/blog/coronavirus-africa). Download a copy of survey data in [CGDV Google Drive](https://drive.google.com/drive/folders/14P_mzWfNmottpzMtTpCvvuT1gkotvK5p?usp=sharing). 
-
 ### Publicly accessible 
 #### Global cases  
 <details>
