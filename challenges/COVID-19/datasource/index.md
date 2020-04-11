@@ -262,95 +262,261 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 </p>
 </details>
 
-
-
-
-
-
-
-#### Country/area - level cases
+## Government Response Data
 <details>
 <summary>
-<a href="https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers">Australian Government Department of Health</a>: COVID-19 current situation and case numbers in Australia</summary>
+<a href="https://www.kaggle.com/jcyzag/covid19-lockdown-dates-by-country#countryLockdowndates.csv">Worldwide Lockdown Dataset</a>: Country and province stay-at-home order data</summary>
 <p>
 
-* Detailed Description: HTML report of the current situation and case numbers in Austrailia. There are a few instances where data tables and visualizations are seen.
-* Data Resolution: 
-* Frequency of update: nan
-* Download Method: nan
-  * File type: nan
-* Cleaning requirements: nan
-* Link: https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers
-</p>
-</details>  
-  
-<details>
-<summary>
-<a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html">CDC: COVID-19 Cases in the U.S.</a>: Background information about COVID 19 such as protocols on how to get tested, how to stay safe, etc.</summary>
-<p>
-
-* Detailed Description: nan
-* Data Resolution: 
-* Frequency of update: nan
-* Download Method: nan
-  * File type: nan
-* Cleaning requirements: nan
-* Link: https://www.cdc.gov/coronavirus/2019-ncov/index.html
+* Detailed Description: 2 files. List of lockdown dates for each countries. A lockdown is assumed to be complete when all schools and non-essential businesses are closed. References for each country are also listed for where the information was found. Some rows contain blank provinces if it pertains to the whole nation.
+* Data Resolution: Global, 
+* Frequency of update: Static? (updated 3 days ago)
+* Download Method: Download
+  * File type: CSV
+* Cleaning requirements: Minimal/Moderate
+* Link: https://www.kaggle.com/jcyzag/covid19-lockdown-dates-by-country#countryLockdowndates.csv
 </p>
 </details>
 
 <details>
 <summary>
-<a href="http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm">CCDC: China CDC</a>: Cases report from China National Health Commission</summary>
+<a href="https://www.kaggle.com/lin0li/us-lockdown-dates-dataset">US Lockdown Dataset</a>: State and county stay-at-home order data</summary>
 <p>
 
-* Detailed Description: nan
-* Data Resolution: China
+* Detailed Description: Dates of when is each state / county's stay-at-home order becomes effective as a result of the covid-19 pandemic. This dataset is updated daily as more states & counties issue stay-at-home order. Some rows contain blank counties if it pertains to the whole state.
+* Data Resolution: U.S. States, U.S. County
 * Frequency of update: Daily
-* Download Method: Copy-paste
-  * File type: Text
-* Cleaning requirements: Significant
-* Link: http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm
+* Download Method: Download
+  * File type: CSV
+* Cleaning requirements: Minimal/Moderate
+* Link: https://www.kaggle.com/lin0li/us-lockdown-dates-dataset
+</p>
+</details>
+
+## Healthcare Resource Data
+<details>
+<summary>
+<a href="https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds/data?geometry=94.394%2C-16.820%2C-119.356%2C72.123&page=10">USA Hospital Beds</a>: County level data.Contains hospital beds related data(amount, untility rate, bed type, etc)as well as hospital geographic data</summary>
+<p>
+
+* Detailed Description: Contains hospital beds related data(amount, untility rate, bed type, etc)as well as hospital geographic data
+* Data Resolution: US county
+* Frequency of update: Daily(not sure, last updated 'yesterday')
+* Download Method: Download
+  * File type: CSV
+* Cleaning requirements: Minimal
+* Link: https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds/data?geometry=94.394%2C-16.820%2C-119.356%2C72.123&page=10
+</p>
+</details>
+
+
+<details>
+<summary>
+<a href="https://github.com/covidcaremap/covid19-healthsystemcapacity/tree/master/data/published">US Hospital Facility Bed Capacity</a>: Includes information about all hospitals bed and ventilators per capita, health care capacity data etc</summary>
+<p>
+
+* Detailed Description: High quality data on US hospitals capacity including beds per capita, covid care data etc.
+* Data Resolution: US county
+* Frequency of update: Last updated on april 7
+* Download Method: Clone
+  * File type: CSV/geojson
+* Cleaning requirements: Minimal
+* Link: https://github.com/covidcaremap/covid19-healthsystemcapacity/tree/master/data/published
 </p>
 </details>
 
 <details>
 <summary>
-<a href="https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html">Government of Canada: COVID-19 Outbreak in Canada</a>: Website pertaining to the symptoms of coronavirus.</summary>
+<a href="https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems">WDI Health Systems</a>: Data on the state of each countries healthcare system.</summary>
 <p>
 
-* Detailed Description: nan
-* Data Resolution: 
-* Frequency of update: nan
-* Download Method: nan
-  * File type: nan
-* Cleaning requirements: nan
-* Link: https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html
+* Detailed Description: The stated purpose for this data is "Does health spending levels (public or private), or hospital staff have any effect on the rate at which Covid-19 spreads in a country? Can we use this data to predict the rate at which Cases or Fatalities will grow?". It is only data on healthcare expenditures and the amount of healthcare available in countries throughout the world. There is not any direct COVID-19 data, but this could make good supplementary data for a question similar to one they posed as inspiration
+* Data Resolution: Global
+* Frequency of update: Every 2-3 Days
+* Download Method: Download
+  * File type: CSV
+* Cleaning requirements: Minimal
+* Link: https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems
 </p>
 </details>
 
-* [COVID-19 Open Research Dataset Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#metadata.csv): CORD-19 is an AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House. With over 44,000 scholarly articles, including over 29,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses, this freely available dataset allows global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease.
+## Social Data
+<details>
+<summary>
+<a href="https://trends.google.com/trends/?geo=US">Google Trends</a>: Data on the trends in people's google searches.</summary>
+<p>
 
-* [DXY](https://ncov.dxy.cn/ncovh5/view/pneumonia): An online platform run by members of the Chinese medical community, which aggregates local media and government reports to provide COVID-19 cumulative case totals in near real-time at the province level in China and country level otherwise.  
+* Detailed Description: GoogleTrends data is phenomenal, it is interesting, important, and can be so insightful, IF IT IS USED CORRECTLY. It can be a little confusing the first time you see it, and the instructions given will help you understand the graphs presented on the GoogleTrends page when you input a search term. However, figuring out how to use it further and get more from it, is not super clear. All of the data is given in search intensity, scaled from 0 to 100, where 100 is the maximum search intensity. The maximum search intensity does not give you any information about the actual number of searches, that number is that search terms peak in searches, then everything else is scaled to that value. A search intensity of 50 means that term was searched half as many times as the search intensity of 100. 
 
-* [Hong Kong Department of Health](https://www.coronavirus.gov.hk/eng/index.html): Local Situation Dashboard
+Now, lets put that in context, google trends allows you to vary the time period, regional resolution, and the search term(s).
+    - You can specify a time period of any range dating back to 2014.
+        - Time periods of less than a week will return hourly data
+        - Time periods over a week, but less than 269 days (about 9 months, but using 8 is safe) returns daily data
+        - Time periods over 269 days return weekly data
+    - You can choose the whole world or a specific country
+        - The whole world will give you country level comparisons
+        - Different countries have different levels you can compare from, for example U.S. has a default of comparing states, but you can also choose to compare by metro region.
 
-* [ECDC](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases): 	
-European Centre for Disease Prevention and Control
+
+Let's start with relative search intensities (i.e. comparing different searches):
+    - You will specify a time period, and what is returned may be hourly, daily or weekly search intensities.
+    - Only one term is going to reach 100 over that time period. This represents the highest search intensity for that term, and any of the other terms you are comparing.
+    - Then every other search intensity is scaled from that point. No matter what term you are looking at in a relative search intensity on GoogleTrends it's search intensity = # searches for that term / # searches at the peak search intensity (100)
+    - GoogleTrends allows you to compare up to five words or phrases at one time. There are ways to overlap time periods and search terms together to get a pretty good estimate to compare from, but DO NOT DO THIS UNLESS IT IS ABSOLUTELY NECESSARY. It is very difficult, and a tiny mistake makes all of your data innaccurate.
+
+Regional Search Intensities (comparing a terms search intensity based on location):
+    - You enter a search term and you can specify whether it is the whole world, or one particular country.
+    - GoogleTrends gives you colored maps representing this data.
+    - What the actual data has for you is similar to the relative search intensities.
+    - Only one region in the region and time period you specified will be reach 100.
+    - The rest of the regions are scaled the same way as relative search intensity to that moment and regions search intensity
+
+*** You can also do regional searches that compare multiple terms, and it is really interesting. However, manipulation of that data is even more difficult, and requires a lot of attention to unravel. It is very easy to make a small mistake, and that small mistake will echo throughout all of the data, again making it worthless.
+
+This is just a brief summary of the data given, and what I have found to be the things to watch out for, look at google trends descriptions as well for details specific to their user interface. If you still feel like you want to dive deeper into some of this data, there is a library full of research articles using the data and webpages dedicated to some manipulation of the data to get more out of it. I will just warn you to be careful, the manipulation, overlapping and other methods to change the data are always approximations, and not always correct, so read them thoughourly and check that they validated their method in some clear and accurate way.
+* Data Resolution: Global, Country Level, U.S. State Level, U.S. Metro Region Level, Other Countries Have Unique Regional Breakdowns
+* Frequency of update: Daily
+* Download Method: Download / API (pytrends)
+  * File type: CSV
+* Cleaning requirements: Minimal
+* Link: https://trends.google.com/trends/?geo=US
+</p>
+</details>
 
 
-* [INDIA COVID-19 TRACKER](https://www.covid19india.org/): A crowdsourced initiative by dedicated volunteers who are curating the news coming from state bulletins, press releases and news houses in India.
+<details>
+<summary>
+<a href="https://covid-19-apis.postman.com/">Postman: COVID-19 API Resource Center</a>: Contains links and detailed information about accessing public feeds from 28 different organizations and topics via application program interfaces (API). Organizations represented include the WHO, CDC, and John Hopkins University.</summary>
+<p>
 
-#### Blog | Report | Article
-* [Abt Associates](https://www.abtassociates.com/insights/perspectives-blog/covid-19-data-visualizations-data-infographics-dashboards-and-models?utm_campaign=.gabrielkrieshok_is_back_&utm_content=1585255353&utm_medium=twitter&utm_source=abtassociates#): Abt Associates highlighted a few COVID-19 related resources. Find resources about Data, Data Streams, Infographics, Flattening the Curve, Dashboards and Model in the article by Gabriel Krieshok.  
- 
-## Social Media Data Sources  
-* [Google Trend](https://trends.google.com/trends/?geo=US): Explore what the world is searching in Google. 
+* Detailed Description: Contains links and detailed information about accessing public feeds from 28 different organizations and topics via application program interfaces (API). This site contains information to connect to feeds from the WHO, CDC, COVID Tracking Project, and John Hopkins University COVID Database just to name a few. There are examples of how to access an organization's Twitter and Youtube feed, however individuals must have the requisite API Key / Access Tokens to access the information contained on those sites. 
+* Data Resolution: Various
+* Frequency of update: nan
+* Download Method: API
+  * File type: Various
+* Cleaning requirements: Significant
+* Link: https://covid-19-apis.postman.com/
+</p>
+</details>
 
-* [Postman COVID-19 API Resource Center](https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiWkRabE9HWmpZMkl3Tm1RMSIsInQiOiJOYWUrcGNQYTZjekdsMytQNUN6dVNYdHlIaVM0cTIwQkhyTFpONGhySUVMWVBSaU4wYmh5cXhGYStqTW1JQWdxTG1qeEFhb0pvNUtpelgwV1h5SWJcLysybVo1WEorM0cyUGErZFFsYzZIUStrWDBmRlwvN0VseExkSFRtOXhQeG0rIn0%3D): API collections to pull information from website and social media account (YouTube, Twitter) of agencies including CDC, WHO. 
+<details>
+<summary>
+<a href="nan">SafeGraph Dataset</a>: Data on foot traffic throughout the US. It has the number of times people pass by over 6 million different points of interest in the US.</summary>
+<p>
 
-## Behavioral Survey Data Sources
-* [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/): These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential.
+* Detailed Description: This Data is based on businesses and consumer hot spots. It uses over 6 million points throughout the US and tracks the amount of foot traffic at each of these points. They give data like number of visitors over a certain period, and also offer shapefiles for mapping or any locational visualizations.
+* Data Resolution: US Points of Interest
+* Frequency of update: Daily
+* Download Method: Download
+  * File type: CSV
+* Cleaning requirements: Minimal
+* Link: nan
+</p>
+</details>
+
+
+<details>
+<summary>
+<a href="https://github.com/thepanacealab/covid19_twitter/tree/master/dailies/2020-03-22">Covid-19 Twitter dataset</a>: Dataset of tweets acquired from the Twitter Stream related to COVID-19 chatter</summary>
+<p>
+
+* Detailed Description: Interesting dataset of social media, including daily top 1000 terms, bigrams, trigrams etc., also contains cleaned version on tweet text. Tweets languages including English Spanish and French
+* Data Resolution: Global
+* Frequency of update: every 2 days
+* Download Method: Clone
+  * File type: CSV
+* Cleaning requirements: Minmal
+* Link: https://github.com/thepanacealab/covid19_twitter/tree/master/dailies/2020-03-22
+</p>
+</details>
+
+<details>
+<summary>
+<a href="https://www.notion.so/Schools-affected-by-COVID-19-a28139cb40814869a2cd64cc9453d82c">Schools affected by COVID-19</a>: Dataset of Higher Education schools moving to online-only instruction due to COVID-19</summary>
+<p>
+
+* Detailed Description: nan
+* Data Resolution: US county
+* Frequency of update: Last updated March 27
+* Download Method: Download
+  * File type: CSV
+* Cleaning requirements: Minmal
+* Link: https://www.notion.so/Schools-affected-by-COVID-19-a28139cb40814869a2cd64cc9453d82c
+</p>
+</details>
+
+<details>
+<summary>
+<a href="https://www.quorum.us/spreadsheet/external/QCKYcPmSvYoAhnkIdcSS/">COVID-19 Legislation</a>: Interactive site for users to access: statewide or nationwide data on all covid-19 legislation</summary>
+<p>
+
+* Detailed Description: Queryable and downloadable data pertaining to United States COVID-19 legislation. The data contains name of the bill, the region it spans, description of the legislation, link to the source, status, last action, date of last action, type (house/senate/other), the internal quorum link.
+* Data Resolution: U.S. States, U.S.
+* Frequency of update: At least daily
+* Download Method: Download
+  * File type: CSV
+* Cleaning requirements: Minimal
+* Link: https://www.quorum.us/spreadsheet/external/QCKYcPmSvYoAhnkIdcSS/
+</p>
+</details>
+
+<details>
+<summary>
+<a href="https://help.cuebiq.com/hc/en-us/articles/360041350092-Cuebiq-Mobility-Visit-Index-Feed-Specs#h_e4633fc1-3206-4ee5-a3b8-6f7735e22c7e">Coebiq Mobility Index Data</a>: Dataset shows mobility and store visitation patterns</summary>
+<p>
+
+* Detailed Description: This data representing the level of movement within each specific county in the U.S. 
+* Data Resolution: US county
+* Frequency of update: Daily
+* Download Method: AWS S3 (premier account of Coebiq needed)
+  * File type: CSV
+* Cleaning requirements: Minimal
+* Link: https://help.cuebiq.com/hc/en-us/articles/360041350092-Cuebiq-Mobility-Visit-Index-Feed-Specs#h_e4633fc1-3206-4ee5-a3b8-6f7735e22c7e
+</p>
+</details>
+
+
+<details>
+<summary>
+<a href="https://www.google.com/covid19/mobility/">Google COVID-19 Community Mobility Reports</a>: See how your community is moving around differently due to COVID-19</summary>
+<p>
+
+* Detailed Description: These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential. 
+* Data Resolution: 
+* Frequency of update: 
+* Download Method: 
+  * File type: 
+* Cleaning requirements: 
+* Link: https://www.google.com/covid19/mobility/
+</p>
+</details>
+
+
+
+## Academic Data
+
+<details>
+<summary>
+<a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#metadata.csv">Scholarly Article Database</a>: Big database of scholarly article metadata with links and queryable json files for Natural Language Processing</summary>
+<p>
+
+* Detailed Description: This dataset combines 44k+ scholarly articles/literature pertaining to the coronavirus. It can be used to analyze the main authors, sources, titles, journal and abstract for the analyst to look into. Each row provides a link to the article if Natural Language Processing should be a desired task. 
+* Data Resolution: U.S.
+* Frequency of update: Static
+* Download Method: Download/Embedded link
+  * File type: JSON
+* Cleaning requirements: Significant
+* Link: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#metadata.csv
+</p>
+</details>
+
+## COVID-19 Dashboard
+* [Johns Hopkins CSSE: Interactive web-based dashboard tracking reported cases](https://coronavirus.jhu.edu/map.html)
+* [Live World Health Organization Dashboard] (https://who.sprinklr.com/)
+* [Tableau Coronavirus Daily Global Tracker] (https://www.tableau.com/covid-19-coronavirus-data-resources)
+
+
+
   
     
  ##  Experts' Thoughts on Dealing with COVID-19 Data
