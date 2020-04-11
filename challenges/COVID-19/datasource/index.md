@@ -11,16 +11,14 @@ A Resource Provided by The Center for Global Data Visualization
 The Pandemic Data Room is a comprehensive global COVID-19 data repository created by a consortium of partners and led by QED Group to improve understanding of the impact of physical distancing policies on social behavior, disease rates, hospital utilization, and local/national economies. This initiative will generate critical information needed to adjust policies to control the outbreak. We hope to bring amazing talent to work on the data and generate new tools that can be used to manage and understand this pandemic.
 
 
-## Data sources Provided by Partners  
+## Data sources provided by partners  
 <details>
 <summary>
 <a href="https://fraym.io/">Fraym</a>: Geospatial Data For Covid-19 Prevention and Crisis Response</summary>
 <p>
 
 * Detailed Description: The risks posed by coronavirus are especially high for millions of people who live in low-and middle-income countries, where financial, medical equipment, and health personnel resources are highly constrained. 
-
 To rapidly identify countries, cities and communities that exhibit the greatest risk of emergency cases and rapid transmission, Fraym provides access to relevant data layers including Emergency Case Risk Factors (Smoking prevalence, Elderly households, Body health - obesity, child stunting, child wasting) and Transmission Risk Factors (Population density, Household size, Occupation, Transportation modes, Hand Washing Practices).
-
 CGDV has requested the above data layers for countries including Guatemala, Kenya, Nigeria, Pakistan, Philippines, Rwanda, Senegal, and South Africa. Download raster files with high-resolution down to 1km2 in [CGDV Google Drive](https://drive.google.com/drive/folders/14P_mzWfNmottpzMtTpCvvuT1gkotvK5p?usp=sharing ).
 * Data Resolution:
 * Frequency of update: 
