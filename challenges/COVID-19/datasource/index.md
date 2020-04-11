@@ -4,6 +4,7 @@
     display: none;
 }
  </style>
+ 
 # Pandemic Data Room
 ## A Resource Provided by The Center for Global Data Visualization
 
