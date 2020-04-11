@@ -141,7 +141,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 
 <details>
 <summary>
-<a href="https://ncov.dxy.cn/ncovh5/view/pneumonia">DXY: a Chinese pandemic tracking online platform</a>: A Chinese online platform showing the number of cases locally and globally</summary>
+<a href="https://ncov.dxy.cn/ncovh5/view/pneumonia">DXY</a>: A Chinese pandemic tracking online platform showing the number of cases locally and globally</summary>
 <p>
 
 * Detailed Description: Daily confirmed, deaths, and recovered cases worldwide. There is English version if click "switch to English version", but it doesn't provide dataset to download.
@@ -201,35 +201,11 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 </details>
 </details>
 
-<details>
-<summary>
-<a href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports'>WHO COVID-19 situation reports</a>
-</summary>
-<p>
- 
-* Detailed Description: 
-</p>
-</details>
 
-<details>
-<summary>
-<a href='http://datatopics.worldbank.org/universal-health-coverage/covid19/'>The World Bank</a>
-</summary>
-<p>
- 
-* Detailed Description: This site provides an array of real-time data, statistical indicators, and other types of data that are relevant to the coronavirus pandemic. These data are drawn from the World Bank’s data catalog and other authoritative sources.  
-</p>
-</details>
 
-<details>
-<summary>
-<a href='https://data.humdata.org/event/covid-19'>HDX</a>
-</summary>
-<p>
- 
-* Detailed Description: COVID-19 Pandemic in Locations with a Humanitarian Response. Other relevant datasets available to download in the platform are: World Bank Indicators of Interest to the COVID-19 Outbreak; Global Travel Restrictions and Airline Information; Global School Closures.  
-</p>
-</details>
+
+
+
 
 
 
