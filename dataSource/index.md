@@ -1,4 +1,5 @@
 # CGDV Recommended Data Sources
+The Pandemic Data Room is a comprehensive global COVID-19 data repository created by a consortium of partners and led by QED Group to improve understanding of the impact of physical distancing policies on social behavior, disease rates, hospital utilization, and local/national economies. This initiative strives to generate insights that could lead to a better understanding of impact of physical distancing and the outbreak. We aim to bring amazing talent to work on the data and generate insights that can benefit the global community's work to understand and control the spread of this pandemic.
 
 CGDV promotes open data for public good. We recommended the following data sources for researching and creating data visualizations. Please let us know if there is more to be added to the list.
 

@@ -1,11 +1,14 @@
 <style type="text/css">
- div.container-lg.px-3.my-5.markdown-body h1 {
+div.container-lg.px-3.my-5.markdown-body h1 {
     display: none;
 }
+#header
+    {font-size:27px;}
+
  </style> 
  
 
-# CGDV COVID-19 Challenge Submission Guidance  
+# <span> CGDV COVID-19 Challenge Submission Guidance</span>
 Step by step instructions on uploading visuals to CGDV platform  
 
 ## Step 1 
