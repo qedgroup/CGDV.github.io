@@ -93,8 +93,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 </p>
 </details>
 
-<details>
-<summary></summary>
+
 <details>
 <summary>
 <a href="https://github.com/covid19india/api">INDIA COVID-19 TRACKER</a>: Crowdsourced India COVID-19 data. Some interesting points because it takes data from anyone.</summary>
