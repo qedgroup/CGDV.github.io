@@ -39,7 +39,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 
 <details>
 <summary>
-<a href="http://www.exovera.com/">Exovera</a>:</summary>
+<a href="http://www.exovera.com/">Exovera</a>: COVID-19 realted articles published in US newspaper </summary>
 <p>
 
 * Detailed Description: Exovera provides COVID-19 social media data through its robust API platform. 
