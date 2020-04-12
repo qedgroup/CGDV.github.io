@@ -1,14 +1,23 @@
 <img src="https://cgdv.github.io/assets/img/sunrise.jpg" alt=""/>
 <style type="text/css">
- div.container-lg.px-3.my-5.markdown-body h1 {
+ div.container-lg.px-3.my-5.markdown-body h1 a {
     display: none;
 }
- </style>
- 
-# Pandemic Data Room
-A Resource Provided by The Center for Global Data Visualization
 
-The Pandemic Data Room is a comprehensive global COVID-19 data repository created by a consortium of partners and led by QED Group to improve understanding of the impact of physical distancing policies on social behavior, disease rates, hospital utilization, and local/national economies. This initiative will generate critical information needed to adjust policies to control the outbreak. We hope to bring amazing talent to work on the data and generate new tools that can be used to manage and understand this pandemic.
+
+ </style>
+# Pandemic Data Room
+## A Resource Provided by The Center for Global Data Visualization
+
+A Pandemic Data Room is a comprehensive global COVID-19 data repository created by a consortium of partners and led by QED Group to improve understanding of the impact of physical distancing policies on social behavior, disease rates, hospital utilization, and local/national economies. This initiative will generate critical information needed to adjust policies to control the outbreak. We hope to bring amazing talent to work on the data and generate new tools that can be used to manage and understand this pandemic.
+
+In order that the Pandemic Data Room best reflects questions being asked among the global health and international development communities, we have created a portal where people can pose questions on COVID-19 they are looking to get answered. This question portal will be available to Data Challenge  participants and they can use it to generate ideas in creating compelling visualization and analysis tools. Please visit the portal [here](https://docs.google.com/document/d/1Q-OpRV6bvZuePvF1E_DSwTr121zPoIZExkiozWw1-24/edit).  
+
+
+
+Participate in the <a href="https://cgdv.github.io/challenges/COVID-19/" target="_blank">COVID-19 Data Challenge</a> using this data resource. Both students and professionals are encouraged to participate. For each track, submissions are judged separately and prizes (1st Place $2000, 2nd Place $1500, 3rd Place $1000, Honorable Mentions $100) are awarded. 
+
+Contribute to the Pandemic Data Room by submitting a new data source request in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdn74SkcHp3lJ6rv2QTU1VmeliwUe_d6G8H_dFvVf_J_LEeMQ/viewform). We will evaluate your data source and get back to you soon!
 
 
 ## Data sources provided by partners  
