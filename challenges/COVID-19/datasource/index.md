@@ -11,6 +11,8 @@ A Pandemic Data Room is a comprehensive global COVID-19 data repository created 
 
 In order that the Pandemic Data Room best reflects questions being asked among the global health and international development communities, we have created a portal where people can pose questions on COVID-19 they are looking to get answered. This question portal will be available to Data Challenge  participants and they can use it to generate ideas in creating compelling visualization and analysis tools. Please visit the portal here (link).  
 
+Participate in the <a href="https://cgdv.github.io/challenges/COVID-19/" target="_blank">COVID-19 Data Challenge</a> using this data resource.
+
 
 ## COVID-19 Data Sources  
   
