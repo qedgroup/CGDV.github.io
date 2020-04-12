@@ -77,22 +77,35 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 </p>
 </details>
 
-
 <details>
 <summary>
-<a href="https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset">Kaggle Novel Corona Virus 2019 Dataset</a>: Daily level information of cases, containing U.S. county and global data</summary>
+<a href="https://github.com/nychealth/coronavirus-data">New York City Public Health Department</a>: Cases, hospitalizations, deaths by date of diagnosis as well as cases by ZIP code</summary>
 <p>
 
-* Detailed Description: Daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus. Data are extracted from JHU dashboard and made available for kaggle users.
-* Data Resolution: Global, U.S. County
+* Detailed Description: There are a lot of files in the github repo, however only 2 datasets that I think valuable (case-hosp-death.csv and tests-by-zcta.csv). The case-hosp-death accounts cases by date of diagnosis, hospitalized and deaths in NYC hospitals. The latter dataset is cumulative positive cases per zip code
+* Data Resolution: U.S., U.S. ZIP
 * Frequency of update: Daily
-* Download Method: Download
+* Download Method: Download / Clone
   * File type: CSV
 * Cleaning requirements: Minimal
-* Link: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+* Link: https://github.com/nychealth/coronavirus-data
 </p>
 </details>
 
+<details>
+<summary>
+<a href="https://github.com/nytimes/covid-19-data">New York Times Data</a>: Two time-series datasets collected by the New York Times from various U.S. state and local agencies; the first record is aligns with the first case in the United States on 21 January 2020.</summary>
+<p>
+
+* Detailed Description: Two time-series datasets collected by the New York Times from various state and local government agencies; the first record is the first case in the United States on 21 January 2020. One dataset contains information aggregated at the state-level and the other is information broken down by county. Features contained are: date, county/state, fips, cases, and deaths. NOTE: This source only provides information about positive cases.
+* Data Resolution: U.S. States, U.S. County
+* Frequency of update: Daily
+* Download Method: Download / Clone
+  * File type: CSV
+* Cleaning requirements: Minimal
+* Link: https://github.com/nytimes/covid-19-data
+</p>
+</details>
 
 <details>
 <summary>
@@ -126,21 +139,6 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 
 <details>
 <summary>
-<a href="https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19">Patient Medical Data for COVID-19</a>: Medical records of patients infected with COVID-19</summary>
-<p>
-
-* Detailed Description: Patient record including age, sex, location, date of onset, symptoms, travel history, chronic diseases, and date of discharge or death.
-* Data Resolution: Global
-* Frequency of update: Last updated on April 1
-* Download Method: Download
-  * File type: CSV/JSON
-* Cleaning requirements: Minimal
-* Link: https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19
-</p>
-</details>
-
-<details>
-<summary>
 <a href="https://ncov.dxy.cn/ncovh5/view/pneumonia">DXY</a>: A Chinese pandemic tracking online platform showing the number of cases locally and globally</summary>
 <p>
 
@@ -151,37 +149,6 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
   * File type: Text
 * Cleaning requirements: Significant
 * Link: https://ncov.dxy.cn/ncovh5/view/pneumonia
-</p>
-</details>
-
-<details>
-<summary>
-<a href="https://github.com/nychealth/coronavirus-data">New York City Public Health Department</a>: Cases, hospitalizations, deaths by date of diagnosis as well as cases by ZIP code</summary>
-<p>
-
-* Detailed Description: There are a lot of files in the github repo, however only 2 datasets that I think valuable (case-hosp-death.csv and tests-by-zcta.csv). The case-hosp-death accounts cases by date of diagnosis, hospitalized and deaths in NYC hospitals. The latter dataset is cumulative positive cases per zip code
-* Data Resolution: U.S., U.S. ZIP
-* Frequency of update: Daily
-* Download Method: Download / Clone
-  * File type: CSV
-* Cleaning requirements: Minimal
-* Link: https://github.com/nychealth/coronavirus-data
-</p>
-</details>
-
-
-<details>
-<summary>
-<a href="https://github.com/nytimes/covid-19-data">New York Times Data</a>: Two time-series datasets collected by the New York Times from various U.S. state and local agencies; the first record is aligns with the first case in the United States on 21 January 2020.</summary>
-<p>
-
-* Detailed Description: Two time-series datasets collected by the New York Times from various state and local government agencies; the first record is the first case in the United States on 21 January 2020. One dataset contains information aggregated at the state-level and the other is information broken down by county. Features contained are: date, county/state, fips, cases, and deaths. NOTE: This source only provides information about positive cases.
-* Data Resolution: U.S. States, U.S. County
-* Frequency of update: Daily
-* Download Method: Download / Clone
-  * File type: CSV
-* Cleaning requirements: Minimal
-* Link: https://github.com/nytimes/covid-19-data
 </p>
 </details>
 
@@ -325,11 +292,27 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 </p>
 </details>
 
+
+<details>
+<summary>
+<a href="https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19">Patient Medical Data for COVID-19</a>: Medical records of patients infected with COVID-19</summary>
+<p>
+
+* Detailed Description: Patient record including age, sex, location, date of onset, symptoms, travel history, chronic diseases, and date of discharge or death.
+* Data Resolution: Global
+* Frequency of update: Last updated on April 1
+* Download Method: Download
+  * File type: CSV/JSON
+* Cleaning requirements: Minimal
+* Link: https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19
+</p>
+</details>
+
 <details>
 <summary>
 <a href="https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems">WDI Health Systems</a>: Data on the state of each countries healthcare system.</summary>
 <p>
-
+ 
 * Detailed Description: The stated purpose for this data is "Does health spending levels (public or private), or hospital staff have any effect on the rate at which Covid-19 spreads in a country? Can we use this data to predict the rate at which Cases or Fatalities will grow?". It is only data on healthcare expenditures and the amount of healthcare available in countries throughout the world. There is not any direct COVID-19 data, but this could make good supplementary data for a question similar to one they posed as inspiration
 * Data Resolution: Global
 * Frequency of update: Every 2-3 Days
