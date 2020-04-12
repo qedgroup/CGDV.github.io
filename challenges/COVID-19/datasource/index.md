@@ -4,7 +4,7 @@
     display: none;
 }
  </style>
-### Pandemic Data Room
+# Pandemic Data Room
 ## A Resource Provided by The Center for Global Data Visualization
 
 A Pandemic Data Room is a comprehensive global COVID-19 data repository created by a consortium of partners and led by QED Group to improve understanding of the impact of physical distancing policies on social behavior, disease rates, hospital utilization, and local/national economies. This initiative will generate critical information needed to adjust policies to control the outbreak. We hope to bring amazing talent to work on the data and generate new tools that can be used to manage and understand this pandemic.
