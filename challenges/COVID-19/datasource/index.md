@@ -333,7 +333,7 @@ This is just a brief summary of the data given, and what I have found to be the 
 * Download Method: Download
   * File type: CSV
 * Cleaning requirements: Minimal
-* Link: nan
+* Link: https://www.safegraph.com/covid-19-data-consortium
 </p>
 </details>
 
