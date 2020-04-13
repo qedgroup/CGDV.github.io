@@ -454,8 +454,7 @@ https://www.tableau.com/about/blog/2020/4/you-are-almost-definitely-not-qualifie
 * [Coronavirus Case Counts Are Meaningless*](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/), by Nate Silver  
 * [Rates of change are tricky](http://www.thefunctionalart.com/2020/03/rates-of-change-are-tricky.html), by Alberto Cairo  
 
- 
- div.container-lg.px-3.my-5.markdown-body h1 {
+  h1 {
     display: none;
 }
 
