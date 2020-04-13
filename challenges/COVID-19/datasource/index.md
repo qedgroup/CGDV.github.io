@@ -449,8 +449,6 @@ https://www.tableau.com/about/blog/2020/4/you-are-almost-definitely-not-qualifie
 * [Rates of change are tricky](http://www.thefunctionalart.com/2020/03/rates-of-change-are-tricky.html), by Alberto Cairo  
 
   
- div.container-lg.px-3.my-5.markdown-body h1 {
-    display: none;
-}
+  
 
 
