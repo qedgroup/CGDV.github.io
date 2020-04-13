@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <img src="https://cgdv.github.io/assets/img/sunrise.jpg" alt=""/>
 
 
