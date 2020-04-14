@@ -539,7 +539,7 @@ https://www.tableau.com/about/blog/2020/4/you-are-almost-definitely-not-qualifie
 * [10 considerations before you create another chart about COVID-19](https://www.tableau.com/about/blog/2020/3/ten-considerations-you-create-another-chart-about-covid-19), by Amanda Makulec
 * [Coronavirus Case Counts Are Meaningless*](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/), by Nate Silver  
 * [Rates of change are tricky](http://www.thefunctionalart.com/2020/03/rates-of-change-are-tricky.html), by Alberto Cairo  
-* [A conversation with an Epidemiologist: 5 things to keep in mind when you look at the numbers on COVID-19](https://www.tableau.com/about/blog/2020/4/conversation-epidemiologist-5-things-keep-mind-when-you-look-numbers-covid-19?utm_campaign=Awareness-CORE-ALL-ALL-ALL-ALL&utm_medium=Social&utm_source=Twitter&utm_campaign_id=2020207)
+* [A conversation with an Epidemiologist: 5 things to keep in mind when you look at the numbers on COVID-19](https://www.tableau.com/about/blog/2020/4/conversation-epidemiologist-5-things-keep-mind-when-you-look-numbers-covid-19?utm_campaign=Awareness-CORE-ALL-ALL-ALL-ALL&utm_medium=Social&utm_source=Twitter&utm_campaign_id=2020207), by Amanda Makulec
 
  
  
