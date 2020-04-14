@@ -19,6 +19,7 @@ Participate in the <a href="https://cgdv.github.io/challenges/COVID-19/" target=
 
 Contribute to the Pandemic Data Room by submitting a new data source request in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdn74SkcHp3lJ6rv2QTU1VmeliwUe_d6G8H_dFvVf_J_LEeMQ/viewform). We will evaluate your data source and get back to you soon!
 
+Click ▶ to see data source details.
 
 ## Data sources provided by partners  
 <details>
