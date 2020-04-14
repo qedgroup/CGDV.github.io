@@ -22,6 +22,20 @@ Contribute to the Pandemic Data Room by submitting a new data source request in 
 Click ▶ to see data source details.
 
 ## Data sources provided by partners  
+
+<details>
+<summary>
+<a href="www.idsinternational.com">IDS International</a>: Survey Data on Physical Distancing and Hygiene Behaviors in the United States</summary>
+<p>
+<ul>
+<li> Detailed Description: Flattening the curve depends on the population following policies on physical distancing (eg staying home, avoiding contact closer than 6’) and hygiene (eg. washing hands, wearing masks). Getting back to work depends on measuring the effectiveness of policies and behaviors so that governments, institutions, businesses, and individuals can made better decisions on what can be done without triggering new outbreaks. IDS is a data and technology company working to create data collection and analysis tools to better measure compliance and effectiveness of pandemic behavior safety.  
+On April 6th, 2020, IDS conducted an online survey among a nationally representative sample about Physical Distancing and Hygiene Behaviors. See the results of IDS's nationwide poll and survey questions in <a href="https://drive.google.com/drive/folders/14P_mzWfNmottpzMtTpCvvuT1gkotvK5p?usp=sharing">CGDV Google Drive</a>
+</li>
+<li> Data Resolution: US </li>
+<li> File type: .csv </li>
+</ul>
+</p>
+
 <details>
 <summary>
 <a href="https://fraym.io/">Fraym</a>: Geospatial Data For Covid-19 Prevention and Crisis Response</summary>
