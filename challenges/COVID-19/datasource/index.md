@@ -54,7 +54,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <a href="http://www.exovera.com/">Exovera</a>: COVID-19 Realted Articles Published In US Newspaper </summary>
 <p>
 <ul>
-<li> Detailed Description: Exovera provides COVID-19 social media data through its robust API platform. Download data files in [CGDV Google Drive](https://drive.google.com/drive/folders/14P_mzWfNmottpzMtTpCvvuT1gkotvK5p?usp=sharing).
+<li> Detailed Description: Exovera provides COVID-19 social media data through its robust API platform. Download data files in [CGDV Google Drive](https://drive.google.com/drive/folders/14P_mzWfNmottpzMtTpCvvuT1gkotvK5p?usp=sharing). </li>
   <ul>
   <li> politics_coronavirus_rawdata_Jan012020-Apr072020.json: The US Politics dataset is a set of ~1m articles since Jan 01 2020, from ~10k sources both local/national of US newspapers/online news related to US Politics (using an Exovera Classifier that tags politics related content at a high level of recall).  </li>
   <li> coronavirus_english_topSources_04072020.json: Data from the top 500 largest publishers (in English/by reach) in Exovera's overall dataset. The data is collected via API from social media posts that contain URL's from the top publishers.  </li>
