@@ -392,7 +392,7 @@ This is just a brief summary of the data given, and what I have found to be the 
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minimal </li>
-<li> Link: <a href=nan>nan></a></li>
+<li> Link: <a href="https://www.safegraph.com/covid-19-data-consortium">https://www.safegraph.com/covid-19-data-consortium</a></li>
 </ul>
 </p>
 </details>
