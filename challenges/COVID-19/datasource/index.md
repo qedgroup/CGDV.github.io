@@ -519,11 +519,18 @@ This is just a brief summary of the data given, and what I have found to be the 
 * [Tableau Coronavirus Daily Global Tracker](https://www.tableau.com/covid-19-coronavirus-data-resources)
 
 
+## COVID-19 Background Information
+* [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+* [China CDC](http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm)
+* [European CDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
+* [Australian Government Department of Health](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers)
+* [Government of Canada: COVID-19 Outbreak in Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html)
+* [Pixels Camp Covid 19: Outbreak in Portugal](https://www.notion.so/Pixels-Camp-Covid-19-625db3064e5a469db9a13c439c439687)
 
   
     
 ## Experts' Thoughts on Dealing with COVID-19 Data
-In working with COVID-19 Data, we encourage you to recognize both the limitations of the data and your ability to draw conclusions from the list data. The articles below provide some insights on the challenges of COVID-19 data.  
+We encourage you to recognize both the limitations of the data and your ability to draw conclusions from this data. The importance of this COVID-19 means that any visuals created may be displayed in other contexts, and we ask you not to overreach in any conclusions you attempt to draw. See below for a list of articles around this topic.  
  * [You are (almost definitely) not qualified to make predictions about COVID-19. We’re here to help explain why](
 https://www.tableau.com/about/blog/2020/4/you-are-almost-definitely-not-qualified-make-predictions-about-covid-19
 ), by Andy Cotgreave
@@ -532,6 +539,7 @@ https://www.tableau.com/about/blog/2020/4/you-are-almost-definitely-not-qualifie
 * [10 considerations before you create another chart about COVID-19](https://www.tableau.com/about/blog/2020/3/ten-considerations-you-create-another-chart-about-covid-19), by Amanda Makulec
 * [Coronavirus Case Counts Are Meaningless*](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/), by Nate Silver  
 * [Rates of change are tricky](http://www.thefunctionalart.com/2020/03/rates-of-change-are-tricky.html), by Alberto Cairo  
+* [A conversation with an Epidemiologist: 5 things to keep in mind when you look at the numbers on COVID-19](https://www.tableau.com/about/blog/2020/4/conversation-epidemiologist-5-things-keep-mind-when-you-look-numbers-covid-19?utm_campaign=Awareness-CORE-ALL-ALL-ALL-ALL&utm_medium=Social&utm_source=Twitter&utm_campaign_id=2020207)
 
  
  
