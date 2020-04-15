@@ -224,6 +224,44 @@ To read the full report visit <a href="//geopoll.com/blog/coronavirus-africa">ge
 </p>
 </details>
 
+<details>
+<summary>
+<a href="https://github.com/dssg-pt/covid19pt-data">Dados COVID-19 em Portugal - added April 14</a>: Data on COVID-19 cases at the municipality-level in Portugal</summary>
+<p>
+<ul>
+
+<li> Detailed Description: Data sourced from the Portuguese Directorate General of Health on their dashboard site <a href="https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/">Dashboard</a> as well as other reports.</li>
+<li> Data Resolution: Portugal, Municipalities of Portugal</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download / Clone </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Moderate (Data in Portuguese) </li>
+<li> Link: <a href=https://github.com/dssg-pt/covid19pt-data>https://github.com/dssg-pt/covid19pt-data</a></li>
+</ul>
+</p>
+</details>
+
+<details>
+<summary>
+<a href="https://github.com/pcm-dpc/COVID-19">COVID-19 Italia — Dipartimento della Protezione Civile</a>: Italian Dept. of Civil Protection github data on COVID-19 cases</summary>
+<p>
+<ul>
+
+<li> Detailed Description: Data from the arcGIS dashboard set up by the Italian Dept. of Civil Protection. - added April 14 <a href="http://arcg.is/C1unv">Dashboard</a></li>
+<li> Data Resolution: Italy, Regions/Provinces of Italy</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download / Clone </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Moderate (Data in Italian) </li>
+<li> Link: <a href=https://github.com/pcm-dpc/COVID-19>https://github.com/pcm-dpc/COVID-19</a></li>
+</ul>
+</p>
+</details>
+
+
+
 
 ## Government Response Data
 
@@ -518,6 +556,25 @@ This is just a brief summary of the data given, and what I have found to be the 
 </p>
 </details>
 
+<details>
+<summary>
+<a href="https://www.apple.com/covid19/mobility">Apple Mobility Data</a>: Change in routing requests since January 13, 2020 - added April 14</summary>
+<p>
+<ul>
+
+<li> Detailed Description: Data on mobility based on direction requests. Data has variables on transit, walking, and driving.</li>
+<li> Data Resolution: Global, Major World Cities</li>
+<li> Frequency of update: Daily (not sure, first made available April 14) </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href=https://www.apple.com/covid19/mobility>https://www.apple.com/covid19/mobility</a></li>
+</ul>
+</p>
+</details>
+
+
 
 
 ## Academic Data
@@ -540,6 +597,45 @@ This is just a brief summary of the data given, and what I have found to be the 
 </ul>
 </p>
 </details>
+
+<details>
+<summary>
+<a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov">WHO Scientific Knowledge Database - added April 14</a>: Scientific findings and journal articles on COVID-19</summary>
+<p>
+<ul>
+
+<li> Detailed Description: nan</li>
+<li> Data Resolution: Global</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Moderate </li>
+<li> Link: <a href=https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov</a></li>
+</ul>
+</p>
+</details>
+
+<details>
+<summary>
+<a href="https://github.com/ieee8023/covid-chestxray-dataset">Open database of COVID-19 cases with chest X-ray or CT images.</a>: Infectious disease CT / X-ray images from journal publications - added April 14</summary>
+<p>
+<ul>
+
+<li> Detailed Description: Articles submitted by anyone, and images scraped to create the dataset. Variables include basic demographic info, location, and medical condition info.</li>
+<li> Data Resolution: Global</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download / Clone </li>
+<ul>
+  <li> File type: CSV / JPG </li></ul>
+<li> Cleaning requirements: Moderate </li>
+<li> Link: <a href=https://github.com/ieee8023/covid-chestxray-dataset>https://github.com/ieee8023/covid-chestxray-dataset</a></li>
+</ul>
+</p>
+</details>
+
+
+
 
 ## COVID-19 Interactive Dashboard
 * [Johns Hopkins CSSE: Interactive web-based dashboard tracking reported cases](https://coronavirus.jhu.edu/map.html)
