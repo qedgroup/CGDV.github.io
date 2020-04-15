@@ -569,7 +569,7 @@ This is just a brief summary of the data given, and what I have found to be the 
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minimal </li>
-<li> Link: <a href=https://www.apple.com/covid19/mobility>https://www.apple.com/covid19/mobility</a></li>
+<li> Link: <a href="https://www.apple.com/covid19/mobility">https://www.apple.com/covid19/mobility</a></li>
 </ul>
 </p>
 </details>
