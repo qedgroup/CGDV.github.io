@@ -611,7 +611,7 @@ This is just a brief summary of the data given, and what I have found to be the 
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Moderate </li>
-<li> Link: <a href=https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov</a></li>
+<li> Link: <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov</a></li>
 </ul>
 </p>
 </details>
@@ -629,7 +629,7 @@ This is just a brief summary of the data given, and what I have found to be the 
 <ul>
   <li> File type: CSV / JPG </li></ul>
 <li> Cleaning requirements: Moderate </li>
-<li> Link: <a href=https://github.com/ieee8023/covid-chestxray-dataset>https://github.com/ieee8023/covid-chestxray-dataset</a></li>
+<li> Link: <a href="https://github.com/ieee8023/covid-chestxray-dataset>https://github.com/ieee8023/covid-chestxray-dataset"</a></li>
 </ul>
 </p>
 </details>
