@@ -237,7 +237,7 @@ To read the full report visit <a href="//geopoll.com/blog/coronavirus-africa">ge
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Moderate (Data in Portuguese) </li>
-<li> Link: <a href="https://github.com/dssg-pt/covid19pt-data>https://github.com/dssg-pt/covid19pt-data"</a></li>
+<li> Link: <a href="https://github.com/dssg-pt/covid19pt-data">https://github.com/dssg-pt/covid19pt-data"</a></li>
 </ul>
 </p>
 </details>
@@ -255,7 +255,7 @@ To read the full report visit <a href="//geopoll.com/blog/coronavirus-africa">ge
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Moderate (Data in Italian) </li>
-<li> Link: <a href="https://github.com/pcm-dpc/COVID-19>https://github.com/pcm-dpc/COVID-19"</a></li>
+<li> Link: <a href="https://github.com/pcm-dpc/COVID-19">https://github.com/pcm-dpc/COVID-19"</a></li>
 </ul>
 </p>
 </details>
