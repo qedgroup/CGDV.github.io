@@ -305,6 +305,24 @@ To read the full report visit <a href="//geopoll.com/blog/coronavirus-africa">ge
 
 <details>
 <summary>
+<a href="http://www.healthdata.org/covid/data-downloads">IHME</a>: Institute for Health Metrics and Evaluation COVID-19 Estimate Data</summary>
+<p>
+<ul>
+
+<li> Detailed Description: IHME has produced forecasts which show hospital bed use, need for intensive care beds, and ventilator use due to COVID-19 based on projected deaths for the United States, at the country and subnational level, and countries in the European Economic Area (EEA). Forecasts at the subnational level are included for three EEA countries: Germany, Italy, and Spain. These projections are produced by models based on observed death rates from COVID-19, and include uncertainty intervals. They incorporate information about social distancing and other protective measures and are being updated daily with new data. These forecasts were developed in order to provide hospitals, policy makers, and the public with crucial information about how expected need aligns with existing resources, so that cities and countries can best prepare.</li>
+<li> Data Resolution: US, Countries in the European Economic Area (EEA)</li>
+<li> Frequency of update: Last updated at 1 p.m. Pacific, April 13, 2020. as of date 4/15/2020  </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href="http://www.healthdata.org/covid/data-downloads">http://www.healthdata.org/covid/data-downloads</a></li>
+</ul>
+</p>
+</details>
+
+<details>
+<summary>
 <a href="https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds/data?geometry=94.394%2C-16.820%2C-119.356%2C72.123&page=10">USA Hospital Beds</a>: County level data.Contains hospital beds related data(amount, untility rate, bed type, etc)as well as hospital geographic data</summary>
 <p>
 <ul>
