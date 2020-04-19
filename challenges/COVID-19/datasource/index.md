@@ -226,7 +226,7 @@ To read the full report visit <a href="//geopoll.com/blog/coronavirus-africa">ge
 
 <details>
 <summary>
-<a href="https://github.com/dssg-pt/covid19pt-data">Dados COVID-19 em Portugal - added April 14</a>: Data on COVID-19 cases at the municipality-level in Portugal</summary>
+<a href="https://github.com/dssg-pt/covid19pt-data">Dados COVID-19 em Portugal</a>: Data on COVID-19 cases at the municipality-level in Portugal - added April 14</summary>
 <p>
 <ul>
 
@@ -244,11 +244,11 @@ To read the full report visit <a href="//geopoll.com/blog/coronavirus-africa">ge
 
 <details>
 <summary>
-<a href="https://github.com/pcm-dpc/COVID-19">COVID-19 Italia — Dipartimento della Protezione Civile</a>: Italian Dept. of Civil Protection github data on COVID-19 cases</summary>
+<a href="https://github.com/pcm-dpc/COVID-19">COVID-19 Italia — Dipartimento della Protezione Civile</a>: Italian Dept. of Civil Protection github data on COVID-19 cases - added April 14</summary>
 <p>
 <ul>
 
-<li> Detailed Description: Data from the arcGIS dashboard set up by the Italian Dept. of Civil Protection. - added April 14 <a href="http://arcg.is/C1unv">Dashboard</a></li>
+<li> Detailed Description: Data from the arcGIS dashboard set up by the Italian Dept. of Civil Protection.<a href="http://arcg.is/C1unv">Dashboard</a></li>
 <li> Data Resolution: Italy, Regions/Provinces of Italy</li>
 <li> Frequency of update: Daily </li>
 <li> Download Method: Download / Clone </li>
