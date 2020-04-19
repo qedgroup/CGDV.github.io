@@ -260,7 +260,23 @@ To read the full report visit <a href="//geopoll.com/blog/coronavirus-africa">ge
 </p>
 </details>
 
+<details>
+<summary>
+<a href="https://coronavirus.data.gov.uk/#local-authorities">Coronavirus (COVID-19) Data in the UK</a>: Case and death data breakdown in UK - Added April 19</summary>
+<p>
+<ul>
 
+<li> Detailed Description: Compilation of case and death data at the nation, region, and upper tier local authority (UTLA) levels by data.gov.uk</li>
+<li> Data Resolution: UK, Nations, Regions, ULTA</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href="https://coronavirus.data.gov.uk/#local-authorities">https://coronavirus.data.gov.uk/#local-authorities</a></li>
+</ul>
+</p>
+</details>
 
 
 ## Government Response Data
@@ -592,7 +608,58 @@ This is just a brief summary of the data given, and what I have found to be the 
 </p>
 </details>
 
+<details>
+<summary>
+<a href="https://projects.fivethirtyeight.com/coronavirus-polls/">538 Survey Data on US Coronavirus Concern and Response Approval</a>: Surveys conducted on concern about economy and risk of infection and approval of President Trump's response - Added April 19</summary>
+<p>
+<ul>
 
+<li> Detailed Description: 538 compiled surveys from pollsters on concern about the economy, concern about getting infected, and approval of President Trump's response. Users shold use files ending in '_toplines' as this is the data that is used on the site. Polls files show how various polls are weighted to get to topline numbers.</li>
+<li> Data Resolution: US</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href="https://projects.fivethirtyeight.com/coronavirus-polls/">https://projects.fivethirtyeight.com/coronavirus-polls/</a></li>
+</ul>
+</p>
+</details>
+
+<details>
+<summary>
+<a href="https://blog.mozilla.org/data/2020/03/30/opening-data-to-understand-social-distancing/">Mozilla Desktop Usage Data</a>: Daily data on desktop usage and number of active hours per user on Mozilla Firefox - Added April 19</summary>
+<p>
+<ul>
+<li> Data Resolution: Global, Major World Cities, Most US Cities</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Moderate </li>
+<li> Link: <a href="https://blog.mozilla.org/data/2020/03/30/opening-data-to-understand-social-distancing/">https://blog.mozilla.org/data/2020/03/30/opening-data-to-understand-social-distancing/</a></li>
+</ul>
+</p>
+</details>
+
+
+<details>
+<summary>
+<a href="https://www.people-press.org/dataset/covid-19-late-march-2020/">Pew ResearchCenter American Trends Panel</a>: Raw survey data on US social trends with multiple coronavirus questions - Added April 19</summary>
+<p>
+<ul>
+
+<li> Detailed Description: Survey data on american trends. Data is individual-level survey responses for the American Trends Panel by the Pew Research Center. Ensure that you appropriately weighted measures when analyzing this data. The download includes multiple pdf files with the methodology and questionnaire, which should be closely reviewed.</li>
+<li> Data Resolution: US</li>
+<li> Frequency of update: nan </li>
+<li> Download Method: Download (must make an account) </li>
+<ul>
+  <li> File type: SPSS (.SAV) Format </li></ul>
+<li> Cleaning requirements: Significant </li>
+<li> Link: <a href="https://www.people-press.org/dataset/covid-19-late-march-2020/">https://www.people-press.org/dataset/covid-19-late-march-2020/</a></li>
+</ul>
+</p>
+</details>
 
 
 ## Academic Data
@@ -618,7 +685,7 @@ This is just a brief summary of the data given, and what I have found to be the 
 
 <details>
 <summary>
-<a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov">WHO Scientific Knowledge Database - added April 14</a>: Scientific findings and journal articles on COVID-19</summary>
+<a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov">WHO Scientific Knowledge Database</a>: Scientific findings and journal articles on COVID-19 - added April 14</summary>
 <p>
 <ul>
 
