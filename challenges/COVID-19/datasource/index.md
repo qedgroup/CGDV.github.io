@@ -661,6 +661,36 @@ This is just a brief summary of the data given, and what I have found to be the 
 </p>
 </details>
 
+<details>
+<summary>
+<a href="https://covid-survey.dataforgood.fb.com/"> Carnegie Mellon University Delphi Research Center</a>: Self-reported descriptions of COVID-19-related symptoms - Added April 20</summary>
+<p>
+<ul>
+
+<li> Detailed Description: The survey from CMU Delphi Research Center asks people to self-report symptoms associated with COVID-19 or the flu that they or anyone in their household has experienced in the last 24 hours. Data are gathered nationwide with the help of Facebook and Google. High correlation between self-reported descriptions of COVID-19-related symptoms and test-confirmed cases of the disease suggests self-reports might soon help the researchers in forecasting COVID-19 activity.
+
+
+Delphi COVID-19 Response Team develops API for accessing the Delphi's COVID-19 Surveillance Streams (covidcast) data source of the Delphi's epidemiological data. COVIDcast displays signals related to COVID-19 activity levels across the United States, derived from a variety of anonymized, aggregated data sources made available by multiple partners.
+Each signal may reflect the prevalence of COVID-19 infection, mild symptoms, or more severe disease over time. Each signal can be presented at multiple geographic resolutions: state, county, and/or metropolitan area. All these signals taken together may suggest heightened or rising COVID-19 activity in specific locations.
+
+Find home of Delphi's epidemiological data API [here](https://cmu-delphi.github.io/delphi-epidata/api/)
+
+Find Delphi's webpage [here](https://delphi.cmu.edu/)
+
+Find Facebook & Carnegie Mellon University COVID-19 Symptom Map [here](https://covid-survey.dataforgood.fb.com/)
+
+</li>
+<li> Data Resolution: US county</li>
+<li> Frequency of update: daily </li>
+<li> Download Method: Web Scraping using API. Libraries and Code Samples are available for CoffeeScript, JavaScript, Python, and R.</li>
+<ul>
+  <li> File type: SPSS (.SAV) Format </li></ul>
+<li> Cleaning requirements: Significant </li>
+<li> Link: <a href="https://cmu-delphi.github.io/delphi-epidata/api/</a></li>
+</ul>
+</p>
+</details>
+
 
 ## Academic Data
 
