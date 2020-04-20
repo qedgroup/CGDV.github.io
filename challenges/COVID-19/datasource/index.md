@@ -675,7 +675,7 @@ Each signal may reflect the prevalence of COVID-19 infection, mild symptoms, or 
 
 Find home of Delphi's epidemiological data API [here](https://cmu-delphi.github.io/delphi-epidata/api/)
 
-Find Delphi's webpage [here](https://delphi.cmu.edu/)
+Find Delphi's homepage [here](https://delphi.cmu.edu/)
 
 Find Facebook & Carnegie Mellon University COVID-19 Symptom Map [here](https://covid-survey.dataforgood.fb.com/)
 
