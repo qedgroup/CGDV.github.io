@@ -683,10 +683,8 @@ Find Facebook & Carnegie Mellon University COVID-19 Symptom Map [here](https://c
 <li> Data Resolution: US county</li>
 <li> Frequency of update: daily </li>
 <li> Download Method: Web Scraping using API. Libraries and Code Samples are available for CoffeeScript, JavaScript, Python, and R.</li>
-<ul>
-  <li> File type: SPSS (.SAV) Format </li></ul>
 <li> Cleaning requirements: Significant </li>
-<li> Link: <a href="https://cmu-delphi.github.io/delphi-epidata/api/</a></li>
+<li> Link: <a href="https://cmu-delphi.github.io/delphi-epidata/api/">https://cmu-delphi.github.io/delphi-epidata/api/</a></li>
 </ul>
 </p>
 </details>
