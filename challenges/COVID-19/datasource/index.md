@@ -38,7 +38,7 @@ Click ▶ to see data source details.
 
 <details>
 <summary>
-<a href="//www.idsinternational.com">IDS International</a>: Survey Data on Physical Distancing and Hygiene Behaviors in the United States</summary>
+<a href="//www.idsinternational.com">IDS International and Clear Outcomes</a>: Survey Data on Physical Distancing and Hygiene Behaviors in the United States</summary>
 <p>
 <ul>
 <li> Detailed Description: Flattening the curve depends on the population following policies on physical distancing (e.g., staying home, avoiding contact closer than 6’) and hygiene (e.g., washing hands, wearing masks). Getting back to work depends on measuring the effectiveness of policies and behaviors so that governments, institutions, businesses, and individuals can make better decisions on what can be done without triggering new outbreaks. IDS is a data and technology company working to create data collection and analysis tools to better measure compliance and effectiveness of pandemic behavior safety.  
