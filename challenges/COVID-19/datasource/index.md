@@ -66,7 +66,7 @@ CGDV has requested the above data layers for countries including Guatemala, Keny
 
 <details>
 <summary>
-<a href="https://www.geopoll.com//">Geopoll</a>: Coronavirus In Sub-Saharan Africa</summary>
+<a href="https://www.geopoll.com//">Geopoll</a>: Coronavirus In Sub-Saharan Africa -- Updated April 21</summary>
 <p>
 <ul>
 <li> Detailed Description: As a research organization that conducts remote research, GeoPoll takes an initiative to assist the global response to coronavirus. From March 10th – 13th, 2020, GeoPoll administered a <a href='https://www.geopoll.com/blog/coronavirus-africa/'>first-round survey</a> on the knowledge of and perceptions towards coronavirus in South Africa, Kenya, and Nigeria. This survey examined awareness levels, primary information sources, knowledge of how to prevent the virus, and levels of worry.
