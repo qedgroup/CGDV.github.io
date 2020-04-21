@@ -70,10 +70,10 @@ CGDV has requested the above data layers for countries including Guatemala, Keny
 <p>
 <ul>
 <li> Detailed Description: As a research organization that conducts remote research, GeoPoll takes an initiative to assist the global response to coronavirus. From March 10th – 13th, 2020, GeoPoll administered a <a href='https://www.geopoll.com/blog/coronavirus-africa/'>first-round survey</a> on the knowledge of and perceptions towards coronavirus in South Africa, Kenya, and Nigeria. This survey examined awareness levels, primary information sources, knowledge of how to prevent the virus, and levels of worry.
-</br>
-</br> On April 15th, Geopoll further conducted a <a href='https://www.geopoll.com/blog/report-covid-19-coronavirus-africa/'>second-round survey </a> about How Africans in 12 Nations are Responding to the COVID-19 Outbreak. The remote study examined the effects coronavirus is already having on people throughout the region.
-</br>
-</br>Click links above to read full reports of both surveys. Download a copy of the survey data in <a href="https://drive.google.com/drive/folders/14P_mzWfNmottpzMtTpCvvuT1gkotvK5p?usp=sharing">CGDV Google Drive</a>. </li>
+<br>
+<br> On April 15th, Geopoll further conducted a <a href='https://www.geopoll.com/blog/report-covid-19-coronavirus-africa/'>second-round survey </a> about How Africans in 12 Nations are Responding to the COVID-19 Outbreak. The remote study examined the effects coronavirus is already having on people throughout the region.
+<br>
+<br>Click links above to read full reports of both surveys. Download a copy of the survey data in <a href="https://drive.google.com/drive/folders/14P_mzWfNmottpzMtTpCvvuT1gkotvK5p?usp=sharing">CGDV Google Drive</a>. </li>
 <li> Data Resolution: County in African countries </li>
 <li> File type: Excel </li>
 </ul>
