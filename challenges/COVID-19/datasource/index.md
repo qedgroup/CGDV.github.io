@@ -282,6 +282,26 @@ CGDV has requested the above data layers for countries including Guatemala, Keny
 </p>
 </details>
 
+<details>
+<summary>
+<a href="https://covidtracking.com/about-project">COVID Tracking Project</a>: US  data on COVID-19 testing and patient outcomes - Added April 21</summary>
+<p>
+<ul>
+
+<li> Detailed Description: The COVID Tracking Project is a volunteer organization launched from The Atlantic and dedicated to collecting and publishing the data required to understand the COVID-19 outbreak in the United States. Every day, they collect data on COVID-19 testing and patient outcomes from all 50 states, 5 territories, and the District of Columbia. Their dataset is currently in use by national and local news organizations across the US and by research projects and agencies worldwide.
+
+</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV, .json  </li></ul>
+<li> Cleaning requirements: Moderate </li>
+<li> Link: <a href="https://covidtracking.com/api">https://covidtracking.com/api</a></li>
+</ul>
+</p>
+</details>
+
+
 
 ## Government Response Data
 
