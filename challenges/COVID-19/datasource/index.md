@@ -69,8 +69,11 @@ CGDV has requested the above data layers for countries including Guatemala, Keny
 <a href="https://www.geopoll.com//">Geopoll</a>: Coronavirus In Sub-Saharan Africa</summary>
 <p>
 <ul>
-<li> Detailed Description: As a research organization that conducts remote research, GeoPoll takes an initiative to assist the global response to coronavirus. From March 10th – 13th, 2020, GeoPoll administered a survey on the knowledge of and perceptions towards coronavirus in South Africa, Kenya, and Nigeria. The study was conducted among 1,350 respondents, nationally representative by location in each country and with a 50-50 gender split, and an age split of 33% ages 15-24, 35% ages 25-34, and 32% ages 35+.  
-To read the full report visit <a href="https://www.geopoll.com/blog/coronavirus-africa/">https://www.geopoll.com/blog/coronavirus-africa/</a>. Download a copy of survey data in <a href="https://drive.google.com/drive/folders/14P_mzWfNmottpzMtTpCvvuT1gkotvK5p?usp=sharing">CGDV Google Drive</a>. </li>
+<li> Detailed Description: As a research organization that conducts remote research, GeoPoll takes an initiative to assist the global response to coronavirus. From March 10th – 13th, 2020, GeoPoll administered a <a href='https://www.geopoll.com/blog/coronavirus-africa/'>first-round survey</a> on the knowledge of and perceptions towards coronavirus in South Africa, Kenya, and Nigeria. This survey examined awareness levels, primary information sources, knowledge of how to prevent the virus, and levels of worry.
+</br>
+</br> On April 15th, Geopoll further conducted a <a href='https://www.geopoll.com/blog/report-covid-19-coronavirus-africa/'>second-round survey </a> about How Africans in 12 Nations are Responding to the COVID-19 Outbreak. The remote study examined the effects coronavirus is already having on people throughout the region.
+</br>
+</br>Click links above to read full reports of both surveys. Download a copy of the survey data in <a href="https://drive.google.com/drive/folders/14P_mzWfNmottpzMtTpCvvuT1gkotvK5p?usp=sharing">CGDV Google Drive</a>. </li>
 <li> Data Resolution: County in African countries </li>
 <li> File type: Excel </li>
 </ul>
