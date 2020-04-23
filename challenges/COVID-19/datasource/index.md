@@ -336,6 +336,26 @@ CGDV has requested the above data layers for countries including Guatemala, Keny
 </p>
 </details>
 
+<details>
+<summary>
+<a href="https://ourworldindata.org/coronavirus#testing-for-covid-19">Our World in Data</a>: COVID-19 Testing Dataset - Added April 23</summary>
+<p>
+<ul>
+
+<li> Detailed Description: Testing is our window onto the pandemic and how it is spreading. Without testing we have no way of understanding the pandemic. Goal of 
+Our World in Data is to provide testing data over time for many countries around the world. Alongside the data, they also provides a good understanding of the definitions used and any important limitations they might have. You will also find descriptions of the data for each country.
+</li>
+<li> Data Resolution: Country</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV, excel  </li></ul>
+<li> Cleaning requirements: Moderate </li>
+<li> Link: <a href="https://github.com/owid/covid-19-data/tree/master/public/data/testing">https://github.com/owid/covid-19-data/tree/master/public/data/testing</a></li>
+</ul>
+</p>
+</details>
+
 ## Government Response Data
 
 <details>
