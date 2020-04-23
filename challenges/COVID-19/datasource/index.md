@@ -302,7 +302,39 @@ CGDV has requested the above data layers for countries including Guatemala, Keny
 </p>
 </details>
 
+<details>
+<summary>
+<a href="https://github.com/dsfsi/covid19za">Coronavirus (COVID-19) Data in South Africa</a>: Data compiled from the Department of Health and other Health sources in South Africa - Added April 24</summary>
+<p>
+<ul>
 
+<li> Data Resolution: South Africa, South African States/Provinces</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download / Clone </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal/Moderate </li>
+<li> Link: <a href="https://github.com/dsfsi/covid19za">https://github.com/dsfsi/covid19za</a></li>
+</ul>
+</p>
+</details>
+
+<details>
+<summary>
+<a href="https://github.com/dsfsi/covid19africa">Coronavirus (COVID-19) Data for Africa</a>: Data compiled from WHO and various national health agencies in Africa. Data on coronavirus case numbers and information on invidiaul cases - Added April 24</summary>
+<p>
+<ul>
+
+<li> Data Resolution: Africa Aggregate, African Nations with some state/province</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download / Clone </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal/Moderate </li>
+<li> Link: <a href="https://github.com/dsfsi/covid19africa">https://github.com/dsfsi/covid19africa</a></li>
+</ul>
+</p>
+</details>
 
 ## Government Response Data
 
