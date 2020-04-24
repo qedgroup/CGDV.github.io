@@ -830,6 +830,7 @@ Each signal may reflect the prevalence of COVID-19 infection, mild symptoms, or 
 * [Johns Hopkins CSSE: Interactive web-based dashboard tracking reported cases](https://coronavirus.jhu.edu/map.html)
 * [Live World Health Organization Dashboard](https://who.sprinklr.com/)
 * [Tableau Coronavirus Daily Global Tracker](https://www.tableau.com/covid-19-coronavirus-data-resources)
+* [U.S. Health Weather Map](https://healthweather.us/?mode=Atypical)
 
 
 ## COVID-19 Background Information
