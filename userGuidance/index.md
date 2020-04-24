@@ -52,6 +52,8 @@ Find the iframe embed code.
 
 Copy and paste embded code into embed code box on CDGV.
 
+If your plotly visual is interactive, please use the public URL from Link & Privacy to upload your submission. 
+
 * Flourish
 
 Publish your Flourish visual. 
