@@ -1,12 +1,16 @@
 # CGDV COVID-19 Challenge Submission Guidance
-Participants should follow this step by step instructions on uploading visuals to CGDV platform. Incomplete submissions will not be considered. If you have any questions, please send email to xning@qedgroupllc.com. 
+Participants should follow this step by step instructions on uploading visuals to CGDV platform. Incomplete submissions will not be considered. If you have any questions, please send email to datachallenge@qedgroupllc.com. 
 
 ## Step 1 
 
 Go to [Center for Global Data Visualization](https://www.centerforglobaldata.org/authentication/signin), create an account and complete the profile with a photo. Then start your submission through "My Visuals" button on the top right.
 
 ## Step 2
-Fill out all information needed including Visualization Title, Country, University or Organization, challenge and Data Source. For team submission, you can add you team members by using "Multiple Users for this Submission" option at the bottom.
+Fill out all information in the form otherwise your submission won't be considered:
+* Visualization Title: title of your visual
+* Visualization Country
+
+needed including Visualization Title, Country, University or Organization, challenge and Data Source. For team submission, you can add you team members by using "Multiple Users for this Submission" option at the bottom.
 
 ## Step 3 Upload your visual
 
