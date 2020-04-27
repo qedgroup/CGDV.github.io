@@ -10,8 +10,8 @@ Fill out ALL information in the form otherwise your submission won't be consider
 * Visualization Title: Enter title of your visual.
 * Visualization Country: Enter country you are located at.
 * University or Organization: For student, choose the university you are currently attending to. For profession, choose the organization you are currently working for. If you don't find your university or organization in the list, choose other at the bottom to add. 
-* Category: category of your visual
-Challenge: Please select COVID-19.
+* Category: Choose the appropriate category for your submission.
+* Challenge: Please select COVID-19.
 * Data Source: Enter link of data source you used for the visual and use comma to separate multiple sources. 
 * Tags: Enter tag of your visual and use comma to separate multiple tags.
 * Participant Team Type: Select either a student or professional track.
