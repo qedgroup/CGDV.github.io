@@ -6,7 +6,7 @@ Participants should follow this step by step instructions on uploading visuals t
 Go to [Center for Global Data Visualization](https://www.centerforglobaldata.org/authentication/signin), create an account and complete the profile with a photo. Then start your submission through "My Visuals" button on the top right.
 
 ## Step 2
-Fill out all information in the form otherwise your submission won't be considered:
+Fill out ALL information in the form otherwise your submission won't be considered:
 * Visualization Title: Enter title of your visual.
 * Visualization Country: Enter country you are located at.
 * University or Organization: For student, choose the university you are currently attending to. For profession, choose the organization you are currently working for. If you don't find your university or organization in the list, choose other at the bottom to add. 
@@ -106,6 +106,5 @@ Upload a cover picture for your visual. Your cover picture along with your visul
 
 ## Step 6 Double check your submission 
 
-Go to "My Visuals" on CGDV, scroll down and you should see you submission. Go into your submission and make sure everything looks good. In addition, make sure your submission has a profile picture.
-
+Go to "My Visuals" on CGDV, scroll down and you should see you submission. Go into your submission and make sure everything looks good.
 
