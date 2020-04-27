@@ -7,10 +7,19 @@ Go to [Center for Global Data Visualization](https://www.centerforglobaldata.org
 
 ## Step 2
 Fill out all information in the form otherwise your submission won't be considered:
-* Visualization Title: title of your visual
-* Visualization Country
+* Visualization Title: Enter title of your visual.
+* Visualization Country: Enter country you are located at.
+* University or Organization: For student, choose the university you are currently attending to. For profession, choose the organization you are currently working for. If you don't find your university or organization in the list, choose other at the bottom to add. 
+* Category: category of your visual
+Challenge: Please select COVID-19.
+* Data Source: Enter link of data source you used for the visual and use comma to separate multiple sources. 
+* Tags: Enter tag of your visual and use comma to separate multiple tags.
+* Participant Team Type: Select either a student or professional track.
+* Embed, Description: Find more details in Step 3 and Step 4 below. 
+* Allow Comments: Check if you allow comments for your visual from other CGDV users. 
+* Multiple Users for this Submission: Check if you are working with other people in the challenge, then select name of your team members. Each team should only make one submission but please make sure that all team members are registered as CGDV users. 
+* Visual's cover picture: Find more details in Step 5.
 
-needed including Visualization Title, Country, University or Organization, challenge and Data Source. For team submission, you can add you team members by using "Multiple Users for this Submission" option at the bottom.
 
 ## Step 3 Upload your visual
 
