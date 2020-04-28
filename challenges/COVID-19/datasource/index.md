@@ -99,7 +99,7 @@ CGDV has requested the above data layers for countries including Guatemala, Keny
 
 <details>
 <summary>
-<a href="http://www.exovera.com/">Exovera</a>: COVID-19 Realted Articles Published In US Newspaper </summary>
+<a href="http://www.exovera.com/">Exovera</a>: COVID-19 Related Articles Published In US Newspaper </summary>
 <p>
 <ul>
 <li> Detailed Description: Exovera provides COVID-19 social media data through its robust API platform. Download data files in <a href="https://drive.google.com/drive/folders/14P_mzWfNmottpzMtTpCvvuT1gkotvK5p?usp=sharing">CGDV Google Drive</a>. </li>
@@ -432,7 +432,7 @@ Our World in Data is to provide testing data over time for many countries around
 
 <details>
 <summary>
-<a href="https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds/data?geometry=94.394%2C-16.820%2C-119.356%2C72.123&page=10">USA Hospital Beds</a>: County level data.Contains hospital beds related data(amount, untility rate, bed type, etc)as well as hospital geographic data</summary>
+<a href="https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds/data?geometry=94.394%2C-16.820%2C-119.356%2C72.123&page=10">USA Hospital Beds</a>: County level data. Contains hospital beds related data(amount, untility rate, bed type, etc)as well as hospital geographic data</summary>
 <p>
 <ul>
 
