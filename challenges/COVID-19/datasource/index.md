@@ -119,12 +119,13 @@ CGDV has requested the above data layers for countries including Guatemala, Keny
     <a href="https://clearoutcomes.net/covid19/covid-19-us-maps/">IDS International and Clear Outcomes</a>: Contact tracing, rapid testing, and antibody testing data for US States - added April 29</summary>
   <p>
     <ul>
-      <li> Detailed Description: Clear Outcomes and IDS compiled information on state COVID-19 testing resources April 20-23. Detailed methods are described on the <a href="https://clearoutcomes.net/covid19/covid-19-us-maps/">data webpage</a>.
+      <li> Detailed Description: Clear Outcomes and IDS compiled information on state COVID-19 testing resources April 20-23. Detailed methods are described on the <a href="https://clearoutcomes.net/covid19/covid-19-us-maps/">data webpage</a>.</li>
       <li> Data Resolution: US States </li>
       <li> File type: .json, .xlsx </li>
     </ul>
   </p>
 </details>
+
 
 ## COVID-19 Case Data  
 
