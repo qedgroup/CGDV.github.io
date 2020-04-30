@@ -55,11 +55,15 @@ Click ▶ to see data source details.
 
 <details>
 <summary>
-<a href="//www.idsinternational.com">IDS International and Clear Outcomes</a>: Survey Data on Physical Distancing and Hygiene Behaviors in the United States</summary>
+<a href="https://clearoutcomes.net/covid19/covid-19-us-maps/">IDS International and Clear Outcomes</a>: Survey Data on Physical Distancing and Hygiene Behaviors in the United States</summary>
 <p>
 <ul>
 <li> Detailed Description: Flattening the curve depends on the population following policies on physical distancing (e.g., staying home, avoiding contact closer than 6’) and hygiene (e.g., washing hands, wearing masks). Getting back to work depends on measuring the effectiveness of policies and behaviors so that governments, institutions, businesses, and individuals can make better decisions on what can be done without triggering new outbreaks. IDS is a data and technology company working to create data collection and analysis tools to better measure compliance and effectiveness of pandemic behavior safety.  
-On April 6th, 2020, IDS conducted an online survey among a nationally representative sample about Physical Distancing and Hygiene Behaviors. See and download latest results of IDS's nationwide poll, summary for survey results and survey questions <a href="https://docs.google.com/document/d/13MWuEBU9a7Z9ShqZKCmNeGZn4yDMdDje5M7RT2E6G54/edit">here</a>.</li>
+On April 6th, 2020, <a href="https://www.idsinternational.com/">IDS</a> conducted an online survey among a nationally representative sample about Physical Distancing and Hygiene Behaviors. This test was also conducted April 20-24. See and download latest results of the Clear Outcomes and IDS nationwide poll, summary for survey results, and survey questions at the following links:<ul> <li> <a href="https://docs.google.com/document/d/13MWuEBU9a7Z9ShqZKCmNeGZn4yDMdDje5M7RT2E6G54/edit">Round 1 survey</a></li>
+  <li><a href="https://docs.google.com/document/d/1Qm1fLC3tjZ5RDa05SmFzguqjbmRUmRAalC3MJ-sSAPg/edit">Round 2 survey</a></li>
+  <li><a href="https://docs.google.com/document/d/13MWuEBU9a7Z9ShqZKCmNeGZn4yDMdDje5M7RT2E6G54/edit">Info on both</a></li>
+  </ul>
+  </li>
 <li> Data Resolution: US </li>
 <li> File type: .csv </li>
 </ul>
