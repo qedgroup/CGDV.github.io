@@ -386,6 +386,24 @@ Our World in Data is to provide testing data over time for many countries around
 </p>
 </details>
 
+
+<details>
+<summary>
+<a href="http://data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15043376">Korean Ministry of Health Data</a>: Korean COVID-19 statistics, dataset is in Korean - Added April 30</summary>
+<p>
+<ul>
+
+<li> Data Resolution: Korea</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Api </li>
+<ul>
+  <li> File type: XML </li></ul>
+<li> Cleaning requirements: Minimal/Moderate </li>
+<li> Link: <a href="http://data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15043376">http://data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15043376</a></li>
+</ul>
+</p>
+</details>
+
 <h2> Government Response Data </h2>
 
 <details>
@@ -795,6 +813,41 @@ Each signal may reflect the prevalence of COVID-19 infection, mild symptoms, or 
 </p>
 </details>
 
+<details>
+<summary>
+<a href="https://purl.stanford.edu/tr461wp6422">Stanford COVID-19 Survey Data</a>: Survey data of US and UK citizens on COVID-19 - Added April 30</summary>
+<p>
+<ul>
+
+<li> Detailed Description: Survey results for US and UK citizen's knowledge and perceptions on COVID-19</li>
+<li> Data Resolution: US and UK</li>
+<li> Frequency of update: Static </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href="https://purl.stanford.edu/tr461wp6422">https://purl.stanford.edu/tr461wp6422</a></li>
+</ul>
+</p>
+</details>
+
+<details>
+<summary>
+<a href="https://en.monitordasdoacoes.org.br/">Brazilian COVID 19 Donations Monitor</a>: Website tracking the donations to fight COVID-19 and amounts - Added April 30</summary>
+<p>
+<ul>
+
+<li> Detailed Description: Dataset tracking major donors, donation amount, and sectors information announced publicly in Brazil in response to COVID 19</li>
+<li> Data Resolution: Brazil</li>
+<li> Frequency of update: Weekly </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: XLSX </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href="https://en.monitordasdoacoes.org.br/">https://en.monitordasdoacoes.org.br/</a></li>
+</ul>
+</p>
+</details>
 
 <h2> Academic Data </h2>
 
@@ -854,7 +907,42 @@ Each signal may reflect the prevalence of COVID-19 infection, mild symptoms, or 
 </details>
 
 
+<details>
+<summary>
+<a href="https://bigd.big.ac.cn/ncov">Chinese National Bioinformatics Center Data</a>: Genomic sequences and variation data submitted by researchers around the world - Added April 30</summary>
+<p>
+<ul>
 
+<li> Data Resolution: Global</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: fasta </li></ul>
+<li> Cleaning requirements: Minimal/Moderate </li>
+<li> Link: <a href="https://bigd.big.ac.cn/ncov">https://bigd.big.ac.cn/ncov</a></li>
+</ul>
+</p>
+</details>
+
+<h2> Other Relevant Data </h2>
+
+<details>
+<summary>
+<a href="https://www.airnow.gov/international/us-embassies-and-consulates">AirNow Data</a>: Real time air quality data for major world cities and US locations - Added April 30</summary>
+<p>
+<ul>
+
+<li> Detailed Description: Link goes to the Embassies and Consulates section where you can click a specific city, then choose the historical tab to download csv files for specific years of air quality data. There is also a developer API located here <a href="https://docs.airnowapi.org/">https://docs.airnowapi.org/</a>.</li>
+<li> Data Resolution: Global, Major World Cities, US Cities</li>
+<li> Frequency of update: Hourly </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Moderate </li>
+<li> Link: <a href="https://www.airnow.gov/international/us-embassies-and-consulates">https://www.airnow.gov/international/us-embassies-and-consulates</a></li>
+</ul>
+</p>
+</details>
 
 <h2> COVID-19 Interactive Dashboard </h2>
 
